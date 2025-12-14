@@ -1,0 +1,101 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual Environments
+venv/
+.env/
+.venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+.profile_default/
+.ipython/
+
+# Streamlit
+.streamlit/
+.streamlit/config.toml
+.streamlit/secrets.toml
+
+# OS / Editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Logs & temp files
+*.log
+*.tmp
+*.temp
+
+# Unchanged/raw data
+data/*.parquet
+data/*.xlsx
+data/*.zip
+
+!data/README.md
+!data/*.schema.json
+
+
+# Geo data 
+data/*.geojson
+data/*.shp
+data/*.dbf
+data/*.shx
+data/*.prj
+
+# 
+# Notebooks outputs
+# 
+notebooks/**/output/
+notebooks/**/figures/
+
+# 
+# Exports
+# 
+exports/
+reports/
+figures/
+
+# 
+# Secrets / credentials
+# 
+*.env
+*.key
+*.pem
+*.json
+credentials/
+secrets/
+
+# 
+# Build / cache
+# 
+build/
+dist/
+.cache/
+
+# 
+# Coverage / testing
+# 
+.coverage
+htmlcov/
+
+# 
+# OS-specific Python build junk
+# 
+pip-wheel-metadata/
