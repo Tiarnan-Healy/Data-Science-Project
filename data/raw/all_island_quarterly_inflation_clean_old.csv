@@ -1,0 +1,2358 @@
+County,Year,Quarter,Period,Inflation_Rate,real_avg_price,Region,is_ni,transaction_count,avg_price
+Carlow,2010,1,2010 Q1,-3.37,177792.12,Republic of Ireland,False,23.0,171836.96
+Carlow,2010,2,2010 Q2,-1.33,181996.35,Republic of Ireland,False,25.0,177037.0
+Carlow,2010,3,2010 Q3,0.2,179568.78,Republic of Ireland,False,33.0,164772.73
+Carlow,2010,4,2010 Q4,0.93,166736.86,Republic of Ireland,False,31.0,195185.81
+Carlow,2011,1,2011 Q1,2.27,160972.85,Republic of Ireland,False,20.0,161475.0
+Carlow,2011,2,2011 Q2,2.87,138161.47,Republic of Ireland,False,28.0,129868.75
+Carlow,2011,3,2011 Q3,2.43,122479.54,Republic of Ireland,False,30.0,125825.0
+Carlow,2011,4,2011 Q4,2.7,123048.62,Republic of Ireland,False,30.0,114411.83
+Carlow,2012,1,2012 Q1,2.13,115122.82,Republic of Ireland,False,27.0,113648.15
+Carlow,2012,2,2012 Q2,1.8,104048.1,Republic of Ireland,False,40.0,106701.98
+Carlow,2012,3,2012 Q3,1.77,116196.94,Republic of Ireland,False,50.0,118720.75
+Carlow,2012,4,2012 Q4,1.07,98274.53,Republic of Ireland,False,61.0,102775.98
+Carlow,2013,1,2013 Q1,0.97,149943.41,Republic of Ireland,False,33.0,110106.06
+Carlow,2013,2,2013 Q2,0.53,115939.39,Republic of Ireland,False,61.0,115076.31
+Carlow,2013,3,2013 Q3,0.3,97623.52,Republic of Ireland,False,50.0,99289.0
+Carlow,2013,4,2013 Q4,0.23,105780.84,Republic of Ireland,False,98.0,103165.99
+Carlow,2014,1,2014 Q1,0.07,105512.09,Republic of Ireland,False,47.0,102015.96
+Carlow,2014,2,2014 Q2,0.37,101110.5,Republic of Ireland,False,68.0,98200.0
+Carlow,2014,3,2014 Q3,0.37,117954.44,Republic of Ireland,False,83.0,112891.57
+Carlow,2014,4,2014 Q4,-0.03,121767.26,Republic of Ireland,False,112.0,111268.82
+Carlow,2015,1,2015 Q1,-0.6,129444.72,Republic of Ireland,False,76.0,116039.47
+Carlow,2015,2,2015 Q2,-0.43,120997.39,Republic of Ireland,False,81.0,111160.16
+Carlow,2015,3,2015 Q3,-0.17,128089.23,Republic of Ireland,False,102.0,105099.67
+Carlow,2015,4,2015 Q4,-0.07,128741.99,Republic of Ireland,False,118.0,122689.83
+Carlow,2016,1,2016 Q1,-0.13,124450.81,Republic of Ireland,False,82.0,128237.8
+Carlow,2016,2,2016 Q2,0.17,136913.09,Republic of Ireland,False,79.0,131873.42
+Carlow,2016,3,2016 Q3,0.13,139651.2,Republic of Ireland,False,108.0,136297.5
+Carlow,2016,4,2016 Q4,-0.07,146241.18,Republic of Ireland,False,131.0,140251.91
+Carlow,2017,1,2017 Q1,0.57,144057.75,Republic of Ireland,False,78.0,140705.13
+Carlow,2017,2,2017 Q2,0.23,137119.06,Republic of Ireland,False,100.0,135453.5
+Carlow,2017,3,2017 Q3,0.2,163995.65,Republic of Ireland,False,99.0,159219.7
+Carlow,2017,4,2017 Q4,0.47,146789.85,Republic of Ireland,False,118.0,144063.98
+Carlow,2018,1,2018 Q1,0.23,155108.96,Republic of Ireland,False,108.0,146665.67
+Carlow,2018,2,2018 Q2,0.17,164237.27,Republic of Ireland,False,105.0,156075.18
+Carlow,2018,3,2018 Q3,0.77,188874.64,Republic of Ireland,False,119.0,175593.15
+Carlow,2018,4,2018 Q4,0.73,169286.8,Republic of Ireland,False,148.0,158490.39
+Carlow,2019,1,2019 Q1,0.83,166112.45,Republic of Ireland,False,88.0,169731.25
+Carlow,2019,2,2019 Q2,1.17,176542.22,Republic of Ireland,False,96.0,170027.27
+Carlow,2019,3,2019 Q3,0.7,170024.37,Republic of Ireland,False,137.0,161082.58
+Carlow,2019,4,2019 Q4,1.03,178929.19,Republic of Ireland,False,124.0,162904.78
+Carlow,2020,1,2020 Q1,1.03,167892.57,Republic of Ireland,False,108.0,168929.99
+Carlow,2020,2,2020 Q2,-0.3,156737.82,Republic of Ireland,False,74.0,149459.62
+Carlow,2020,3,2020 Q3,-0.93,220636.35,Republic of Ireland,False,75.0,171435.29
+Carlow,2020,4,2020 Q4,-1.13,259853.48,Republic of Ireland,False,148.0,194610.1
+Carlow,2021,1,2021 Q1,-0.23,170547.27,Republic of Ireland,False,139.0,159288.56
+Carlow,2021,2,2021 Q2,1.4,217657.16,Republic of Ireland,False,98.0,184390.69
+Carlow,2021,3,2021 Q3,2.93,200023.08,Republic of Ireland,False,132.0,196000.17
+Carlow,2021,4,2021 Q4,5.27,243043.95,Republic of Ireland,False,151.0,222251.74
+Carlow,2022,1,2022 Q1,5.77,213769.94,Republic of Ireland,False,104.0,197520.19
+Carlow,2022,2,2022 Q2,7.97,211495.33,Republic of Ireland,False,139.0,221837.84
+Carlow,2022,3,2022 Q3,8.7,210998.61,Republic of Ireland,False,127.0,221496.06
+Carlow,2022,4,2022 Q4,8.8,233288.14,Republic of Ireland,False,163.0,236643.31
+Carlow,2023,1,2023 Q1,7.97,232833.27,Republic of Ireland,False,134.0,232072.96
+Carlow,2023,2,2023 Q2,6.63,226517.43,Republic of Ireland,False,101.0,223268.32
+Carlow,2023,3,2023 Q3,6.23,236080.7,Republic of Ireland,False,128.0,238984.38
+Carlow,2023,4,2023 Q4,4.5,226053.06,Republic of Ireland,False,159.0,223536.3
+Carlow,2024,1,2024 Q1,3.47,243955.8,Republic of Ireland,False,97.0,240634.02
+Carlow,2024,2,2024 Q2,2.47,239990.81,Republic of Ireland,False,116.0,213202.04
+Carlow,2024,3,2024 Q3,1.53,252209.67,Republic of Ireland,False,112.0,258038.81
+Carlow,2024,4,2024 Q4,1.03,272041.7,Republic of Ireland,False,140.0,252857.5
+Carlow,2025,1,2025 Q1,1.9,250942.36,Republic of Ireland,False,81.0,254608.38
+Carlow,2025,2,2025 Q2,1.9,308940.81,Republic of Ireland,False,118.0,250312.34
+Carlow,2025,3,2025 Q3,2.13,274728.95,Republic of Ireland,False,145.0,264589.66
+Carlow,2025,4,2025 Q4,3.05,289193.93,Republic of Ireland,False,62.0,288037.1
+Cavan,2010,1,2010 Q1,-3.37,155869.29,Republic of Ireland,False,19.0,151184.21
+Cavan,2010,2,2010 Q2,-1.33,146776.9,Republic of Ireland,False,26.0,138265.38
+Cavan,2010,3,2010 Q3,0.2,133185.49,Republic of Ireland,False,34.0,115476.47
+Cavan,2010,4,2010 Q4,0.93,140738.3,Republic of Ireland,False,42.0,113752.9
+Cavan,2011,1,2011 Q1,2.27,168476.45,Republic of Ireland,False,34.0,148255.03
+Cavan,2011,2,2011 Q2,2.87,118940.54,Republic of Ireland,False,36.0,120833.33
+Cavan,2011,3,2011 Q3,2.43,122626.89,Republic of Ireland,False,46.0,119194.58
+Cavan,2011,4,2011 Q4,2.7,112751.12,Republic of Ireland,False,44.0,112462.86
+Cavan,2012,1,2012 Q1,2.13,115230.62,Republic of Ireland,False,36.0,102281.92
+Cavan,2012,2,2012 Q2,1.8,83882.31,Republic of Ireland,False,47.0,81165.79
+Cavan,2012,3,2012 Q3,1.77,113356.2,Republic of Ireland,False,55.0,114463.64
+Cavan,2012,4,2012 Q4,1.07,102717.15,Republic of Ireland,False,78.0,99311.54
+Cavan,2013,1,2013 Q1,0.97,86718.37,Republic of Ireland,False,54.0,86775.2
+Cavan,2013,2,2013 Q2,0.53,85385.88,Republic of Ireland,False,50.0,81150.0
+Cavan,2013,3,2013 Q3,0.3,90787.33,Republic of Ireland,False,91.0,96412.09
+Cavan,2013,4,2013 Q4,0.23,71743.69,Republic of Ireland,False,153.0,62964.71
+Cavan,2014,1,2014 Q1,0.07,48271.58,Republic of Ireland,False,165.0,39079.45
+Cavan,2014,2,2014 Q2,0.37,77824.64,Republic of Ireland,False,115.0,75869.42
+Cavan,2014,3,2014 Q3,0.37,86803.07,Republic of Ireland,False,145.0,82608.14
+Cavan,2014,4,2014 Q4,-0.03,88308.81,Republic of Ireland,False,191.0,81116.39
+Cavan,2015,1,2015 Q1,-0.6,94058.14,Republic of Ireland,False,121.0,81090.99
+Cavan,2015,2,2015 Q2,-0.43,81891.51,Republic of Ireland,False,162.0,74616.45
+Cavan,2015,3,2015 Q3,-0.17,106596.48,Republic of Ireland,False,129.0,93184.97
+Cavan,2015,4,2015 Q4,-0.07,99096.5,Republic of Ireland,False,194.0,93269.6
+Cavan,2016,1,2016 Q1,-0.13,110372.01,Republic of Ireland,False,114.0,95191.67
+Cavan,2016,2,2016 Q2,0.17,101370.37,Republic of Ireland,False,140.0,96871.07
+Cavan,2016,3,2016 Q3,0.13,104736.22,Republic of Ireland,False,155.0,101884.98
+Cavan,2016,4,2016 Q4,-0.07,109724.05,Republic of Ireland,False,212.0,98053.09
+Cavan,2017,1,2017 Q1,0.57,113044.68,Republic of Ireland,False,169.0,111586.89
+Cavan,2017,2,2017 Q2,0.23,116192.47,Republic of Ireland,False,154.0,112922.08
+Cavan,2017,3,2017 Q3,0.2,116265.74,Republic of Ireland,False,160.0,108881.82
+Cavan,2017,4,2017 Q4,0.47,136839.12,Republic of Ireland,False,195.0,132033.18
+Cavan,2018,1,2018 Q1,0.23,120260.76,Republic of Ireland,False,141.0,117364.64
+Cavan,2018,2,2018 Q2,0.17,130412.11,Republic of Ireland,False,152.0,127836.22
+Cavan,2018,3,2018 Q3,0.77,129982.84,Republic of Ireland,False,163.0,124061.45
+Cavan,2018,4,2018 Q4,0.73,141856.42,Republic of Ireland,False,205.0,140569.52
+Cavan,2019,1,2019 Q1,0.83,140143.98,Republic of Ireland,False,133.0,135579.02
+Cavan,2019,2,2019 Q2,1.17,136961.33,Republic of Ireland,False,169.0,131871.12
+Cavan,2019,3,2019 Q3,0.7,154516.36,Republic of Ireland,False,159.0,154185.43
+Cavan,2019,4,2019 Q4,1.03,143050.18,Republic of Ireland,False,219.0,132939.71
+Cavan,2020,1,2020 Q1,1.03,138714.63,Republic of Ireland,False,140.0,131292.99
+Cavan,2020,2,2020 Q2,-0.3,145056.37,Republic of Ireland,False,100.0,140145.0
+Cavan,2020,3,2020 Q3,-0.93,132081.12,Republic of Ireland,False,140.0,127602.14
+Cavan,2020,4,2020 Q4,-1.13,209204.33,Republic of Ireland,False,194.0,154578.18
+Cavan,2021,1,2021 Q1,-0.23,151758.52,Republic of Ireland,False,189.0,147065.87
+Cavan,2021,2,2021 Q2,1.4,164756.39,Republic of Ireland,False,150.0,152348.45
+Cavan,2021,3,2021 Q3,2.93,185427.79,Republic of Ireland,False,204.0,160682.6
+Cavan,2021,4,2021 Q4,5.27,193521.74,Republic of Ireland,False,207.0,179813.19
+Cavan,2022,1,2022 Q1,5.77,178439.52,Republic of Ireland,False,154.0,182331.17
+Cavan,2022,2,2022 Q2,7.97,186176.31,Republic of Ireland,False,163.0,170863.1
+Cavan,2022,3,2022 Q3,8.7,200760.81,Republic of Ireland,False,210.0,192294.52
+Cavan,2022,4,2022 Q4,8.8,182496.86,Republic of Ireland,False,224.0,185450.04
+Cavan,2023,1,2023 Q1,7.97,196564.72,Republic of Ireland,False,148.0,200675.62
+Cavan,2023,2,2023 Q2,6.63,181108.39,Republic of Ireland,False,172.0,184684.3
+Cavan,2023,3,2023 Q3,6.23,204758.04,Republic of Ireland,False,179.0,191643.35
+Cavan,2023,4,2023 Q4,4.5,207841.81,Republic of Ireland,False,202.0,200046.12
+Cavan,2024,1,2024 Q1,3.47,211671.9,Republic of Ireland,False,125.0,204554.8
+Cavan,2024,2,2024 Q2,2.47,177459.93,Republic of Ireland,False,146.0,179647.63
+Cavan,2024,3,2024 Q3,1.53,229470.72,Republic of Ireland,False,191.0,208954.25
+Cavan,2024,4,2024 Q4,1.03,252867.39,Republic of Ireland,False,181.0,229455.8
+Cavan,2025,1,2025 Q1,1.9,242084.97,Republic of Ireland,False,118.0,241432.29
+Cavan,2025,2,2025 Q2,1.9,231976.97,Republic of Ireland,False,138.0,224011.09
+Cavan,2025,3,2025 Q3,2.13,253623.51,Republic of Ireland,False,176.0,228375.0
+Cavan,2025,4,2025 Q4,3.05,246375.53,Republic of Ireland,False,62.0,240756.89
+Clare,2010,1,2010 Q1,-3.37,203435.05,Republic of Ireland,False,52.0,189805.77
+Clare,2010,2,2010 Q2,-1.33,174567.88,Republic of Ireland,False,78.0,166660.53
+Clare,2010,3,2010 Q3,0.2,171543.7,Republic of Ireland,False,123.0,154507.44
+Clare,2010,4,2010 Q4,0.93,171020.51,Republic of Ireland,False,89.0,156511.39
+Clare,2011,1,2011 Q1,2.27,164410.73,Republic of Ireland,False,58.0,165143.1
+Clare,2011,2,2011 Q2,2.87,148981.33,Republic of Ireland,False,72.0,150084.53
+Clare,2011,3,2011 Q3,2.43,155638.46,Republic of Ireland,False,95.0,148659.82
+Clare,2011,4,2011 Q4,2.7,151914.87,Republic of Ireland,False,96.0,145078.31
+Clare,2012,1,2012 Q1,2.13,133973.55,Republic of Ireland,False,81.0,129686.5
+Clare,2012,2,2012 Q2,1.8,133446.69,Republic of Ireland,False,103.0,126862.14
+Clare,2012,3,2012 Q3,1.77,137550.79,Republic of Ireland,False,114.0,118774.12
+Clare,2012,4,2012 Q4,1.07,119170.47,Republic of Ireland,False,152.0,118079.56
+Clare,2013,1,2013 Q1,0.97,125967.14,Republic of Ireland,False,73.0,113819.27
+Clare,2013,2,2013 Q2,0.53,114095.44,Republic of Ireland,False,105.0,112515.24
+Clare,2013,3,2013 Q3,0.3,123580.26,Republic of Ireland,False,158.0,113471.89
+Clare,2013,4,2013 Q4,0.23,111050.33,Republic of Ireland,False,170.0,106458.64
+Clare,2014,1,2014 Q1,0.07,131715.47,Republic of Ireland,False,118.0,111423.75
+Clare,2014,2,2014 Q2,0.37,112746.73,Republic of Ireland,False,163.0,95997.1
+Clare,2014,3,2014 Q3,0.37,111024.58,Republic of Ireland,False,212.0,106069.54
+Clare,2014,4,2014 Q4,-0.03,120454.68,Republic of Ireland,False,345.0,111244.99
+Clare,2015,1,2015 Q1,-0.6,124060.43,Republic of Ireland,False,209.0,108528.26
+Clare,2015,2,2015 Q2,-0.43,130222.37,Republic of Ireland,False,187.0,120007.07
+Clare,2015,3,2015 Q3,-0.17,112699.14,Republic of Ireland,False,296.0,101230.82
+Clare,2015,4,2015 Q4,-0.07,131788.96,Republic of Ireland,False,291.0,121009.15
+Clare,2016,1,2016 Q1,-0.13,302900.77,Republic of Ireland,False,163.0,128576.99
+Clare,2016,2,2016 Q2,0.17,134428.8,Republic of Ireland,False,242.0,127838.28
+Clare,2016,3,2016 Q3,0.13,138503.9,Republic of Ireland,False,278.0,131024.96
+Clare,2016,4,2016 Q4,-0.07,142124.47,Republic of Ireland,False,270.0,133925.34
+Clare,2017,1,2017 Q1,0.57,150322.73,Republic of Ireland,False,238.0,141197.01
+Clare,2017,2,2017 Q2,0.23,226959.15,Republic of Ireland,False,223.0,142554.26
+Clare,2017,3,2017 Q3,0.2,153688.47,Republic of Ireland,False,257.0,149296.11
+Clare,2017,4,2017 Q4,0.47,150073.57,Republic of Ireland,False,278.0,141428.52
+Clare,2018,1,2018 Q1,0.23,165640.1,Republic of Ireland,False,201.0,161994.26
+Clare,2018,2,2018 Q2,0.17,172829.07,Republic of Ireland,False,203.0,155939.98
+Clare,2018,3,2018 Q3,0.77,168444.34,Republic of Ireland,False,260.0,157923.05
+Clare,2018,4,2018 Q4,0.73,173777.58,Republic of Ireland,False,287.0,168486.54
+Clare,2019,1,2019 Q1,0.83,170410.74,Republic of Ireland,False,199.0,159302.91
+Clare,2019,2,2019 Q2,1.17,180905.73,Republic of Ireland,False,231.0,172296.61
+Clare,2019,3,2019 Q3,0.7,182565.45,Republic of Ireland,False,280.0,171664.14
+Clare,2019,4,2019 Q4,1.03,201324.31,Republic of Ireland,False,288.0,176478.9
+Clare,2020,1,2020 Q1,1.03,179977.07,Republic of Ireland,False,207.0,173068.07
+Clare,2020,2,2020 Q2,-0.3,183383.01,Republic of Ireland,False,155.0,175777.13
+Clare,2020,3,2020 Q3,-0.93,178355.62,Republic of Ireland,False,210.0,158121.19
+Clare,2020,4,2020 Q4,-1.13,206099.1,Republic of Ireland,False,296.0,177475.77
+Clare,2021,1,2021 Q1,-0.23,196394.34,Republic of Ireland,False,233.0,180287.49
+Clare,2021,2,2021 Q2,1.4,190008.11,Republic of Ireland,False,246.0,182936.0
+Clare,2021,3,2021 Q3,2.93,213067.43,Republic of Ireland,False,308.0,207131.76
+Clare,2021,4,2021 Q4,5.27,218533.64,Republic of Ireland,False,354.0,209435.71
+Clare,2022,1,2022 Q1,5.77,226291.38,Republic of Ireland,False,253.0,214618.04
+Clare,2022,2,2022 Q2,7.97,236889.05,Republic of Ireland,False,247.0,217269.67
+Clare,2022,3,2022 Q3,8.7,247652.96,Republic of Ireland,False,263.0,229663.3
+Clare,2022,4,2022 Q4,8.8,229142.14,Republic of Ireland,False,353.0,234913.02
+Clare,2023,1,2023 Q1,7.97,219293.75,Republic of Ireland,False,233.0,225718.71
+Clare,2023,2,2023 Q2,6.63,237963.18,Republic of Ireland,False,298.0,212413.04
+Clare,2023,3,2023 Q3,6.23,250677.28,Republic of Ireland,False,277.0,237850.37
+Clare,2023,4,2023 Q4,4.5,241984.61,Republic of Ireland,False,305.0,228803.3
+Clare,2024,1,2024 Q1,3.47,277737.69,Republic of Ireland,False,195.0,238539.02
+Clare,2024,2,2024 Q2,2.47,262991.36,Republic of Ireland,False,227.0,242900.72
+Clare,2024,3,2024 Q3,1.53,280858.28,Republic of Ireland,False,235.0,275317.42
+Clare,2024,4,2024 Q4,1.03,343880.45,Republic of Ireland,False,286.0,277980.21
+Clare,2025,1,2025 Q1,1.9,286574.65,Republic of Ireland,False,170.0,284154.19
+Clare,2025,2,2025 Q2,1.9,339754.57,Republic of Ireland,False,249.0,268014.23
+Clare,2025,3,2025 Q3,2.13,314337.9,Republic of Ireland,False,282.0,290499.18
+Clare,2025,4,2025 Q4,3.05,324911.83,Republic of Ireland,False,114.0,315950.18
+Cork,2010,1,2010 Q1,-3.37,265979.79,Republic of Ireland,False,286.0,236462.83
+Cork,2010,2,2010 Q2,-1.33,231853.2,Republic of Ireland,False,346.0,215937.72
+Cork,2010,3,2010 Q3,0.2,214343.77,Republic of Ireland,False,405.0,202981.2
+Cork,2010,4,2010 Q4,0.93,224176.28,Republic of Ireland,False,435.0,210597.72
+Cork,2011,1,2011 Q1,2.27,213874.96,Republic of Ireland,False,268.0,202865.81
+Cork,2011,2,2011 Q2,2.87,196093.26,Republic of Ireland,False,371.0,187924.31
+Cork,2011,3,2011 Q3,2.43,192688.41,Republic of Ireland,False,415.0,186333.17
+Cork,2011,4,2011 Q4,2.7,180723.37,Republic of Ireland,False,479.0,182049.66
+Cork,2012,1,2012 Q1,2.13,162203.49,Republic of Ireland,False,356.0,162222.01
+Cork,2012,2,2012 Q2,1.8,172378.0,Republic of Ireland,False,433.0,161580.46
+Cork,2012,3,2012 Q3,1.77,181040.47,Republic of Ireland,False,492.0,171467.71
+Cork,2012,4,2012 Q4,1.07,169479.95,Republic of Ireland,False,790.0,164585.37
+Cork,2013,1,2013 Q1,0.97,161422.73,Republic of Ireland,False,432.0,153547.15
+Cork,2013,2,2013 Q2,0.53,152365.13,Republic of Ireland,False,489.0,146826.09
+Cork,2013,3,2013 Q3,0.3,175751.57,Republic of Ireland,False,638.0,159363.74
+Cork,2013,4,2013 Q4,0.23,189407.82,Republic of Ireland,False,867.0,155754.03
+Cork,2014,1,2014 Q1,0.07,155597.06,Republic of Ireland,False,580.0,146286.97
+Cork,2014,2,2014 Q2,0.37,167986.88,Republic of Ireland,False,755.0,150900.12
+Cork,2014,3,2014 Q3,0.37,185653.78,Republic of Ireland,False,941.0,170192.1
+Cork,2014,4,2014 Q4,-0.03,187199.92,Republic of Ireland,False,1388.0,162018.19
+Cork,2015,1,2015 Q1,-0.6,181348.02,Republic of Ireland,False,965.0,153155.41
+Cork,2015,2,2015 Q2,-0.43,182350.71,Republic of Ireland,False,896.0,170490.76
+Cork,2015,3,2015 Q3,-0.17,204698.9,Republic of Ireland,False,1038.0,185408.64
+Cork,2015,4,2015 Q4,-0.07,244698.11,Republic of Ireland,False,1255.0,183395.93
+Cork,2016,1,2016 Q1,-0.13,199479.66,Republic of Ireland,False,860.0,183577.95
+Cork,2016,2,2016 Q2,0.17,191546.88,Republic of Ireland,False,942.0,181709.54
+Cork,2016,3,2016 Q3,0.13,214112.57,Republic of Ireland,False,1103.0,196286.18
+Cork,2016,4,2016 Q4,-0.07,212894.45,Republic of Ireland,False,1278.0,195700.98
+Cork,2017,1,2017 Q1,0.57,215349.46,Republic of Ireland,False,917.0,199759.33
+Cork,2017,2,2017 Q2,0.23,222042.02,Republic of Ireland,False,974.0,200788.46
+Cork,2017,3,2017 Q3,0.2,233954.79,Republic of Ireland,False,1158.0,211920.02
+Cork,2017,4,2017 Q4,0.47,242465.86,Republic of Ireland,False,1237.0,212443.29
+Cork,2018,1,2018 Q1,0.23,244427.23,Republic of Ireland,False,901.0,206492.91
+Cork,2018,2,2018 Q2,0.17,320204.18,Republic of Ireland,False,984.0,228396.97
+Cork,2018,3,2018 Q3,0.77,290779.6,Republic of Ireland,False,1121.0,226812.08
+Cork,2018,4,2018 Q4,0.73,260688.33,Republic of Ireland,False,1332.0,223599.53
+Cork,2019,1,2019 Q1,0.83,268376.78,Republic of Ireland,False,978.0,226262.67
+Cork,2019,2,2019 Q2,1.17,249611.53,Republic of Ireland,False,1100.0,224278.68
+Cork,2019,3,2019 Q3,0.7,260378.71,Republic of Ireland,False,1178.0,237391.23
+Cork,2019,4,2019 Q4,1.03,262371.83,Republic of Ireland,False,1385.0,229720.92
+Cork,2020,1,2020 Q1,1.03,248737.8,Republic of Ireland,False,901.0,229529.85
+Cork,2020,2,2020 Q2,-0.3,261188.24,Republic of Ireland,False,653.0,230378.85
+Cork,2020,3,2020 Q3,-0.93,272524.17,Republic of Ireland,False,817.0,222555.43
+Cork,2020,4,2020 Q4,-1.13,288661.31,Republic of Ireland,False,1316.0,242518.2
+Cork,2021,1,2021 Q1,-0.23,270171.88,Republic of Ireland,False,1031.0,246779.86
+Cork,2021,2,2021 Q2,1.4,273698.79,Republic of Ireland,False,1045.0,247790.52
+Cork,2021,3,2021 Q3,2.93,273587.95,Republic of Ireland,False,1171.0,262209.41
+Cork,2021,4,2021 Q4,5.27,273519.66,Republic of Ireland,False,1386.0,269057.89
+Cork,2022,1,2022 Q1,5.77,283698.85,Republic of Ireland,False,1074.0,279951.61
+Cork,2022,2,2022 Q2,7.97,274771.94,Republic of Ireland,False,1044.0,277454.5
+Cork,2022,3,2022 Q3,8.7,331173.99,Republic of Ireland,False,1193.0,301569.35
+Cork,2022,4,2022 Q4,8.8,331966.63,Republic of Ireland,False,1350.0,300263.58
+Cork,2023,1,2023 Q1,7.97,296197.23,Republic of Ireland,False,992.0,292979.67
+Cork,2023,2,2023 Q2,6.63,300761.76,Republic of Ireland,False,1161.0,294076.35
+Cork,2023,3,2023 Q3,6.23,302527.45,Republic of Ireland,False,1178.0,300213.55
+Cork,2023,4,2023 Q4,4.5,340225.72,Republic of Ireland,False,1321.0,301581.28
+Cork,2024,1,2024 Q1,3.47,341388.18,Republic of Ireland,False,936.0,304275.06
+Cork,2024,2,2024 Q2,2.47,329046.99,Republic of Ireland,False,994.0,306487.56
+Cork,2024,3,2024 Q3,1.53,347703.17,Republic of Ireland,False,1054.0,331721.82
+Cork,2024,4,2024 Q4,1.03,369785.73,Republic of Ireland,False,1262.0,335491.7
+Cork,2025,1,2025 Q1,1.9,353219.16,Republic of Ireland,False,917.0,341201.92
+Cork,2025,2,2025 Q2,1.9,352812.36,Republic of Ireland,False,1009.0,342317.96
+Cork,2025,3,2025 Q3,2.13,374326.59,Republic of Ireland,False,1175.0,356878.52
+Cork,2025,4,2025 Q4,3.05,371335.28,Republic of Ireland,False,443.0,356422.83
+Donegal,2010,1,2010 Q1,-3.37,170283.2,Republic of Ireland,False,71.0,143369.61
+Donegal,2010,2,2010 Q2,-1.33,152999.8,Republic of Ireland,False,90.0,141038.98
+Donegal,2010,3,2010 Q3,0.2,155247.55,Republic of Ireland,False,91.0,142490.66
+Donegal,2010,4,2010 Q4,0.93,139518.9,Republic of Ireland,False,118.0,123821.54
+Donegal,2011,1,2011 Q1,2.27,136504.77,Republic of Ireland,False,65.0,120521.94
+Donegal,2011,2,2011 Q2,2.87,125430.72,Republic of Ireland,False,75.0,120559.36
+Donegal,2011,3,2011 Q3,2.43,119126.21,Republic of Ireland,False,89.0,118460.99
+Donegal,2011,4,2011 Q4,2.7,123964.15,Republic of Ireland,False,135.0,111194.11
+Donegal,2012,1,2012 Q1,2.13,106856.55,Republic of Ireland,False,102.0,107766.18
+Donegal,2012,2,2012 Q2,1.8,107692.07,Republic of Ireland,False,107.0,109000.0
+Donegal,2012,3,2012 Q3,1.77,99587.15,Republic of Ireland,False,115.0,96701.5
+Donegal,2012,4,2012 Q4,1.07,103263.47,Republic of Ireland,False,183.0,98534.14
+Donegal,2013,1,2013 Q1,0.97,90175.12,Republic of Ireland,False,120.0,84112.34
+Donegal,2013,2,2013 Q2,0.53,91244.3,Republic of Ireland,False,107.0,88722.62
+Donegal,2013,3,2013 Q3,0.3,99741.14,Republic of Ireland,False,154.0,99806.58
+Donegal,2013,4,2013 Q4,0.23,88524.7,Republic of Ireland,False,187.0,87191.78
+Donegal,2014,1,2014 Q1,0.07,98395.26,Republic of Ireland,False,140.0,89551.5
+Donegal,2014,2,2014 Q2,0.37,83695.24,Republic of Ireland,False,192.0,84294.69
+Donegal,2014,3,2014 Q3,0.37,88376.66,Republic of Ireland,False,241.0,81250.43
+Donegal,2014,4,2014 Q4,-0.03,96524.2,Republic of Ireland,False,344.0,88435.75
+Donegal,2015,1,2015 Q1,-0.6,93733.94,Republic of Ireland,False,269.0,83299.81
+Donegal,2015,2,2015 Q2,-0.43,100861.85,Republic of Ireland,False,289.0,93299.73
+Donegal,2015,3,2015 Q3,-0.17,109691.8,Republic of Ireland,False,286.0,100951.76
+Donegal,2015,4,2015 Q4,-0.07,108891.38,Republic of Ireland,False,351.0,101181.33
+Donegal,2016,1,2016 Q1,-0.13,101548.2,Republic of Ireland,False,256.0,91861.22
+Donegal,2016,2,2016 Q2,0.17,116607.28,Republic of Ireland,False,287.0,102759.99
+Donegal,2016,3,2016 Q3,0.13,106962.94,Republic of Ireland,False,256.0,97229.13
+Donegal,2016,4,2016 Q4,-0.07,107359.55,Republic of Ireland,False,351.0,95577.85
+Donegal,2017,1,2017 Q1,0.57,116022.13,Republic of Ireland,False,203.0,104984.57
+Donegal,2017,2,2017 Q2,0.23,114780.94,Republic of Ireland,False,254.0,104722.21
+Donegal,2017,3,2017 Q3,0.2,114886.38,Republic of Ireland,False,280.0,107918.0
+Donegal,2017,4,2017 Q4,0.47,128815.95,Republic of Ireland,False,276.0,113483.76
+Donegal,2018,1,2018 Q1,0.23,116241.82,Republic of Ireland,False,204.0,103469.82
+Donegal,2018,2,2018 Q2,0.17,103830.64,Republic of Ireland,False,310.0,94222.16
+Donegal,2018,3,2018 Q3,0.77,126368.88,Republic of Ireland,False,293.0,122134.01
+Donegal,2018,4,2018 Q4,0.73,124047.39,Republic of Ireland,False,359.0,106902.43
+Donegal,2019,1,2019 Q1,0.83,123106.79,Republic of Ireland,False,223.0,112507.13
+Donegal,2019,2,2019 Q2,1.17,119744.9,Republic of Ireland,False,280.0,116076.02
+Donegal,2019,3,2019 Q3,0.7,129753.99,Republic of Ireland,False,324.0,120397.37
+Donegal,2019,4,2019 Q4,1.03,126284.39,Republic of Ireland,False,383.0,113935.53
+Donegal,2020,1,2020 Q1,1.03,136921.92,Republic of Ireland,False,252.0,132387.39
+Donegal,2020,2,2020 Q2,-0.3,117934.34,Republic of Ireland,False,178.0,108376.05
+Donegal,2020,3,2020 Q3,-0.93,149620.71,Republic of Ireland,False,257.0,127725.95
+Donegal,2020,4,2020 Q4,-1.13,151040.91,Republic of Ireland,False,390.0,134757.51
+Donegal,2021,1,2021 Q1,-0.23,143151.33,Republic of Ireland,False,290.0,135138.01
+Donegal,2021,2,2021 Q2,1.4,143309.75,Republic of Ireland,False,350.0,132546.23
+Donegal,2021,3,2021 Q3,2.93,147779.91,Republic of Ireland,False,323.0,146927.34
+Donegal,2021,4,2021 Q4,5.27,157071.8,Republic of Ireland,False,395.0,144268.75
+Donegal,2022,1,2022 Q1,5.77,163291.87,Republic of Ireland,False,270.0,155237.07
+Donegal,2022,2,2022 Q2,7.97,163374.46,Republic of Ireland,False,325.0,159297.05
+Donegal,2022,3,2022 Q3,8.7,165659.35,Republic of Ireland,False,356.0,165859.17
+Donegal,2022,4,2022 Q4,8.8,184637.02,Republic of Ireland,False,325.0,176442.29
+Donegal,2023,1,2023 Q1,7.97,170629.4,Republic of Ireland,False,256.0,168251.36
+Donegal,2023,2,2023 Q2,6.63,166840.94,Republic of Ireland,False,299.0,162190.43
+Donegal,2023,3,2023 Q3,6.23,196126.18,Republic of Ireland,False,305.0,173458.02
+Donegal,2023,4,2023 Q4,4.5,180774.58,Republic of Ireland,False,323.0,172729.33
+Donegal,2024,1,2024 Q1,3.47,177005.84,Republic of Ireland,False,258.0,168487.97
+Donegal,2024,2,2024 Q2,2.47,191696.04,Republic of Ireland,False,299.0,173545.79
+Donegal,2024,3,2024 Q3,1.53,197740.25,Republic of Ireland,False,285.0,187777.22
+Donegal,2024,4,2024 Q4,1.03,210227.7,Republic of Ireland,False,345.0,189055.2
+Donegal,2025,1,2025 Q1,1.9,201933.91,Republic of Ireland,False,202.0,182686.83
+Donegal,2025,2,2025 Q2,1.9,249600.28,Republic of Ireland,False,306.0,187665.36
+Donegal,2025,3,2025 Q3,2.13,200583.28,Republic of Ireland,False,295.0,184373.37
+Donegal,2025,4,2025 Q4,3.05,219601.42,Republic of Ireland,False,121.0,210614.32
+Dublin,2010,1,2010 Q1,-3.37,355195.81,Republic of Ireland,False,964.0,337164.27
+Dublin,2010,2,2010 Q2,-1.33,356307.71,Republic of Ireland,False,1273.0,316153.25
+Dublin,2010,3,2010 Q3,0.2,331185.06,Republic of Ireland,False,1447.0,318730.26
+Dublin,2010,4,2010 Q4,0.93,302889.34,Republic of Ireland,False,1153.0,302575.21
+Dublin,2011,1,2011 Q1,2.27,320444.17,Republic of Ireland,False,785.0,304903.63
+Dublin,2011,2,2011 Q2,2.87,301063.72,Republic of Ireland,False,917.0,296196.68
+Dublin,2011,3,2011 Q3,2.43,311278.12,Republic of Ireland,False,1305.0,299385.37
+Dublin,2011,4,2011 Q4,2.7,282166.83,Republic of Ireland,False,1445.0,265833.15
+Dublin,2012,1,2012 Q1,2.13,284167.1,Republic of Ireland,False,1048.0,258389.68
+Dublin,2012,2,2012 Q2,1.8,253788.71,Republic of Ireland,False,1520.0,235679.0
+Dublin,2012,3,2012 Q3,1.77,285441.77,Republic of Ireland,False,1755.0,267010.93
+Dublin,2012,4,2012 Q4,1.07,279213.79,Republic of Ireland,False,2409.0,256665.55
+Dublin,2013,1,2013 Q1,0.97,317533.5,Republic of Ireland,False,1162.0,253282.59
+Dublin,2013,2,2013 Q2,0.53,327974.28,Republic of Ireland,False,1586.0,271210.22
+Dublin,2013,3,2013 Q3,0.3,345809.1,Republic of Ireland,False,2214.0,287749.16
+Dublin,2013,4,2013 Q4,0.23,316254.87,Republic of Ireland,False,2846.0,296025.69
+Dublin,2014,1,2014 Q1,0.07,331743.16,Republic of Ireland,False,1696.0,273269.56
+Dublin,2014,2,2014 Q2,0.37,338769.04,Republic of Ireland,False,2309.0,298013.33
+Dublin,2014,3,2014 Q3,0.37,407157.94,Republic of Ireland,False,3050.0,328219.81
+Dublin,2014,4,2014 Q4,-0.03,353446.17,Republic of Ireland,False,3917.0,296471.13
+Dublin,2015,1,2015 Q1,-0.6,332599.48,Republic of Ireland,False,2729.0,300909.16
+Dublin,2015,2,2015 Q2,-0.43,328444.29,Republic of Ireland,False,2744.0,298611.32
+Dublin,2015,3,2015 Q3,-0.17,377767.47,Republic of Ireland,False,2953.0,343551.18
+Dublin,2015,4,2015 Q4,-0.07,367666.65,Republic of Ireland,False,3030.0,321974.69
+Dublin,2016,1,2016 Q1,-0.13,380222.49,Republic of Ireland,False,2522.0,316629.83
+Dublin,2016,2,2016 Q2,0.17,407464.8,Republic of Ireland,False,2587.0,336012.62
+Dublin,2016,3,2016 Q3,0.13,406919.13,Republic of Ireland,False,3027.0,366826.12
+Dublin,2016,4,2016 Q4,-0.07,415814.22,Republic of Ireland,False,3415.0,342990.56
+Dublin,2017,1,2017 Q1,0.57,405702.35,Republic of Ireland,False,2490.0,368068.27
+Dublin,2017,2,2017 Q2,0.23,399733.32,Republic of Ireland,False,2635.0,368553.8
+Dublin,2017,3,2017 Q3,0.2,421949.45,Republic of Ireland,False,3224.0,396511.56
+Dublin,2017,4,2017 Q4,0.47,435866.71,Republic of Ireland,False,3552.0,389775.14
+Dublin,2018,1,2018 Q1,0.23,415751.02,Republic of Ireland,False,2629.0,377332.79
+Dublin,2018,2,2018 Q2,0.17,501521.59,Republic of Ireland,False,2645.0,387514.11
+Dublin,2018,3,2018 Q3,0.77,467763.78,Republic of Ireland,False,3134.0,412757.82
+Dublin,2018,4,2018 Q4,0.73,473260.1,Republic of Ireland,False,3441.0,391885.38
+Dublin,2019,1,2019 Q1,0.83,413807.43,Republic of Ireland,False,2474.0,384443.72
+Dublin,2019,2,2019 Q2,1.17,479182.52,Republic of Ireland,False,2987.0,373365.96
+Dublin,2019,3,2019 Q3,0.7,531295.82,Republic of Ireland,False,3368.0,404794.35
+Dublin,2019,4,2019 Q4,1.03,527438.21,Republic of Ireland,False,3479.0,391323.2
+Dublin,2020,1,2020 Q1,1.03,527050.71,Republic of Ireland,False,2556.0,399922.5
+Dublin,2020,2,2020 Q2,-0.3,518018.59,Republic of Ireland,False,1598.0,382812.29
+Dublin,2020,3,2020 Q3,-0.93,581351.16,Republic of Ireland,False,2181.0,391910.56
+Dublin,2020,4,2020 Q4,-1.13,512766.4,Republic of Ireland,False,3775.0,403984.91
+Dublin,2021,1,2021 Q1,-0.23,510453.84,Republic of Ireland,False,2815.0,409392.8
+Dublin,2021,2,2021 Q2,1.4,550699.94,Republic of Ireland,False,2736.0,423678.79
+Dublin,2021,3,2021 Q3,2.93,531485.3,Republic of Ireland,False,3434.0,452522.45
+Dublin,2021,4,2021 Q4,5.27,578690.45,Republic of Ireland,False,3794.0,445058.85
+Dublin,2022,1,2022 Q1,5.77,506298.29,Republic of Ireland,False,2894.0,445963.43
+Dublin,2022,2,2022 Q2,7.97,555040.75,Republic of Ireland,False,3189.0,445741.77
+Dublin,2022,3,2022 Q3,8.7,581825.83,Republic of Ireland,False,3711.0,488767.5
+Dublin,2022,4,2022 Q4,8.8,563264.33,Republic of Ireland,False,3622.0,474692.73
+Dublin,2023,1,2023 Q1,7.97,585941.72,Republic of Ireland,False,2898.0,470705.91
+Dublin,2023,2,2023 Q2,6.63,490226.51,Republic of Ireland,False,3285.0,451936.23
+Dublin,2023,3,2023 Q3,6.23,574226.94,Republic of Ireland,False,3761.0,469650.31
+Dublin,2023,4,2023 Q4,4.5,584054.85,Republic of Ireland,False,3726.0,482698.07
+Dublin,2024,1,2024 Q1,3.47,562610.56,Republic of Ireland,False,2764.0,485791.22
+Dublin,2024,2,2024 Q2,2.47,594803.77,Republic of Ireland,False,3146.0,481648.31
+Dublin,2024,3,2024 Q3,1.53,610738.54,Republic of Ireland,False,3517.0,532958.69
+Dublin,2024,4,2024 Q4,1.03,724143.9,Republic of Ireland,False,3759.0,530002.71
+Dublin,2025,1,2025 Q1,1.9,591215.85,Republic of Ireland,False,2845.0,524846.16
+Dublin,2025,2,2025 Q2,1.9,623847.45,Republic of Ireland,False,3075.0,534031.92
+Dublin,2025,3,2025 Q3,2.13,668462.55,Republic of Ireland,False,3643.0,546410.86
+Dublin,2025,4,2025 Q4,3.05,629622.28,Republic of Ireland,False,1395.0,548900.94
+Galway,2010,1,2010 Q1,-3.37,244982.13,Republic of Ireland,False,110.0,235751.73
+Galway,2010,2,2010 Q2,-1.33,223692.23,Republic of Ireland,False,135.0,232360.43
+Galway,2010,3,2010 Q3,0.2,224868.4,Republic of Ireland,False,155.0,227388.19
+Galway,2010,4,2010 Q4,0.93,210144.96,Republic of Ireland,False,165.0,209098.33
+Galway,2011,1,2011 Q1,2.27,228273.87,Republic of Ireland,False,91.0,213291.77
+Galway,2011,2,2011 Q2,2.87,202657.89,Republic of Ireland,False,145.0,182970.46
+Galway,2011,3,2011 Q3,2.43,174852.85,Republic of Ireland,False,183.0,173643.44
+Galway,2011,4,2011 Q4,2.7,176214.13,Republic of Ireland,False,234.0,173231.66
+Galway,2012,1,2012 Q1,2.13,156506.34,Republic of Ireland,False,131.0,151206.11
+Galway,2012,2,2012 Q2,1.8,157021.61,Republic of Ireland,False,181.0,157562.78
+Galway,2012,3,2012 Q3,1.77,174207.86,Republic of Ireland,False,237.0,164739.38
+Galway,2012,4,2012 Q4,1.07,162202.47,Republic of Ireland,False,335.0,158621.61
+Galway,2013,1,2013 Q1,0.97,159561.28,Republic of Ireland,False,176.0,147412.05
+Galway,2013,2,2013 Q2,0.53,148724.92,Republic of Ireland,False,263.0,145345.46
+Galway,2013,3,2013 Q3,0.3,162426.55,Republic of Ireland,False,330.0,156505.88
+Galway,2013,4,2013 Q4,0.23,154039.34,Republic of Ireland,False,434.0,150763.11
+Galway,2014,1,2014 Q1,0.07,144148.92,Republic of Ireland,False,280.0,138138.35
+Galway,2014,2,2014 Q2,0.37,150352.09,Republic of Ireland,False,380.0,150156.99
+Galway,2014,3,2014 Q3,0.37,161750.19,Republic of Ireland,False,530.0,153644.84
+Galway,2014,4,2014 Q4,-0.03,157875.23,Republic of Ireland,False,727.0,147774.02
+Galway,2015,1,2015 Q1,-0.6,191409.22,Republic of Ireland,False,502.0,153559.88
+Galway,2015,2,2015 Q2,-0.43,155543.09,Republic of Ireland,False,478.0,146916.19
+Galway,2015,3,2015 Q3,-0.17,164862.99,Republic of Ireland,False,634.0,155657.96
+Galway,2015,4,2015 Q4,-0.07,166619.21,Republic of Ireland,False,666.0,158223.12
+Galway,2016,1,2016 Q1,-0.13,177027.98,Republic of Ireland,False,361.0,167205.3
+Galway,2016,2,2016 Q2,0.17,182322.84,Republic of Ireland,False,512.0,156376.92
+Galway,2016,3,2016 Q3,0.13,196629.97,Republic of Ireland,False,533.0,181635.73
+Galway,2016,4,2016 Q4,-0.07,196106.31,Republic of Ireland,False,558.0,185426.35
+Galway,2017,1,2017 Q1,0.57,212430.59,Republic of Ireland,False,432.0,186217.26
+Galway,2017,2,2017 Q2,0.23,191144.53,Republic of Ireland,False,484.0,185739.27
+Galway,2017,3,2017 Q3,0.2,209310.16,Republic of Ireland,False,618.0,191947.75
+Galway,2017,4,2017 Q4,0.47,222296.75,Republic of Ireland,False,694.0,201341.14
+Galway,2018,1,2018 Q1,0.23,210698.05,Republic of Ireland,False,401.0,196285.97
+Galway,2018,2,2018 Q2,0.17,281946.01,Republic of Ireland,False,480.0,209879.17
+Galway,2018,3,2018 Q3,0.77,231933.4,Republic of Ireland,False,586.0,215955.21
+Galway,2018,4,2018 Q4,0.73,233295.15,Republic of Ireland,False,617.0,219991.88
+Galway,2019,1,2019 Q1,0.83,241628.53,Republic of Ireland,False,448.0,219714.33
+Galway,2019,2,2019 Q2,1.17,217850.6,Republic of Ireland,False,487.0,205184.19
+Galway,2019,3,2019 Q3,0.7,277184.82,Republic of Ireland,False,541.0,228365.56
+Galway,2019,4,2019 Q4,1.03,237928.5,Republic of Ireland,False,659.0,219223.18
+Galway,2020,1,2020 Q1,1.03,247597.82,Republic of Ireland,False,437.0,226656.89
+Galway,2020,2,2020 Q2,-0.3,240723.58,Republic of Ireland,False,263.0,221262.97
+Galway,2020,3,2020 Q3,-0.93,257870.55,Republic of Ireland,False,362.0,221330.64
+Galway,2020,4,2020 Q4,-1.13,252409.14,Republic of Ireland,False,631.0,227464.18
+Galway,2021,1,2021 Q1,-0.23,253977.55,Republic of Ireland,False,452.0,228846.96
+Galway,2021,2,2021 Q2,1.4,252172.37,Republic of Ireland,False,507.0,229250.99
+Galway,2021,3,2021 Q3,2.93,273406.73,Republic of Ireland,False,524.0,250829.6
+Galway,2021,4,2021 Q4,5.27,265873.54,Republic of Ireland,False,647.0,253778.6
+Galway,2022,1,2022 Q1,5.77,264437.53,Republic of Ireland,False,447.0,263169.67
+Galway,2022,2,2022 Q2,7.97,301142.02,Republic of Ireland,False,528.0,272171.17
+Galway,2022,3,2022 Q3,8.7,278703.52,Republic of Ireland,False,547.0,287554.06
+Galway,2022,4,2022 Q4,8.8,291837.2,Republic of Ireland,False,638.0,289661.71
+Galway,2023,1,2023 Q1,7.97,286296.66,Republic of Ireland,False,462.0,294215.79
+Galway,2023,2,2023 Q2,6.63,289530.28,Republic of Ireland,False,479.0,281055.78
+Galway,2023,3,2023 Q3,6.23,292610.28,Republic of Ireland,False,541.0,285330.1
+Galway,2023,4,2023 Q4,4.5,335335.97,Republic of Ireland,False,597.0,306230.95
+Galway,2024,1,2024 Q1,3.47,314839.58,Republic of Ireland,False,411.0,303786.61
+Galway,2024,2,2024 Q2,2.47,312452.83,Republic of Ireland,False,471.0,297168.03
+Galway,2024,3,2024 Q3,1.53,355927.2,Republic of Ireland,False,507.0,325676.34
+Galway,2024,4,2024 Q4,1.03,357356.2,Republic of Ireland,False,588.0,328002.3
+Galway,2025,1,2025 Q1,1.9,343831.91,Republic of Ireland,False,362.0,327597.17
+Galway,2025,2,2025 Q2,1.9,353664.62,Republic of Ireland,False,428.0,338759.26
+Galway,2025,3,2025 Q3,2.13,363101.39,Republic of Ireland,False,519.0,364285.81
+Galway,2025,4,2025 Q4,3.05,359025.83,Republic of Ireland,False,227.0,318005.06
+Kerry,2010,1,2010 Q1,-3.37,199829.88,Republic of Ireland,False,83.0,183927.31
+Kerry,2010,2,2010 Q2,-1.33,207933.59,Republic of Ireland,False,98.0,198944.53
+Kerry,2010,3,2010 Q3,0.2,180895.21,Republic of Ireland,False,105.0,173180.26
+Kerry,2010,4,2010 Q4,0.93,174385.76,Republic of Ireland,False,120.0,166684.52
+Kerry,2011,1,2011 Q1,2.27,163540.3,Republic of Ireland,False,73.0,158802.47
+Kerry,2011,2,2011 Q2,2.87,182158.12,Republic of Ireland,False,85.0,179599.76
+Kerry,2011,3,2011 Q3,2.43,152505.25,Republic of Ireland,False,102.0,159096.38
+Kerry,2011,4,2011 Q4,2.7,139647.08,Republic of Ireland,False,128.0,145662.5
+Kerry,2012,1,2012 Q1,2.13,158518.51,Republic of Ireland,False,90.0,152640.12
+Kerry,2012,2,2012 Q2,1.8,132053.83,Republic of Ireland,False,116.0,128395.47
+Kerry,2012,3,2012 Q3,1.77,128572.22,Republic of Ireland,False,145.0,128116.34
+Kerry,2012,4,2012 Q4,1.07,150346.68,Republic of Ireland,False,191.0,142851.05
+Kerry,2013,1,2013 Q1,0.97,129161.72,Republic of Ireland,False,121.0,110202.55
+Kerry,2013,2,2013 Q2,0.53,131805.55,Republic of Ireland,False,141.0,131791.36
+Kerry,2013,3,2013 Q3,0.3,126470.95,Republic of Ireland,False,162.0,120227.1
+Kerry,2013,4,2013 Q4,0.23,134052.19,Republic of Ireland,False,220.0,129408.21
+Kerry,2014,1,2014 Q1,0.07,127254.98,Republic of Ireland,False,143.0,124863.74
+Kerry,2014,2,2014 Q2,0.37,127857.18,Republic of Ireland,False,209.0,117650.0
+Kerry,2014,3,2014 Q3,0.37,122837.56,Republic of Ireland,False,252.0,120191.43
+Kerry,2014,4,2014 Q4,-0.03,128907.17,Republic of Ireland,False,341.0,118386.09
+Kerry,2015,1,2015 Q1,-0.6,132464.73,Republic of Ireland,False,218.0,121120.1
+Kerry,2015,2,2015 Q2,-0.43,140542.29,Republic of Ireland,False,264.0,123248.29
+Kerry,2015,3,2015 Q3,-0.17,147528.11,Republic of Ireland,False,274.0,134118.06
+Kerry,2015,4,2015 Q4,-0.07,133190.87,Republic of Ireland,False,327.0,125919.6
+Kerry,2016,1,2016 Q1,-0.13,149790.45,Republic of Ireland,False,233.0,138796.48
+Kerry,2016,2,2016 Q2,0.17,137828.89,Republic of Ireland,False,284.0,128713.6
+Kerry,2016,3,2016 Q3,0.13,143353.11,Republic of Ireland,False,337.0,124267.32
+Kerry,2016,4,2016 Q4,-0.07,157349.75,Republic of Ireland,False,329.0,143332.16
+Kerry,2017,1,2017 Q1,0.57,145961.04,Republic of Ireland,False,243.0,137109.42
+Kerry,2017,2,2017 Q2,0.23,137607.44,Republic of Ireland,False,380.0,120803.82
+Kerry,2017,3,2017 Q3,0.2,158211.54,Republic of Ireland,False,325.0,152507.79
+Kerry,2017,4,2017 Q4,0.47,168282.69,Republic of Ireland,False,359.0,159805.53
+Kerry,2018,1,2018 Q1,0.23,147966.97,Republic of Ireland,False,274.0,145218.59
+Kerry,2018,2,2018 Q2,0.17,155473.14,Republic of Ireland,False,325.0,150904.17
+Kerry,2018,3,2018 Q3,0.77,173361.66,Republic of Ireland,False,297.0,161190.15
+Kerry,2018,4,2018 Q4,0.73,180021.58,Republic of Ireland,False,330.0,165211.64
+Kerry,2019,1,2019 Q1,0.83,181841.31,Republic of Ireland,False,225.0,163518.84
+Kerry,2019,2,2019 Q2,1.17,184797.32,Republic of Ireland,False,266.0,178279.33
+Kerry,2019,3,2019 Q3,0.7,184026.0,Republic of Ireland,False,339.0,172132.59
+Kerry,2019,4,2019 Q4,1.03,186109.29,Republic of Ireland,False,369.0,175098.17
+Kerry,2020,1,2020 Q1,1.03,170724.04,Republic of Ireland,False,256.0,167604.2
+Kerry,2020,2,2020 Q2,-0.3,188449.54,Republic of Ireland,False,205.0,174023.49
+Kerry,2020,3,2020 Q3,-0.93,203365.75,Republic of Ireland,False,253.0,178800.61
+Kerry,2020,4,2020 Q4,-1.13,234119.87,Republic of Ireland,False,387.0,181194.38
+Kerry,2021,1,2021 Q1,-0.23,195025.45,Republic of Ireland,False,290.0,177050.65
+Kerry,2021,2,2021 Q2,1.4,204685.68,Republic of Ireland,False,313.0,195278.14
+Kerry,2021,3,2021 Q3,2.93,229542.82,Republic of Ireland,False,342.0,207974.54
+Kerry,2021,4,2021 Q4,5.27,240166.39,Republic of Ireland,False,379.0,209993.25
+Kerry,2022,1,2022 Q1,5.77,219588.37,Republic of Ireland,False,311.0,218452.31
+Kerry,2022,2,2022 Q2,7.97,227549.47,Republic of Ireland,False,330.0,227399.06
+Kerry,2022,3,2022 Q3,8.7,233133.69,Republic of Ireland,False,343.0,229175.92
+Kerry,2022,4,2022 Q4,8.8,234825.09,Republic of Ireland,False,360.0,237406.09
+Kerry,2023,1,2023 Q1,7.97,237112.07,Republic of Ireland,False,298.0,236182.55
+Kerry,2023,2,2023 Q2,6.63,252451.44,Republic of Ireland,False,253.0,246872.13
+Kerry,2023,3,2023 Q3,6.23,270037.66,Republic of Ireland,False,326.0,241731.26
+Kerry,2023,4,2023 Q4,4.5,273523.56,Republic of Ireland,False,340.0,247194.72
+Kerry,2024,1,2024 Q1,3.47,239507.73,Republic of Ireland,False,252.0,247775.98
+Kerry,2024,2,2024 Q2,2.47,243865.71,Republic of Ireland,False,285.0,243973.8
+Kerry,2024,3,2024 Q3,1.53,264908.5,Republic of Ireland,False,282.0,261050.44
+Kerry,2024,4,2024 Q4,1.03,320116.27,Republic of Ireland,False,334.0,287088.43
+Kerry,2025,1,2025 Q1,1.9,274314.7,Republic of Ireland,False,222.0,272903.39
+Kerry,2025,2,2025 Q2,1.9,336661.42,Republic of Ireland,False,269.0,281367.04
+Kerry,2025,3,2025 Q3,2.13,334636.26,Republic of Ireland,False,250.0,281540.72
+Kerry,2025,4,2025 Q4,3.05,435127.26,Republic of Ireland,False,96.0,319230.71
+Kildare,2010,1,2010 Q1,-3.37,274355.55,Republic of Ireland,False,98.0,262754.54
+Kildare,2010,2,2010 Q2,-1.33,240766.7,Republic of Ireland,False,123.0,259471.5
+Kildare,2010,3,2010 Q3,0.2,227287.02,Republic of Ireland,False,189.0,238939.43
+Kildare,2010,4,2010 Q4,0.93,234868.6,Republic of Ireland,False,150.0,253448.67
+Kildare,2011,1,2011 Q1,2.27,242566.75,Republic of Ireland,False,97.0,214760.82
+Kildare,2011,2,2011 Q2,2.87,231488.34,Republic of Ireland,False,120.0,231551.67
+Kildare,2011,3,2011 Q3,2.43,219820.55,Republic of Ireland,False,144.0,215398.15
+Kildare,2011,4,2011 Q4,2.7,200973.54,Republic of Ireland,False,183.0,196078.11
+Kildare,2012,1,2012 Q1,2.13,179933.83,Republic of Ireland,False,120.0,181323.33
+Kildare,2012,2,2012 Q2,1.8,183772.28,Republic of Ireland,False,132.0,171503.69
+Kildare,2012,3,2012 Q3,1.77,187681.85,Republic of Ireland,False,198.0,179302.54
+Kildare,2012,4,2012 Q4,1.07,201400.93,Republic of Ireland,False,334.0,183930.65
+Kildare,2013,1,2013 Q1,0.97,173013.35,Republic of Ireland,False,134.0,172459.99
+Kildare,2013,2,2013 Q2,0.53,191970.9,Republic of Ireland,False,166.0,188481.37
+Kildare,2013,3,2013 Q3,0.3,195096.32,Republic of Ireland,False,255.0,188886.01
+Kildare,2013,4,2013 Q4,0.23,211290.48,Republic of Ireland,False,360.0,194556.82
+Kildare,2014,1,2014 Q1,0.07,192985.55,Republic of Ireland,False,204.0,169129.86
+Kildare,2014,2,2014 Q2,0.37,227588.68,Republic of Ireland,False,264.0,216510.27
+Kildare,2014,3,2014 Q3,0.37,226933.24,Republic of Ireland,False,372.0,210788.74
+Kildare,2014,4,2014 Q4,-0.03,228050.8,Republic of Ireland,False,488.0,217700.26
+Kildare,2015,1,2015 Q1,-0.6,261973.71,Republic of Ireland,False,389.0,190668.8
+Kildare,2015,2,2015 Q2,-0.43,237202.19,Republic of Ireland,False,337.0,222269.92
+Kildare,2015,3,2015 Q3,-0.17,259322.69,Republic of Ireland,False,413.0,236842.84
+Kildare,2015,4,2015 Q4,-0.07,238200.85,Republic of Ireland,False,434.0,215928.4
+Kildare,2016,1,2016 Q1,-0.13,261656.69,Republic of Ireland,False,295.0,218935.79
+Kildare,2016,2,2016 Q2,0.17,249087.66,Republic of Ireland,False,376.0,228875.77
+Kildare,2016,3,2016 Q3,0.13,249773.74,Republic of Ireland,False,381.0,232897.97
+Kildare,2016,4,2016 Q4,-0.07,275877.15,Republic of Ireland,False,445.0,245304.68
+Kildare,2017,1,2017 Q1,0.57,241571.26,Republic of Ireland,False,380.0,231935.18
+Kildare,2017,2,2017 Q2,0.23,263633.4,Republic of Ireland,False,412.0,243005.08
+Kildare,2017,3,2017 Q3,0.2,260500.54,Republic of Ireland,False,463.0,243684.45
+Kildare,2017,4,2017 Q4,0.47,281272.77,Republic of Ireland,False,492.0,267264.31
+Kildare,2018,1,2018 Q1,0.23,286441.29,Republic of Ireland,False,317.0,268985.27
+Kildare,2018,2,2018 Q2,0.17,278187.3,Republic of Ireland,False,358.0,261333.57
+Kildare,2018,3,2018 Q3,0.77,287499.64,Republic of Ireland,False,482.0,268029.7
+Kildare,2018,4,2018 Q4,0.73,281532.69,Republic of Ireland,False,513.0,271122.55
+Kildare,2019,1,2019 Q1,0.83,273412.26,Republic of Ireland,False,375.0,264288.89
+Kildare,2019,2,2019 Q2,1.17,300339.47,Republic of Ireland,False,416.0,264671.49
+Kildare,2019,3,2019 Q3,0.7,300204.65,Republic of Ireland,False,442.0,277798.07
+Kildare,2019,4,2019 Q4,1.03,317964.17,Republic of Ireland,False,477.0,284015.32
+Kildare,2020,1,2020 Q1,1.03,274741.44,Republic of Ireland,False,364.0,256808.19
+Kildare,2020,2,2020 Q2,-0.3,313976.59,Republic of Ireland,False,242.0,251785.63
+Kildare,2020,3,2020 Q3,-0.93,305485.08,Republic of Ireland,False,310.0,285186.02
+Kildare,2020,4,2020 Q4,-1.13,341102.31,Republic of Ireland,False,544.0,298736.51
+Kildare,2021,1,2021 Q1,-0.23,344489.32,Republic of Ireland,False,357.0,291329.19
+Kildare,2021,2,2021 Q2,1.4,342255.54,Republic of Ireland,False,395.0,306830.41
+Kildare,2021,3,2021 Q3,2.93,349746.43,Republic of Ireland,False,507.0,311120.19
+Kildare,2021,4,2021 Q4,5.27,330969.93,Republic of Ireland,False,520.0,311271.58
+Kildare,2022,1,2022 Q1,5.77,314096.32,Republic of Ireland,False,426.0,312784.53
+Kildare,2022,2,2022 Q2,7.97,336994.59,Republic of Ireland,False,442.0,329517.63
+Kildare,2022,3,2022 Q3,8.7,337343.24,Republic of Ireland,False,537.0,332691.99
+Kildare,2022,4,2022 Q4,8.8,417490.64,Republic of Ireland,False,596.0,348222.69
+Kildare,2023,1,2023 Q1,7.97,338758.54,Republic of Ireland,False,389.0,348684.88
+Kildare,2023,2,2023 Q2,6.63,373175.01,Republic of Ireland,False,479.0,331091.5
+Kildare,2023,3,2023 Q3,6.23,377279.26,Republic of Ireland,False,541.0,353796.8
+Kildare,2023,4,2023 Q4,4.5,377160.46,Republic of Ireland,False,541.0,363008.99
+Kildare,2024,1,2024 Q1,3.47,396348.52,Republic of Ireland,False,384.0,365315.11
+Kildare,2024,2,2024 Q2,2.47,367118.18,Republic of Ireland,False,421.0,364057.31
+Kildare,2024,3,2024 Q3,1.53,411305.45,Republic of Ireland,False,468.0,398501.68
+Kildare,2024,4,2024 Q4,1.03,417576.5,Republic of Ireland,False,523.0,406255.84
+Kildare,2025,1,2025 Q1,1.9,409513.96,Republic of Ireland,False,371.0,405574.71
+Kildare,2025,2,2025 Q2,1.9,421291.71,Republic of Ireland,False,402.0,410989.72
+Kildare,2025,3,2025 Q3,2.13,426576.42,Republic of Ireland,False,456.0,427679.56
+Kildare,2025,4,2025 Q4,3.05,407984.16,Republic of Ireland,False,216.0,425297.14
+Kilkenny,2010,1,2010 Q1,-3.37,205586.72,Republic of Ireland,False,37.0,193538.29
+Kilkenny,2010,2,2010 Q2,-1.33,203657.8,Republic of Ireland,False,62.0,187588.63
+Kilkenny,2010,3,2010 Q3,0.2,213720.03,Republic of Ireland,False,65.0,182132.11
+Kilkenny,2010,4,2010 Q4,0.93,219550.73,Republic of Ireland,False,72.0,148092.78
+Kilkenny,2011,1,2011 Q1,2.27,165432.51,Republic of Ireland,False,51.0,157467.28
+Kilkenny,2011,2,2011 Q2,2.87,179486.26,Republic of Ireland,False,52.0,157866.27
+Kilkenny,2011,3,2011 Q3,2.43,171413.73,Republic of Ireland,False,76.0,154926.32
+Kilkenny,2011,4,2011 Q4,2.7,142220.07,Republic of Ireland,False,75.0,136400.53
+Kilkenny,2012,1,2012 Q1,2.13,138207.61,Republic of Ireland,False,62.0,134836.69
+Kilkenny,2012,2,2012 Q2,1.8,128575.64,Republic of Ireland,False,66.0,117819.87
+Kilkenny,2012,3,2012 Q3,1.77,133823.44,Republic of Ireland,False,74.0,133001.35
+Kilkenny,2012,4,2012 Q4,1.07,137848.91,Republic of Ireland,False,114.0,131864.52
+Kilkenny,2013,1,2013 Q1,0.97,126564.74,Republic of Ireland,False,53.0,124028.24
+Kilkenny,2013,2,2013 Q2,0.53,112504.6,Republic of Ireland,False,76.0,100213.07
+Kilkenny,2013,3,2013 Q3,0.3,144832.09,Republic of Ireland,False,92.0,134187.26
+Kilkenny,2013,4,2013 Q4,0.23,134344.62,Republic of Ireland,False,118.0,133624.69
+Kilkenny,2014,1,2014 Q1,0.07,109115.41,Republic of Ireland,False,71.0,111275.61
+Kilkenny,2014,2,2014 Q2,0.37,123509.3,Republic of Ireland,False,118.0,126570.99
+Kilkenny,2014,3,2014 Q3,0.37,161045.19,Republic of Ireland,False,133.0,145584.02
+Kilkenny,2014,4,2014 Q4,-0.03,148876.98,Republic of Ireland,False,167.0,140973.75
+Kilkenny,2015,1,2015 Q1,-0.6,171877.58,Republic of Ireland,False,128.0,147134.11
+Kilkenny,2015,2,2015 Q2,-0.43,138954.98,Republic of Ireland,False,108.0,129291.67
+Kilkenny,2015,3,2015 Q3,-0.17,168002.02,Republic of Ireland,False,183.0,147544.36
+Kilkenny,2015,4,2015 Q4,-0.07,174936.79,Republic of Ireland,False,168.0,156907.11
+Kilkenny,2016,1,2016 Q1,-0.13,168924.99,Republic of Ireland,False,117.0,161406.1
+Kilkenny,2016,2,2016 Q2,0.17,167815.0,Republic of Ireland,False,134.0,156148.34
+Kilkenny,2016,3,2016 Q3,0.13,172315.53,Republic of Ireland,False,149.0,164601.86
+Kilkenny,2016,4,2016 Q4,-0.07,201269.92,Republic of Ireland,False,164.0,186502.13
+Kilkenny,2017,1,2017 Q1,0.57,168213.64,Republic of Ireland,False,119.0,160368.49
+Kilkenny,2017,2,2017 Q2,0.23,177198.13,Republic of Ireland,False,138.0,177559.38
+Kilkenny,2017,3,2017 Q3,0.2,183597.71,Republic of Ireland,False,178.0,172632.35
+Kilkenny,2017,4,2017 Q4,0.47,184407.02,Republic of Ireland,False,182.0,177334.93
+Kilkenny,2018,1,2018 Q1,0.23,206178.03,Republic of Ireland,False,122.0,192646.72
+Kilkenny,2018,2,2018 Q2,0.17,188090.27,Republic of Ireland,False,145.0,183422.22
+Kilkenny,2018,3,2018 Q3,0.77,205222.42,Republic of Ireland,False,181.0,189785.65
+Kilkenny,2018,4,2018 Q4,0.73,201693.53,Republic of Ireland,False,197.0,201849.41
+Kilkenny,2019,1,2019 Q1,0.83,194262.6,Republic of Ireland,False,142.0,195150.87
+Kilkenny,2019,2,2019 Q2,1.17,204966.77,Republic of Ireland,False,168.0,197485.88
+Kilkenny,2019,3,2019 Q3,0.7,201182.45,Republic of Ireland,False,202.0,201055.03
+Kilkenny,2019,4,2019 Q4,1.03,245849.51,Republic of Ireland,False,193.0,191026.17
+Kilkenny,2020,1,2020 Q1,1.03,215062.18,Republic of Ireland,False,124.0,207439.17
+Kilkenny,2020,2,2020 Q2,-0.3,193590.49,Republic of Ireland,False,87.0,193254.29
+Kilkenny,2020,3,2020 Q3,-0.93,210544.39,Republic of Ireland,False,137.0,190297.85
+Kilkenny,2020,4,2020 Q4,-1.13,246981.04,Republic of Ireland,False,213.0,210602.94
+Kilkenny,2021,1,2021 Q1,-0.23,230981.27,Republic of Ireland,False,165.0,212964.96
+Kilkenny,2021,2,2021 Q2,1.4,224584.35,Republic of Ireland,False,145.0,214142.65
+Kilkenny,2021,3,2021 Q3,2.93,253635.67,Republic of Ireland,False,185.0,245427.5
+Kilkenny,2021,4,2021 Q4,5.27,263842.05,Republic of Ireland,False,224.0,252397.39
+Kilkenny,2022,1,2022 Q1,5.77,288039.46,Republic of Ireland,False,155.0,245493.87
+Kilkenny,2022,2,2022 Q2,7.97,260896.51,Republic of Ireland,False,188.0,258529.54
+Kilkenny,2022,3,2022 Q3,8.7,270904.16,Republic of Ireland,False,202.0,244127.72
+Kilkenny,2022,4,2022 Q4,8.8,264018.73,Republic of Ireland,False,199.0,274280.89
+Kilkenny,2023,1,2023 Q1,7.97,248629.48,Republic of Ireland,False,136.0,236811.06
+Kilkenny,2023,2,2023 Q2,6.63,291709.23,Republic of Ireland,False,180.0,261003.63
+Kilkenny,2023,3,2023 Q3,6.23,281058.42,Republic of Ireland,False,164.0,277531.5
+Kilkenny,2023,4,2023 Q4,4.5,320171.3,Republic of Ireland,False,185.0,269472.65
+Kilkenny,2024,1,2024 Q1,3.47,304596.88,Republic of Ireland,False,150.0,279026.8
+Kilkenny,2024,2,2024 Q2,2.47,322819.98,Republic of Ireland,False,160.0,275767.17
+Kilkenny,2024,3,2024 Q3,1.53,329835.97,Republic of Ireland,False,181.0,285256.73
+Kilkenny,2024,4,2024 Q4,1.03,317968.31,Republic of Ireland,False,183.0,290060.79
+Kilkenny,2025,1,2025 Q1,1.9,355832.42,Republic of Ireland,False,136.0,298807.5
+Kilkenny,2025,2,2025 Q2,1.9,314806.94,Republic of Ireland,False,168.0,287304.7
+Kilkenny,2025,3,2025 Q3,2.13,340724.82,Republic of Ireland,False,168.0,330973.47
+Kilkenny,2025,4,2025 Q4,3.05,316178.67,Republic of Ireland,False,55.0,298173.47
+Laois,2010,1,2010 Q1,-3.37,176140.03,Republic of Ireland,False,44.0,163837.11
+Laois,2010,2,2010 Q2,-1.33,176831.41,Republic of Ireland,False,38.0,153786.05
+Laois,2010,3,2010 Q3,0.2,160693.41,Republic of Ireland,False,53.0,148860.24
+Laois,2010,4,2010 Q4,0.93,152552.09,Republic of Ireland,False,59.0,138902.54
+Laois,2011,1,2011 Q1,2.27,139234.49,Republic of Ireland,False,34.0,127250.0
+Laois,2011,2,2011 Q2,2.87,127395.81,Republic of Ireland,False,48.0,135005.21
+Laois,2011,3,2011 Q3,2.43,112227.69,Republic of Ireland,False,49.0,112099.1
+Laois,2011,4,2011 Q4,2.7,116752.85,Republic of Ireland,False,55.0,116403.64
+Laois,2012,1,2012 Q1,2.13,115421.42,Republic of Ireland,False,39.0,105783.69
+Laois,2012,2,2012 Q2,1.8,92618.65,Republic of Ireland,False,66.0,92600.0
+Laois,2012,3,2012 Q3,1.77,92978.26,Republic of Ireland,False,64.0,101400.31
+Laois,2012,4,2012 Q4,1.07,86227.74,Republic of Ireland,False,83.0,88964.25
+Laois,2013,1,2013 Q1,0.97,106007.22,Republic of Ireland,False,41.0,116343.2
+Laois,2013,2,2013 Q2,0.53,90903.46,Republic of Ireland,False,56.0,92702.23
+Laois,2013,3,2013 Q3,0.3,126917.32,Republic of Ireland,False,72.0,97169.44
+Laois,2013,4,2013 Q4,0.23,84726.21,Republic of Ireland,False,111.0,85406.62
+Laois,2014,1,2014 Q1,0.07,91437.97,Republic of Ireland,False,74.0,89417.7
+Laois,2014,2,2014 Q2,0.37,100595.33,Republic of Ireland,False,105.0,100641.9
+Laois,2014,3,2014 Q3,0.37,105150.09,Republic of Ireland,False,106.0,100008.49
+Laois,2014,4,2014 Q4,-0.03,104344.36,Republic of Ireland,False,176.0,100915.96
+Laois,2015,1,2015 Q1,-0.6,104466.03,Republic of Ireland,False,97.0,112523.2
+Laois,2015,2,2015 Q2,-0.43,117655.88,Republic of Ireland,False,124.0,108723.31
+Laois,2015,3,2015 Q3,-0.17,131640.73,Republic of Ireland,False,111.0,123830.63
+Laois,2015,4,2015 Q4,-0.07,147632.56,Republic of Ireland,False,149.0,123358.72
+Laois,2016,1,2016 Q1,-0.13,127095.45,Republic of Ireland,False,108.0,125901.19
+Laois,2016,2,2016 Q2,0.17,122603.32,Republic of Ireland,False,135.0,118201.92
+Laois,2016,3,2016 Q3,0.13,243663.24,Republic of Ireland,False,141.0,125333.82
+Laois,2016,4,2016 Q4,-0.07,133286.31,Republic of Ireland,False,167.0,128464.02
+Laois,2017,1,2017 Q1,0.57,146547.71,Republic of Ireland,False,119.0,136086.73
+Laois,2017,2,2017 Q2,0.23,162805.26,Republic of Ireland,False,106.0,157064.58
+Laois,2017,3,2017 Q3,0.2,144992.7,Republic of Ireland,False,185.0,137249.11
+Laois,2017,4,2017 Q4,0.47,159701.59,Republic of Ireland,False,165.0,155257.86
+Laois,2018,1,2018 Q1,0.23,163124.79,Republic of Ireland,False,112.0,147806.5
+Laois,2018,2,2018 Q2,0.17,148287.85,Republic of Ireland,False,129.0,157040.29
+Laois,2018,3,2018 Q3,0.77,165932.04,Republic of Ireland,False,167.0,161696.99
+Laois,2018,4,2018 Q4,0.73,163627.13,Republic of Ireland,False,173.0,153824.93
+Laois,2019,1,2019 Q1,0.83,169707.36,Republic of Ireland,False,137.0,159855.96
+Laois,2019,2,2019 Q2,1.17,159965.9,Republic of Ireland,False,186.0,158667.06
+Laois,2019,3,2019 Q3,0.7,179625.9,Republic of Ireland,False,181.0,178116.58
+Laois,2019,4,2019 Q4,1.03,183673.43,Republic of Ireland,False,173.0,180809.99
+Laois,2020,1,2020 Q1,1.03,181533.83,Republic of Ireland,False,125.0,170452.57
+Laois,2020,2,2020 Q2,-0.3,195514.61,Republic of Ireland,False,110.0,169709.81
+Laois,2020,3,2020 Q3,-0.93,213867.5,Republic of Ireland,False,115.0,171087.34
+Laois,2020,4,2020 Q4,-1.13,209361.73,Republic of Ireland,False,166.0,183813.99
+Laois,2021,1,2021 Q1,-0.23,232965.96,Republic of Ireland,False,150.0,192346.26
+Laois,2021,2,2021 Q2,1.4,230252.88,Republic of Ireland,False,175.0,182359.11
+Laois,2021,3,2021 Q3,2.93,249823.91,Republic of Ireland,False,197.0,200098.51
+Laois,2021,4,2021 Q4,5.27,220998.49,Republic of Ireland,False,216.0,208544.06
+Laois,2022,1,2022 Q1,5.77,204419.21,Republic of Ireland,False,164.0,208965.72
+Laois,2022,2,2022 Q2,7.97,223948.47,Republic of Ireland,False,174.0,207990.72
+Laois,2022,3,2022 Q3,8.7,213810.17,Republic of Ireland,False,214.0,220603.49
+Laois,2022,4,2022 Q4,8.8,275605.23,Republic of Ireland,False,232.0,224784.35
+Laois,2023,1,2023 Q1,7.97,258304.98,Republic of Ireland,False,176.0,220250.85
+Laois,2023,2,2023 Q2,6.63,262293.14,Republic of Ireland,False,176.0,226107.43
+Laois,2023,3,2023 Q3,6.23,279530.9,Republic of Ireland,False,219.0,233136.99
+Laois,2023,4,2023 Q4,4.5,301933.75,Republic of Ireland,False,215.0,244541.14
+Laois,2024,1,2024 Q1,3.47,248072.28,Republic of Ireland,False,129.0,232123.64
+Laois,2024,2,2024 Q2,2.47,262941.36,Republic of Ireland,False,180.0,232821.02
+Laois,2024,3,2024 Q3,1.53,251359.31,Republic of Ireland,False,180.0,230797.92
+Laois,2024,4,2024 Q4,1.03,278663.38,Republic of Ireland,False,231.0,256463.72
+Laois,2025,1,2025 Q1,1.9,275432.59,Republic of Ireland,False,123.0,246513.52
+Laois,2025,2,2025 Q2,1.9,264502.57,Republic of Ireland,False,163.0,242880.96
+Laois,2025,3,2025 Q3,2.13,310718.2,Republic of Ireland,False,165.0,271079.73
+Laois,2025,4,2025 Q4,3.05,318730.71,Republic of Ireland,False,73.0,305000.38
+Leitrim,2010,1,2010 Q1,-3.37,133485.36,Republic of Ireland,False,11.0,115636.36
+Leitrim,2010,2,2010 Q2,-1.33,134282.41,Republic of Ireland,False,15.0,128622.67
+Leitrim,2010,3,2010 Q3,0.2,117958.93,Republic of Ireland,False,25.0,101690.0
+Leitrim,2010,4,2010 Q4,0.93,132383.84,Republic of Ireland,False,23.0,132854.35
+Leitrim,2011,1,2011 Q1,2.27,105081.27,Republic of Ireland,False,18.0,99061.11
+Leitrim,2011,2,2011 Q2,2.87,131171.35,Republic of Ireland,False,18.0,120250.0
+Leitrim,2011,3,2011 Q3,2.43,105889.93,Republic of Ireland,False,28.0,103896.62
+Leitrim,2011,4,2011 Q4,2.7,96240.19,Republic of Ireland,False,45.0,92405.24
+Leitrim,2012,1,2012 Q1,2.13,95756.58,Republic of Ireland,False,23.0,93399.87
+Leitrim,2012,2,2012 Q2,1.8,125411.27,Republic of Ireland,False,23.0,132543.48
+Leitrim,2012,3,2012 Q3,1.77,103735.02,Republic of Ireland,False,36.0,96069.44
+Leitrim,2012,4,2012 Q4,1.07,75441.54,Republic of Ireland,False,40.0,83446.25
+Leitrim,2013,1,2013 Q1,0.97,68520.71,Republic of Ireland,False,23.0,71000.0
+Leitrim,2013,2,2013 Q2,0.53,72565.25,Republic of Ireland,False,64.0,68065.49
+Leitrim,2013,3,2013 Q3,0.3,77947.0,Republic of Ireland,False,56.0,76156.07
+Leitrim,2013,4,2013 Q4,0.23,68228.29,Republic of Ireland,False,73.0,69981.79
+Leitrim,2014,1,2014 Q1,0.07,70236.17,Republic of Ireland,False,46.0,68889.82
+Leitrim,2014,2,2014 Q2,0.37,81927.65,Republic of Ireland,False,55.0,80252.73
+Leitrim,2014,3,2014 Q3,0.37,87714.6,Republic of Ireland,False,59.0,86438.14
+Leitrim,2014,4,2014 Q4,-0.03,74683.85,Republic of Ireland,False,120.0,69026.32
+Leitrim,2015,1,2015 Q1,-0.6,89770.17,Republic of Ireland,False,72.0,87351.94
+Leitrim,2015,2,2015 Q2,-0.43,90681.03,Republic of Ireland,False,73.0,82325.34
+Leitrim,2015,3,2015 Q3,-0.17,95508.03,Republic of Ireland,False,75.0,79495.33
+Leitrim,2015,4,2015 Q4,-0.07,86453.43,Republic of Ireland,False,123.0,83479.67
+Leitrim,2016,1,2016 Q1,-0.13,80548.22,Republic of Ireland,False,69.0,78340.06
+Leitrim,2016,2,2016 Q2,0.17,79940.57,Republic of Ireland,False,108.0,72298.08
+Leitrim,2016,3,2016 Q3,0.13,91481.04,Republic of Ireland,False,92.0,79959.55
+Leitrim,2016,4,2016 Q4,-0.07,97394.91,Republic of Ireland,False,117.0,85618.8
+Leitrim,2017,1,2017 Q1,0.57,90721.69,Republic of Ireland,False,88.0,82637.92
+Leitrim,2017,2,2017 Q2,0.23,99731.1,Republic of Ireland,False,89.0,97612.36
+Leitrim,2017,3,2017 Q3,0.2,113385.86,Republic of Ireland,False,91.0,107957.42
+Leitrim,2017,4,2017 Q4,0.47,96662.99,Republic of Ireland,False,112.0,92443.65
+Leitrim,2018,1,2018 Q1,0.23,110902.26,Republic of Ireland,False,91.0,108756.1
+Leitrim,2018,2,2018 Q2,0.17,106912.61,Republic of Ireland,False,77.0,92031.17
+Leitrim,2018,3,2018 Q3,0.77,110657.4,Republic of Ireland,False,104.0,111397.12
+Leitrim,2018,4,2018 Q4,0.73,114496.91,Republic of Ireland,False,111.0,114157.44
+Leitrim,2019,1,2019 Q1,0.83,102064.45,Republic of Ireland,False,77.0,102301.95
+Leitrim,2019,2,2019 Q2,1.17,115506.4,Republic of Ireland,False,81.0,111802.09
+Leitrim,2019,3,2019 Q3,0.7,118477.44,Republic of Ireland,False,106.0,108422.97
+Leitrim,2019,4,2019 Q4,1.03,117746.58,Republic of Ireland,False,108.0,107641.43
+Leitrim,2020,1,2020 Q1,1.03,112262.16,Republic of Ireland,False,74.0,106803.77
+Leitrim,2020,2,2020 Q2,-0.3,125065.21,Republic of Ireland,False,59.0,119997.76
+Leitrim,2020,3,2020 Q3,-0.93,123078.98,Republic of Ireland,False,73.0,117646.96
+Leitrim,2020,4,2020 Q4,-1.13,133343.81,Republic of Ireland,False,139.0,117105.28
+Leitrim,2021,1,2021 Q1,-0.23,134145.49,Republic of Ireland,False,101.0,127016.26
+Leitrim,2021,2,2021 Q2,1.4,117931.88,Republic of Ireland,False,106.0,124026.05
+Leitrim,2021,3,2021 Q3,2.93,140531.66,Republic of Ireland,False,96.0,137875.43
+Leitrim,2021,4,2021 Q4,5.27,160302.88,Republic of Ireland,False,134.0,156365.63
+Leitrim,2022,1,2022 Q1,5.77,135227.47,Republic of Ireland,False,105.0,143234.47
+Leitrim,2022,2,2022 Q2,7.97,146458.5,Republic of Ireland,False,108.0,150715.28
+Leitrim,2022,3,2022 Q3,8.7,158558.72,Republic of Ireland,False,103.0,163082.52
+Leitrim,2022,4,2022 Q4,8.8,175457.29,Republic of Ireland,False,159.0,170059.83
+Leitrim,2023,1,2023 Q1,7.97,156660.1,Republic of Ireland,False,99.0,163433.33
+Leitrim,2023,2,2023 Q2,6.63,143099.07,Republic of Ireland,False,88.0,148670.45
+Leitrim,2023,3,2023 Q3,6.23,167443.3,Republic of Ireland,False,120.0,174314.48
+Leitrim,2023,4,2023 Q4,4.5,172048.67,Republic of Ireland,False,140.0,170087.22
+Leitrim,2024,1,2024 Q1,3.47,186386.14,Republic of Ireland,False,86.0,183982.73
+Leitrim,2024,2,2024 Q2,2.47,170916.82,Republic of Ireland,False,111.0,163301.3
+Leitrim,2024,3,2024 Q3,1.53,185444.11,Republic of Ireland,False,102.0,170718.87
+Leitrim,2024,4,2024 Q4,1.03,201646.61,Republic of Ireland,False,122.0,187530.27
+Leitrim,2025,1,2025 Q1,1.9,181294.15,Republic of Ireland,False,75.0,167629.33
+Leitrim,2025,2,2025 Q2,1.9,212988.25,Republic of Ireland,False,91.0,198931.0
+Leitrim,2025,3,2025 Q3,2.13,238893.28,Republic of Ireland,False,92.0,216877.06
+Leitrim,2025,4,2025 Q4,3.05,215617.37,Republic of Ireland,False,36.0,208092.97
+Limerick,2010,1,2010 Q1,-3.37,204984.19,Republic of Ireland,False,83.0,183341.57
+Limerick,2010,2,2010 Q2,-1.33,185017.05,Republic of Ireland,False,128.0,181354.1
+Limerick,2010,3,2010 Q3,0.2,194546.19,Republic of Ireland,False,143.0,187238.46
+Limerick,2010,4,2010 Q4,0.93,184687.11,Republic of Ireland,False,131.0,172776.35
+Limerick,2011,1,2011 Q1,2.27,182302.88,Republic of Ireland,False,99.0,179301.01
+Limerick,2011,2,2011 Q2,2.87,158698.93,Republic of Ireland,False,111.0,162996.6
+Limerick,2011,3,2011 Q3,2.43,173447.83,Republic of Ireland,False,169.0,161694.98
+Limerick,2011,4,2011 Q4,2.7,141184.81,Republic of Ireland,False,152.0,142003.23
+Limerick,2012,1,2012 Q1,2.13,142134.6,Republic of Ireland,False,116.0,143146.07
+Limerick,2012,2,2012 Q2,1.8,142012.5,Republic of Ireland,False,140.0,129328.36
+Limerick,2012,3,2012 Q3,1.77,156571.75,Republic of Ireland,False,158.0,156334.27
+Limerick,2012,4,2012 Q4,1.07,142461.97,Republic of Ireland,False,243.0,139338.93
+Limerick,2013,1,2013 Q1,0.97,132752.45,Republic of Ireland,False,114.0,120969.74
+Limerick,2013,2,2013 Q2,0.53,134145.78,Republic of Ireland,False,168.0,128534.94
+Limerick,2013,3,2013 Q3,0.3,149016.58,Republic of Ireland,False,203.0,132949.62
+Limerick,2013,4,2013 Q4,0.23,135869.36,Republic of Ireland,False,235.0,130295.26
+Limerick,2014,1,2014 Q1,0.07,120479.6,Republic of Ireland,False,172.0,111996.02
+Limerick,2014,2,2014 Q2,0.37,118756.55,Republic of Ireland,False,245.0,108528.88
+Limerick,2014,3,2014 Q3,0.37,127641.93,Republic of Ireland,False,341.0,119423.03
+Limerick,2014,4,2014 Q4,-0.03,115680.97,Republic of Ireland,False,589.0,103439.44
+Limerick,2015,1,2015 Q1,-0.6,124374.79,Republic of Ireland,False,368.0,119489.53
+Limerick,2015,2,2015 Q2,-0.43,132135.43,Republic of Ireland,False,334.0,115397.67
+Limerick,2015,3,2015 Q3,-0.17,131784.0,Republic of Ireland,False,517.0,107960.87
+Limerick,2015,4,2015 Q4,-0.07,158198.62,Republic of Ireland,False,468.0,148106.38
+Limerick,2016,1,2016 Q1,-0.13,136313.46,Republic of Ireland,False,326.0,118469.94
+Limerick,2016,2,2016 Q2,0.17,138226.48,Republic of Ireland,False,350.0,126169.04
+Limerick,2016,3,2016 Q3,0.13,150168.72,Republic of Ireland,False,396.0,141234.1
+Limerick,2016,4,2016 Q4,-0.07,149453.76,Republic of Ireland,False,491.0,134662.93
+Limerick,2017,1,2017 Q1,0.57,162484.21,Republic of Ireland,False,290.0,146309.13
+Limerick,2017,2,2017 Q2,0.23,157427.15,Republic of Ireland,False,403.0,138124.15
+Limerick,2017,3,2017 Q3,0.2,162103.98,Republic of Ireland,False,485.0,142058.61
+Limerick,2017,4,2017 Q4,0.47,173886.24,Republic of Ireland,False,480.0,158039.16
+Limerick,2018,1,2018 Q1,0.23,181048.57,Republic of Ireland,False,344.0,162481.4
+Limerick,2018,2,2018 Q2,0.17,189867.6,Republic of Ireland,False,363.0,162589.98
+Limerick,2018,3,2018 Q3,0.77,195709.27,Republic of Ireland,False,442.0,173145.69
+Limerick,2018,4,2018 Q4,0.73,198668.12,Republic of Ireland,False,527.0,171191.5
+Limerick,2019,1,2019 Q1,0.83,181206.6,Republic of Ireland,False,322.0,168592.35
+Limerick,2019,2,2019 Q2,1.17,210981.88,Republic of Ireland,False,370.0,181024.94
+Limerick,2019,3,2019 Q3,0.7,219545.67,Republic of Ireland,False,468.0,186340.83
+Limerick,2019,4,2019 Q4,1.03,180107.37,Republic of Ireland,False,502.0,169758.99
+Limerick,2020,1,2020 Q1,1.03,210136.28,Republic of Ireland,False,340.0,182619.41
+Limerick,2020,2,2020 Q2,-0.3,206894.88,Republic of Ireland,False,234.0,183542.71
+Limerick,2020,3,2020 Q3,-0.93,193840.56,Republic of Ireland,False,336.0,169703.21
+Limerick,2020,4,2020 Q4,-1.13,235785.8,Republic of Ireland,False,487.0,192023.48
+Limerick,2021,1,2021 Q1,-0.23,210711.48,Republic of Ireland,False,350.0,186178.57
+Limerick,2021,2,2021 Q2,1.4,256811.4,Republic of Ireland,False,389.0,199411.0
+Limerick,2021,3,2021 Q3,2.93,220973.39,Republic of Ireland,False,488.0,214653.07
+Limerick,2021,4,2021 Q4,5.27,238411.39,Republic of Ireland,False,527.0,206392.67
+Limerick,2022,1,2022 Q1,5.77,234975.14,Republic of Ireland,False,355.0,233304.55
+Limerick,2022,2,2022 Q2,7.97,240711.95,Republic of Ireland,False,404.0,216329.93
+Limerick,2022,3,2022 Q3,8.7,234008.4,Republic of Ireland,False,456.0,229230.97
+Limerick,2022,4,2022 Q4,8.8,283468.99,Republic of Ireland,False,553.0,224939.95
+Limerick,2023,1,2023 Q1,7.97,238399.94,Republic of Ireland,False,349.0,236277.93
+Limerick,2023,2,2023 Q2,6.63,237075.91,Republic of Ireland,False,379.0,228175.27
+Limerick,2023,3,2023 Q3,6.23,241052.55,Republic of Ireland,False,488.0,238174.61
+Limerick,2023,4,2023 Q4,4.5,336452.65,Republic of Ireland,False,486.0,249413.24
+Limerick,2024,1,2024 Q1,3.47,249598.48,Republic of Ireland,False,332.0,240719.58
+Limerick,2024,2,2024 Q2,2.47,317553.12,Republic of Ireland,False,377.0,270918.53
+Limerick,2024,3,2024 Q3,1.53,296450.9,Republic of Ireland,False,404.0,267766.4
+Limerick,2024,4,2024 Q4,1.03,360277.5,Republic of Ireland,False,424.0,273939.99
+Limerick,2025,1,2025 Q1,1.9,324141.22,Republic of Ireland,False,305.0,306263.83
+Limerick,2025,2,2025 Q2,1.9,305000.0,Republic of Ireland,False,382.0,292074.76
+Limerick,2025,3,2025 Q3,2.13,298867.98,Republic of Ireland,False,380.0,293684.77
+Limerick,2025,4,2025 Q4,3.05,318475.85,Republic of Ireland,False,168.0,298771.85
+Longford,2010,1,2010 Q1,-3.37,152496.2,Republic of Ireland,False,16.0,147593.75
+Longford,2010,2,2010 Q2,-1.33,134455.99,Republic of Ireland,False,20.0,92650.0
+Longford,2010,3,2010 Q3,0.2,143847.63,Republic of Ireland,False,23.0,134347.83
+Longford,2010,4,2010 Q4,0.93,124382.18,Republic of Ireland,False,20.0,125150.0
+Longford,2011,1,2011 Q1,2.27,99167.52,Republic of Ireland,False,18.0,118027.78
+Longford,2011,2,2011 Q2,2.87,114243.36,Republic of Ireland,False,19.0,96581.58
+Longford,2011,3,2011 Q3,2.43,92705.0,Republic of Ireland,False,23.0,81239.13
+Longford,2011,4,2011 Q4,2.7,86393.73,Republic of Ireland,False,20.0,89625.0
+Longford,2012,1,2012 Q1,2.13,76607.78,Republic of Ireland,False,19.0,84139.58
+Longford,2012,2,2012 Q2,1.8,83113.42,Republic of Ireland,False,23.0,80478.26
+Longford,2012,3,2012 Q3,1.77,99169.08,Republic of Ireland,False,36.0,89255.78
+Longford,2012,4,2012 Q4,1.07,72920.1,Republic of Ireland,False,56.0,72197.45
+Longford,2013,1,2013 Q1,0.97,60342.86,Republic of Ireland,False,29.0,65531.13
+Longford,2013,2,2013 Q2,0.53,61596.95,Republic of Ireland,False,48.0,59206.25
+Longford,2013,3,2013 Q3,0.3,73254.98,Republic of Ireland,False,40.0,74037.34
+Longford,2013,4,2013 Q4,0.23,69666.09,Republic of Ireland,False,59.0,66529.66
+Longford,2014,1,2014 Q1,0.07,60678.87,Republic of Ireland,False,46.0,58107.61
+Longford,2014,2,2014 Q2,0.37,72282.93,Republic of Ireland,False,61.0,62413.11
+Longford,2014,3,2014 Q3,0.37,68788.07,Republic of Ireland,False,93.0,60506.59
+Longford,2014,4,2014 Q4,-0.03,70411.54,Republic of Ireland,False,123.0,63750.2
+Longford,2015,1,2015 Q1,-0.6,67379.25,Republic of Ireland,False,107.0,60019.32
+Longford,2015,2,2015 Q2,-0.43,70283.23,Republic of Ireland,False,74.0,67243.81
+Longford,2015,3,2015 Q3,-0.17,74328.46,Republic of Ireland,False,79.0,70222.15
+Longford,2015,4,2015 Q4,-0.07,78418.46,Republic of Ireland,False,91.0,76995.19
+Longford,2016,1,2016 Q1,-0.13,78496.29,Republic of Ireland,False,73.0,74908.38
+Longford,2016,2,2016 Q2,0.17,72991.06,Republic of Ireland,False,91.0,68460.45
+Longford,2016,3,2016 Q3,0.13,95893.35,Republic of Ireland,False,78.0,87326.28
+Longford,2016,4,2016 Q4,-0.07,87057.69,Republic of Ireland,False,110.0,79651.42
+Longford,2017,1,2017 Q1,0.57,82898.32,Republic of Ireland,False,73.0,79073.29
+Longford,2017,2,2017 Q2,0.23,97804.89,Republic of Ireland,False,79.0,89015.82
+Longford,2017,3,2017 Q3,0.2,96973.27,Republic of Ireland,False,74.0,97175.68
+Longford,2017,4,2017 Q4,0.47,102683.07,Republic of Ireland,False,95.0,96615.26
+Longford,2018,1,2018 Q1,0.23,92336.2,Republic of Ireland,False,78.0,89659.27
+Longford,2018,2,2018 Q2,0.17,94536.01,Republic of Ireland,False,90.0,88299.82
+Longford,2018,3,2018 Q3,0.77,101636.6,Republic of Ireland,False,91.0,101641.91
+Longford,2018,4,2018 Q4,0.73,123369.1,Republic of Ireland,False,96.0,107595.83
+Longford,2019,1,2019 Q1,0.83,111223.56,Republic of Ireland,False,71.0,111478.87
+Longford,2019,2,2019 Q2,1.17,117434.56,Republic of Ireland,False,69.0,117442.85
+Longford,2019,3,2019 Q3,0.7,129078.04,Republic of Ireland,False,107.0,123281.53
+Longford,2019,4,2019 Q4,1.03,126189.01,Republic of Ireland,False,91.0,119957.15
+Longford,2020,1,2020 Q1,1.03,151177.93,Republic of Ireland,False,77.0,120776.79
+Longford,2020,2,2020 Q2,-0.3,102521.66,Republic of Ireland,False,62.0,103567.73
+Longford,2020,3,2020 Q3,-0.93,120734.87,Republic of Ireland,False,73.0,109495.08
+Longford,2020,4,2020 Q4,-1.13,147725.32,Republic of Ireland,False,101.0,115274.22
+Longford,2021,1,2021 Q1,-0.23,162802.88,Republic of Ireland,False,113.0,115813.56
+Longford,2021,2,2021 Q2,1.4,131961.9,Republic of Ireland,False,113.0,119731.25
+Longford,2021,3,2021 Q3,2.93,161304.29,Republic of Ireland,False,113.0,133798.18
+Longford,2021,4,2021 Q4,5.27,166215.69,Republic of Ireland,False,146.0,150373.08
+Longford,2022,1,2022 Q1,5.77,150044.5,Republic of Ireland,False,99.0,146015.15
+Longford,2022,2,2022 Q2,7.97,137386.25,Republic of Ireland,False,103.0,149433.57
+Longford,2022,3,2022 Q3,8.7,156205.86,Republic of Ireland,False,108.0,159122.28
+Longford,2022,4,2022 Q4,8.8,146395.12,Republic of Ireland,False,133.0,154128.47
+Longford,2023,1,2023 Q1,7.97,152618.73,Republic of Ireland,False,90.0,160400.12
+Longford,2023,2,2023 Q2,6.63,168316.77,Republic of Ireland,False,88.0,177153.41
+Longford,2023,3,2023 Q3,6.23,178216.91,Republic of Ireland,False,96.0,174593.75
+Longford,2023,4,2023 Q4,4.5,212851.37,Republic of Ireland,False,118.0,187627.12
+Longford,2024,1,2024 Q1,3.47,168367.67,Republic of Ireland,False,92.0,165407.97
+Longford,2024,2,2024 Q2,2.47,185707.87,Republic of Ireland,False,83.0,168732.53
+Longford,2024,3,2024 Q3,1.53,208676.51,Republic of Ireland,False,79.0,225702.53
+Longford,2024,4,2024 Q4,1.03,185459.52,Republic of Ireland,False,104.0,198974.04
+Longford,2025,1,2025 Q1,1.9,175145.72,Republic of Ireland,False,100.0,175535.0
+Longford,2025,2,2025 Q2,1.9,223163.34,Republic of Ireland,False,91.0,202466.48
+Longford,2025,3,2025 Q3,2.13,197218.85,Republic of Ireland,False,104.0,203627.4
+Longford,2025,4,2025 Q4,3.05,192756.46,Republic of Ireland,False,35.0,181998.0
+Louth,2010,1,2010 Q1,-3.37,232483.15,Republic of Ireland,False,68.0,190250.0
+Louth,2010,2,2010 Q2,-1.33,184776.75,Republic of Ireland,False,67.0,174924.63
+Louth,2010,3,2010 Q3,0.2,186879.07,Republic of Ireland,False,94.0,176515.96
+Louth,2010,4,2010 Q4,0.93,164210.2,Republic of Ireland,False,96.0,153842.19
+Louth,2011,1,2011 Q1,2.27,174167.24,Republic of Ireland,False,74.0,164914.86
+Louth,2011,2,2011 Q2,2.87,145037.65,Republic of Ireland,False,65.0,140030.77
+Louth,2011,3,2011 Q3,2.43,152732.97,Republic of Ireland,False,84.0,147512.13
+Louth,2011,4,2011 Q4,2.7,142699.04,Republic of Ireland,False,108.0,131012.18
+Louth,2012,1,2012 Q1,2.13,133129.02,Republic of Ireland,False,89.0,121493.12
+Louth,2012,2,2012 Q2,1.8,164566.07,Republic of Ireland,False,85.0,114444.12
+Louth,2012,3,2012 Q3,1.77,138269.09,Republic of Ireland,False,116.0,127347.13
+Louth,2012,4,2012 Q4,1.07,124388.62,Republic of Ireland,False,157.0,123363.82
+Louth,2013,1,2013 Q1,0.97,121960.3,Republic of Ireland,False,101.0,110940.1
+Louth,2013,2,2013 Q2,0.53,130463.5,Republic of Ireland,False,127.0,120930.12
+Louth,2013,3,2013 Q3,0.3,118530.08,Republic of Ireland,False,142.0,112354.03
+Louth,2013,4,2013 Q4,0.23,136522.43,Republic of Ireland,False,199.0,128362.14
+Louth,2014,1,2014 Q1,0.07,115238.14,Republic of Ireland,False,146.0,103922.12
+Louth,2014,2,2014 Q2,0.37,121944.79,Republic of Ireland,False,167.0,119164.07
+Louth,2014,3,2014 Q3,0.37,135316.33,Republic of Ireland,False,246.0,128637.8
+Louth,2014,4,2014 Q4,-0.03,134060.59,Republic of Ireland,False,333.0,123444.91
+Louth,2015,1,2015 Q1,-0.6,139486.97,Republic of Ireland,False,187.0,133133.71
+Louth,2015,2,2015 Q2,-0.43,143325.82,Republic of Ireland,False,203.0,134508.52
+Louth,2015,3,2015 Q3,-0.17,137633.37,Republic of Ireland,False,280.0,135904.26
+Louth,2015,4,2015 Q4,-0.07,149853.23,Republic of Ireland,False,297.0,145143.63
+Louth,2016,1,2016 Q1,-0.13,143665.02,Republic of Ireland,False,177.0,130829.48
+Louth,2016,2,2016 Q2,0.17,156908.66,Republic of Ireland,False,240.0,146308.81
+Louth,2016,3,2016 Q3,0.13,163129.46,Republic of Ireland,False,255.0,153488.21
+Louth,2016,4,2016 Q4,-0.07,186528.91,Republic of Ireland,False,293.0,169185.03
+Louth,2017,1,2017 Q1,0.57,352542.05,Republic of Ireland,False,231.0,397643.16
+Louth,2017,2,2017 Q2,0.23,189424.98,Republic of Ireland,False,221.0,161092.9
+Louth,2017,3,2017 Q3,0.2,206795.28,Republic of Ireland,False,256.0,182207.57
+Louth,2017,4,2017 Q4,0.47,193318.55,Republic of Ireland,False,292.0,179074.58
+Louth,2018,1,2018 Q1,0.23,209917.86,Republic of Ireland,False,202.0,189675.24
+Louth,2018,2,2018 Q2,0.17,193314.73,Republic of Ireland,False,217.0,180604.42
+Louth,2018,3,2018 Q3,0.77,207631.51,Republic of Ireland,False,252.0,194141.98
+Louth,2018,4,2018 Q4,0.73,203481.27,Republic of Ireland,False,324.0,190708.48
+Louth,2019,1,2019 Q1,0.83,201524.7,Republic of Ireland,False,233.0,188267.06
+Louth,2019,2,2019 Q2,1.17,215897.32,Republic of Ireland,False,252.0,211750.1
+Louth,2019,3,2019 Q3,0.7,198260.0,Republic of Ireland,False,272.0,187966.88
+Louth,2019,4,2019 Q4,1.03,236954.82,Republic of Ireland,False,265.0,191547.43
+Louth,2020,1,2020 Q1,1.03,226745.44,Republic of Ireland,False,235.0,191852.62
+Louth,2020,2,2020 Q2,-0.3,211818.16,Republic of Ireland,False,144.0,189804.49
+Louth,2020,3,2020 Q3,-0.93,224837.05,Republic of Ireland,False,201.0,205273.34
+Louth,2020,4,2020 Q4,-1.13,220149.57,Republic of Ireland,False,364.0,194629.64
+Louth,2021,1,2021 Q1,-0.23,243277.08,Republic of Ireland,False,224.0,210183.33
+Louth,2021,2,2021 Q2,1.4,236662.87,Republic of Ireland,False,246.0,213443.17
+Louth,2021,3,2021 Q3,2.93,237616.71,Republic of Ireland,False,287.0,222982.47
+Louth,2021,4,2021 Q4,5.27,280741.39,Republic of Ireland,False,343.0,229804.21
+Louth,2022,1,2022 Q1,5.77,224236.01,Republic of Ireland,False,243.0,229570.59
+Louth,2022,2,2022 Q2,7.97,233847.02,Republic of Ireland,False,269.0,238821.74
+Louth,2022,3,2022 Q3,8.7,232875.26,Republic of Ireland,False,295.0,238760.06
+Louth,2022,4,2022 Q4,8.8,256329.16,Republic of Ireland,False,368.0,247775.18
+Louth,2023,1,2023 Q1,7.97,251521.91,Republic of Ireland,False,255.0,241073.17
+Louth,2023,2,2023 Q2,6.63,261237.48,Republic of Ireland,False,257.0,248553.77
+Louth,2023,3,2023 Q3,6.23,257978.24,Republic of Ireland,False,284.0,251325.7
+Louth,2023,4,2023 Q4,4.5,316728.13,Republic of Ireland,False,303.0,272571.13
+Louth,2024,1,2024 Q1,3.47,271710.07,Republic of Ireland,False,194.0,258342.36
+Louth,2024,2,2024 Q2,2.47,291122.29,Republic of Ireland,False,226.0,269984.81
+Louth,2024,3,2024 Q3,1.53,303747.34,Republic of Ireland,False,272.0,277359.07
+Louth,2024,4,2024 Q4,1.03,337370.06,Republic of Ireland,False,332.0,282933.07
+Louth,2025,1,2025 Q1,1.9,300366.58,Republic of Ireland,False,234.0,280162.22
+Louth,2025,2,2025 Q2,1.9,383839.83,Republic of Ireland,False,235.0,292448.94
+Louth,2025,3,2025 Q3,2.13,339300.53,Republic of Ireland,False,284.0,303535.11
+Louth,2025,4,2025 Q4,3.05,406247.25,Republic of Ireland,False,106.0,299298.74
+Mayo,2010,1,2010 Q1,-3.37,169347.36,Republic of Ireland,False,52.0,149654.19
+Mayo,2010,2,2010 Q2,-1.33,160471.13,Republic of Ireland,False,66.0,161844.7
+Mayo,2010,3,2010 Q3,0.2,163009.5,Republic of Ireland,False,83.0,166071.08
+Mayo,2010,4,2010 Q4,0.93,149694.73,Republic of Ireland,False,90.0,141693.09
+Mayo,2011,1,2011 Q1,2.27,148507.0,Republic of Ireland,False,57.0,135399.12
+Mayo,2011,2,2011 Q2,2.87,131754.28,Republic of Ireland,False,55.0,139301.18
+Mayo,2011,3,2011 Q3,2.43,124242.86,Republic of Ireland,False,84.0,127303.1
+Mayo,2011,4,2011 Q4,2.7,141683.42,Republic of Ireland,False,110.0,140595.33
+Mayo,2012,1,2012 Q1,2.13,109190.79,Republic of Ireland,False,75.0,114254.93
+Mayo,2012,2,2012 Q2,1.8,104678.75,Republic of Ireland,False,82.0,105189.02
+Mayo,2012,3,2012 Q3,1.77,108966.59,Republic of Ireland,False,107.0,108296.84
+Mayo,2012,4,2012 Q4,1.07,103350.46,Republic of Ireland,False,142.0,116652.04
+Mayo,2013,1,2013 Q1,0.97,107370.46,Republic of Ireland,False,79.0,102004.19
+Mayo,2013,2,2013 Q2,0.53,97101.1,Republic of Ireland,False,89.0,105337.54
+Mayo,2013,3,2013 Q3,0.3,111884.2,Republic of Ireland,False,137.0,102349.93
+Mayo,2013,4,2013 Q4,0.23,116673.86,Republic of Ireland,False,132.0,117762.99
+Mayo,2014,1,2014 Q1,0.07,99392.19,Republic of Ireland,False,114.0,94140.23
+Mayo,2014,2,2014 Q2,0.37,99238.05,Republic of Ireland,False,188.0,92874.56
+Mayo,2014,3,2014 Q3,0.37,96409.1,Republic of Ireland,False,235.0,91399.91
+Mayo,2014,4,2014 Q4,-0.03,121111.13,Republic of Ireland,False,272.0,94538.34
+Mayo,2015,1,2015 Q1,-0.6,128849.48,Republic of Ireland,False,219.0,98602.43
+Mayo,2015,2,2015 Q2,-0.43,112496.75,Republic of Ireland,False,241.0,104974.06
+Mayo,2015,3,2015 Q3,-0.17,116744.62,Republic of Ireland,False,266.0,106580.42
+Mayo,2015,4,2015 Q4,-0.07,102935.28,Republic of Ireland,False,312.0,96101.94
+Mayo,2016,1,2016 Q1,-0.13,107956.91,Republic of Ireland,False,232.0,97522.08
+Mayo,2016,2,2016 Q2,0.17,113505.67,Republic of Ireland,False,227.0,109526.6
+Mayo,2016,3,2016 Q3,0.13,117247.57,Republic of Ireland,False,258.0,112598.03
+Mayo,2016,4,2016 Q4,-0.07,111324.28,Republic of Ireland,False,292.0,104187.02
+Mayo,2017,1,2017 Q1,0.57,109311.06,Republic of Ireland,False,219.0,105372.39
+Mayo,2017,2,2017 Q2,0.23,130062.35,Republic of Ireland,False,261.0,116969.75
+Mayo,2017,3,2017 Q3,0.2,128663.46,Republic of Ireland,False,269.0,120391.14
+Mayo,2017,4,2017 Q4,0.47,147407.19,Republic of Ireland,False,314.0,125823.71
+Mayo,2018,1,2018 Q1,0.23,126024.91,Republic of Ireland,False,218.0,117942.38
+Mayo,2018,2,2018 Q2,0.17,131776.13,Republic of Ireland,False,270.0,120991.58
+Mayo,2018,3,2018 Q3,0.77,128293.18,Republic of Ireland,False,278.0,122665.34
+Mayo,2018,4,2018 Q4,0.73,143114.76,Republic of Ireland,False,289.0,133948.58
+Mayo,2019,1,2019 Q1,0.83,129003.84,Republic of Ireland,False,236.0,115587.41
+Mayo,2019,2,2019 Q2,1.17,141579.59,Republic of Ireland,False,251.0,131762.94
+Mayo,2019,3,2019 Q3,0.7,139675.0,Republic of Ireland,False,269.0,134434.09
+Mayo,2019,4,2019 Q4,1.03,142739.3,Republic of Ireland,False,312.0,131897.28
+Mayo,2020,1,2020 Q1,1.03,140257.33,Republic of Ireland,False,240.0,132394.19
+Mayo,2020,2,2020 Q2,-0.3,131017.98,Republic of Ireland,False,165.0,126163.47
+Mayo,2020,3,2020 Q3,-0.93,129686.65,Republic of Ireland,False,242.0,117848.57
+Mayo,2020,4,2020 Q4,-1.13,167141.83,Republic of Ireland,False,343.0,141326.73
+Mayo,2021,1,2021 Q1,-0.23,150447.13,Republic of Ireland,False,259.0,143064.47
+Mayo,2021,2,2021 Q2,1.4,156152.6,Republic of Ireland,False,312.0,149191.92
+Mayo,2021,3,2021 Q3,2.93,162829.58,Republic of Ireland,False,350.0,159274.66
+Mayo,2021,4,2021 Q4,5.27,176124.38,Republic of Ireland,False,347.0,164654.16
+Mayo,2022,1,2022 Q1,5.77,155720.15,Republic of Ireland,False,256.0,157200.34
+Mayo,2022,2,2022 Q2,7.97,165825.56,Republic of Ireland,False,317.0,166517.49
+Mayo,2022,3,2022 Q3,8.7,188208.99,Republic of Ireland,False,334.0,190014.31
+Mayo,2022,4,2022 Q4,8.8,202804.41,Republic of Ireland,False,332.0,194497.02
+Mayo,2023,1,2023 Q1,7.97,175774.84,Republic of Ireland,False,234.0,179730.48
+Mayo,2023,2,2023 Q2,6.63,189757.02,Republic of Ireland,False,287.0,188712.08
+Mayo,2023,3,2023 Q3,6.23,189296.2,Republic of Ireland,False,346.0,184869.45
+Mayo,2023,4,2023 Q4,4.5,210441.7,Republic of Ireland,False,348.0,202651.65
+Mayo,2024,1,2024 Q1,3.47,199767.89,Republic of Ireland,False,229.0,190108.26
+Mayo,2024,2,2024 Q2,2.47,219123.72,Republic of Ireland,False,293.0,195153.38
+Mayo,2024,3,2024 Q3,1.53,224652.45,Republic of Ireland,False,308.0,204366.38
+Mayo,2024,4,2024 Q4,1.03,229721.07,Republic of Ireland,False,322.0,212627.59
+Mayo,2025,1,2025 Q1,1.9,216681.71,Republic of Ireland,False,246.0,203480.3
+Mayo,2025,2,2025 Q2,1.9,208481.41,Republic of Ireland,False,307.0,200127.52
+Mayo,2025,3,2025 Q3,2.13,241237.01,Republic of Ireland,False,296.0,230588.62
+Mayo,2025,4,2025 Q4,3.05,238913.19,Republic of Ireland,False,115.0,230342.26
+Meath,2010,1,2010 Q1,-3.37,230649.93,Republic of Ireland,False,93.0,227653.23
+Meath,2010,2,2010 Q2,-1.33,247097.9,Republic of Ireland,False,119.0,260907.14
+Meath,2010,3,2010 Q3,0.2,220864.64,Republic of Ireland,False,164.0,226997.05
+Meath,2010,4,2010 Q4,0.93,216080.72,Republic of Ireland,False,122.0,218207.76
+Meath,2011,1,2011 Q1,2.27,210711.19,Republic of Ireland,False,76.0,216624.22
+Meath,2011,2,2011 Q2,2.87,177306.51,Republic of Ireland,False,92.0,187309.04
+Meath,2011,3,2011 Q3,2.43,191852.38,Republic of Ireland,False,116.0,196421.42
+Meath,2011,4,2011 Q4,2.7,192053.26,Republic of Ireland,False,128.0,187826.98
+Meath,2012,1,2012 Q1,2.13,164586.08,Republic of Ireland,False,90.0,158421.95
+Meath,2012,2,2012 Q2,1.8,190677.87,Republic of Ireland,False,127.0,184240.38
+Meath,2012,3,2012 Q3,1.77,174118.28,Republic of Ireland,False,152.0,172542.76
+Meath,2012,4,2012 Q4,1.07,172377.5,Republic of Ireland,False,206.0,168432.52
+Meath,2013,1,2013 Q1,0.97,145386.44,Republic of Ireland,False,111.0,133288.05
+Meath,2013,2,2013 Q2,0.53,171958.4,Republic of Ireland,False,160.0,155280.06
+Meath,2013,3,2013 Q3,0.3,175084.74,Republic of Ireland,False,201.0,163353.16
+Meath,2013,4,2013 Q4,0.23,175629.3,Republic of Ireland,False,280.0,159474.55
+Meath,2014,1,2014 Q1,0.07,177765.43,Republic of Ireland,False,173.0,171625.31
+Meath,2014,2,2014 Q2,0.37,183464.83,Republic of Ireland,False,244.0,175915.47
+Meath,2014,3,2014 Q3,0.37,188844.25,Republic of Ireland,False,353.0,187986.62
+Meath,2014,4,2014 Q4,-0.03,190331.86,Republic of Ireland,False,495.0,176722.33
+Meath,2015,1,2015 Q1,-0.6,204005.52,Republic of Ireland,False,262.0,192666.83
+Meath,2015,2,2015 Q2,-0.43,191893.39,Republic of Ireland,False,270.0,185239.41
+Meath,2015,3,2015 Q3,-0.17,215377.03,Republic of Ireland,False,344.0,198313.92
+Meath,2015,4,2015 Q4,-0.07,227252.3,Republic of Ireland,False,382.0,211067.25
+Meath,2016,1,2016 Q1,-0.13,225048.36,Republic of Ireland,False,214.0,196292.92
+Meath,2016,2,2016 Q2,0.17,219152.54,Republic of Ireland,False,276.0,197981.46
+Meath,2016,3,2016 Q3,0.13,221758.89,Republic of Ireland,False,324.0,210288.14
+Meath,2016,4,2016 Q4,-0.07,232815.38,Republic of Ireland,False,388.0,218552.79
+Meath,2017,1,2017 Q1,0.57,234338.23,Republic of Ireland,False,269.0,218766.3
+Meath,2017,2,2017 Q2,0.23,233265.24,Republic of Ireland,False,337.0,216915.63
+Meath,2017,3,2017 Q3,0.2,253644.8,Republic of Ireland,False,350.0,231613.95
+Meath,2017,4,2017 Q4,0.47,255739.92,Republic of Ireland,False,418.0,238791.57
+Meath,2018,1,2018 Q1,0.23,253871.36,Republic of Ireland,False,266.0,233782.39
+Meath,2018,2,2018 Q2,0.17,258945.35,Republic of Ireland,False,321.0,224177.33
+Meath,2018,3,2018 Q3,0.77,261956.61,Republic of Ireland,False,356.0,248817.0
+Meath,2018,4,2018 Q4,0.73,272834.84,Republic of Ireland,False,497.0,250781.43
+Meath,2019,1,2019 Q1,0.83,265441.14,Republic of Ireland,False,269.0,247105.58
+Meath,2019,2,2019 Q2,1.17,274127.95,Republic of Ireland,False,328.0,249520.44
+Meath,2019,3,2019 Q3,0.7,268843.64,Republic of Ireland,False,371.0,255819.96
+Meath,2019,4,2019 Q4,1.03,285052.13,Republic of Ireland,False,420.0,254172.27
+Meath,2020,1,2020 Q1,1.03,266410.56,Republic of Ireland,False,306.0,247694.73
+Meath,2020,2,2020 Q2,-0.3,303271.32,Republic of Ireland,False,211.0,239173.46
+Meath,2020,3,2020 Q3,-0.93,286498.37,Republic of Ireland,False,264.0,249652.83
+Meath,2020,4,2020 Q4,-1.13,289886.47,Republic of Ireland,False,506.0,261774.68
+Meath,2021,1,2021 Q1,-0.23,285661.31,Republic of Ireland,False,337.0,262051.05
+Meath,2021,2,2021 Q2,1.4,312699.14,Republic of Ireland,False,326.0,282554.92
+Meath,2021,3,2021 Q3,2.93,303936.86,Republic of Ireland,False,399.0,288867.27
+Meath,2021,4,2021 Q4,5.27,301216.59,Republic of Ireland,False,452.0,297420.33
+Meath,2022,1,2022 Q1,5.77,295228.09,Republic of Ireland,False,344.0,308813.95
+Meath,2022,2,2022 Q2,7.97,299934.04,Republic of Ireland,False,375.0,300177.48
+Meath,2022,3,2022 Q3,8.7,310348.46,Republic of Ireland,False,437.0,311424.93
+Meath,2022,4,2022 Q4,8.8,327280.38,Republic of Ireland,False,487.0,314122.69
+Meath,2023,1,2023 Q1,7.97,327672.76,Republic of Ireland,False,338.0,317213.76
+Meath,2023,2,2023 Q2,6.63,321673.39,Republic of Ireland,False,365.0,326271.45
+Meath,2023,3,2023 Q3,6.23,344238.6,Republic of Ireland,False,464.0,326829.93
+Meath,2023,4,2023 Q4,4.5,401619.26,Republic of Ireland,False,468.0,339091.65
+Meath,2024,1,2024 Q1,3.47,331070.0,Republic of Ireland,False,333.0,333198.5
+Meath,2024,2,2024 Q2,2.47,381805.89,Republic of Ireland,False,308.0,335999.16
+Meath,2024,3,2024 Q3,1.53,355579.04,Republic of Ireland,False,489.0,341072.44
+Meath,2024,4,2024 Q4,1.03,400556.22,Republic of Ireland,False,452.0,364939.82
+Meath,2025,1,2025 Q1,1.9,362323.25,Republic of Ireland,False,321.0,348130.85
+Meath,2025,2,2025 Q2,1.9,387761.39,Republic of Ireland,False,379.0,360134.67
+Meath,2025,3,2025 Q3,2.13,395652.85,Republic of Ireland,False,434.0,389879.97
+Meath,2025,4,2025 Q4,3.05,382325.57,Republic of Ireland,False,170.0,389979.35
+Monaghan,2010,1,2010 Q1,-3.37,204056.39,Republic of Ireland,False,19.0,163684.21
+Monaghan,2010,2,2010 Q2,-1.33,142813.29,Republic of Ireland,False,28.0,126010.72
+Monaghan,2010,3,2010 Q3,0.2,133084.89,Republic of Ireland,False,22.0,137659.09
+Monaghan,2010,4,2010 Q4,0.93,141087.58,Republic of Ireland,False,32.0,127671.88
+Monaghan,2011,1,2011 Q1,2.27,140322.88,Republic of Ireland,False,15.0,135500.0
+Monaghan,2011,2,2011 Q2,2.87,128907.9,Republic of Ireland,False,19.0,119447.37
+Monaghan,2011,3,2011 Q3,2.43,130533.71,Republic of Ireland,False,15.0,115266.67
+Monaghan,2011,4,2011 Q4,2.7,116717.48,Republic of Ireland,False,29.0,113373.72
+Monaghan,2012,1,2012 Q1,2.13,92516.67,Republic of Ireland,False,18.0,88655.56
+Monaghan,2012,2,2012 Q2,1.8,101089.19,Republic of Ireland,False,19.0,86000.0
+Monaghan,2012,3,2012 Q3,1.77,110242.53,Republic of Ireland,False,33.0,105196.97
+Monaghan,2012,4,2012 Q4,1.07,114296.07,Republic of Ireland,False,36.0,116430.0
+Monaghan,2013,1,2013 Q1,0.97,83224.67,Republic of Ireland,False,36.0,74428.89
+Monaghan,2013,2,2013 Q2,0.53,75396.2,Republic of Ireland,False,26.0,66538.46
+Monaghan,2013,3,2013 Q3,0.3,106517.07,Republic of Ireland,False,40.0,97131.95
+Monaghan,2013,4,2013 Q4,0.23,94215.38,Republic of Ireland,False,39.0,97652.89
+Monaghan,2014,1,2014 Q1,0.07,101435.01,Republic of Ireland,False,30.0,98233.33
+Monaghan,2014,2,2014 Q2,0.37,72179.01,Republic of Ireland,False,62.0,61928.79
+Monaghan,2014,3,2014 Q3,0.37,102433.02,Republic of Ireland,False,53.0,100788.47
+Monaghan,2014,4,2014 Q4,-0.03,115713.45,Republic of Ireland,False,84.0,96196.26
+Monaghan,2015,1,2015 Q1,-0.6,110257.23,Republic of Ireland,False,56.0,110591.07
+Monaghan,2015,2,2015 Q2,-0.43,106716.69,Republic of Ireland,False,57.0,102728.07
+Monaghan,2015,3,2015 Q3,-0.17,121387.29,Republic of Ireland,False,56.0,115181.55
+Monaghan,2015,4,2015 Q4,-0.07,111952.39,Republic of Ireland,False,82.0,107673.78
+Monaghan,2016,1,2016 Q1,-0.13,101882.09,Republic of Ireland,False,84.0,92601.33
+Monaghan,2016,2,2016 Q2,0.17,112182.13,Republic of Ireland,False,75.0,111318.2
+Monaghan,2016,3,2016 Q3,0.13,118409.7,Republic of Ireland,False,69.0,107487.68
+Monaghan,2016,4,2016 Q4,-0.07,136653.29,Republic of Ireland,False,79.0,126110.13
+Monaghan,2017,1,2017 Q1,0.57,125226.59,Republic of Ireland,False,79.0,117790.85
+Monaghan,2017,2,2017 Q2,0.23,147531.59,Republic of Ireland,False,79.0,125382.28
+Monaghan,2017,3,2017 Q3,0.2,137045.11,Republic of Ireland,False,65.0,128484.62
+Monaghan,2017,4,2017 Q4,0.47,139636.17,Republic of Ireland,False,110.0,106743.11
+Monaghan,2018,1,2018 Q1,0.23,143479.75,Republic of Ireland,False,68.0,147149.18
+Monaghan,2018,2,2018 Q2,0.17,148133.2,Republic of Ireland,False,61.0,141138.93
+Monaghan,2018,3,2018 Q3,0.77,170285.71,Republic of Ireland,False,66.0,165981.06
+Monaghan,2018,4,2018 Q4,0.73,126294.22,Republic of Ireland,False,132.0,121403.32
+Monaghan,2019,1,2019 Q1,0.83,149912.87,Republic of Ireland,False,56.0,155437.5
+Monaghan,2019,2,2019 Q2,1.17,139067.6,Republic of Ireland,False,72.0,142915.97
+Monaghan,2019,3,2019 Q3,0.7,143005.09,Republic of Ireland,False,73.0,142782.19
+Monaghan,2019,4,2019 Q4,1.03,167264.19,Republic of Ireland,False,91.0,152272.4
+Monaghan,2020,1,2020 Q1,1.03,146891.23,Republic of Ireland,False,75.0,142426.77
+Monaghan,2020,2,2020 Q2,-0.3,124562.63,Republic of Ireland,False,57.0,125004.54
+Monaghan,2020,3,2020 Q3,-0.93,149215.83,Republic of Ireland,False,69.0,133573.91
+Monaghan,2020,4,2020 Q4,-1.13,245242.73,Republic of Ireland,False,67.0,145736.12
+Monaghan,2021,1,2021 Q1,-0.23,157279.65,Republic of Ireland,False,54.0,147212.96
+Monaghan,2021,2,2021 Q2,1.4,160753.09,Republic of Ireland,False,85.0,136370.4
+Monaghan,2021,3,2021 Q3,2.93,174014.73,Republic of Ireland,False,87.0,161166.15
+Monaghan,2021,4,2021 Q4,5.27,178359.67,Republic of Ireland,False,98.0,186388.78
+Monaghan,2022,1,2022 Q1,5.77,174944.14,Republic of Ireland,False,85.0,175334.26
+Monaghan,2022,2,2022 Q2,7.97,188167.5,Republic of Ireland,False,109.0,160696.79
+Monaghan,2022,3,2022 Q3,8.7,228087.79,Republic of Ireland,False,102.0,199002.45
+Monaghan,2022,4,2022 Q4,8.8,237550.54,Republic of Ireland,False,137.0,198630.8
+Monaghan,2023,1,2023 Q1,7.97,193713.55,Republic of Ireland,False,87.0,208217.24
+Monaghan,2023,2,2023 Q2,6.63,203742.87,Republic of Ireland,False,81.0,176806.17
+Monaghan,2023,3,2023 Q3,6.23,211138.4,Republic of Ireland,False,113.0,186239.81
+Monaghan,2023,4,2023 Q4,4.5,189025.32,Republic of Ireland,False,111.0,189841.44
+Monaghan,2024,1,2024 Q1,3.47,235910.39,Republic of Ireland,False,79.0,218211.11
+Monaghan,2024,2,2024 Q2,2.47,229350.58,Republic of Ireland,False,65.0,191323.08
+Monaghan,2024,3,2024 Q3,1.53,210610.02,Republic of Ireland,False,92.0,189374.54
+Monaghan,2024,4,2024 Q4,1.03,256673.95,Republic of Ireland,False,116.0,217133.94
+Monaghan,2025,1,2025 Q1,1.9,283538.78,Republic of Ireland,False,70.0,221557.14
+Monaghan,2025,2,2025 Q2,1.9,206239.62,Republic of Ireland,False,81.0,190631.66
+Monaghan,2025,3,2025 Q3,2.13,283338.24,Republic of Ireland,False,93.0,259506.77
+Monaghan,2025,4,2025 Q4,3.05,199296.2,Republic of Ireland,False,42.0,198702.38
+Offaly,2010,1,2010 Q1,-3.37,153598.74,Republic of Ireland,False,25.0,149120.0
+Offaly,2010,2,2010 Q2,-1.33,174818.45,Republic of Ireland,False,38.0,154484.16
+Offaly,2010,3,2010 Q3,0.2,173819.68,Republic of Ireland,False,39.0,160606.38
+Offaly,2010,4,2010 Q4,0.93,142020.75,Republic of Ireland,False,51.0,146954.9
+Offaly,2011,1,2011 Q1,2.27,137374.88,Republic of Ireland,False,34.0,134572.06
+Offaly,2011,2,2011 Q2,2.87,124359.54,Republic of Ireland,False,31.0,129299.84
+Offaly,2011,3,2011 Q3,2.43,139039.76,Republic of Ireland,False,34.0,127232.55
+Offaly,2011,4,2011 Q4,2.7,119386.21,Republic of Ireland,False,42.0,116285.71
+Offaly,2012,1,2012 Q1,2.13,134081.61,Republic of Ireland,False,39.0,131209.23
+Offaly,2012,2,2012 Q2,1.8,110537.26,Republic of Ireland,False,49.0,105706.12
+Offaly,2012,3,2012 Q3,1.77,125316.74,Republic of Ireland,False,55.0,123249.09
+Offaly,2012,4,2012 Q4,1.07,110405.8,Republic of Ireland,False,83.0,104155.96
+Offaly,2013,1,2013 Q1,0.97,96741.87,Republic of Ireland,False,48.0,86953.24
+Offaly,2013,2,2013 Q2,0.53,108051.4,Republic of Ireland,False,54.0,102194.44
+Offaly,2013,3,2013 Q3,0.3,106809.48,Republic of Ireland,False,66.0,107305.32
+Offaly,2013,4,2013 Q4,0.23,93259.38,Republic of Ireland,False,78.0,95939.81
+Offaly,2014,1,2014 Q1,0.07,109964.31,Republic of Ireland,False,73.0,105452.05
+Offaly,2014,2,2014 Q2,0.37,115782.28,Republic of Ireland,False,82.0,111609.76
+Offaly,2014,3,2014 Q3,0.37,132666.74,Republic of Ireland,False,98.0,122556.12
+Offaly,2014,4,2014 Q4,-0.03,113628.78,Republic of Ireland,False,154.0,108847.12
+Offaly,2015,1,2015 Q1,-0.6,106205.68,Republic of Ireland,False,100.0,106466.0
+Offaly,2015,2,2015 Q2,-0.43,103250.21,Republic of Ireland,False,101.0,102100.38
+Offaly,2015,3,2015 Q3,-0.17,113832.8,Republic of Ireland,False,106.0,107830.19
+Offaly,2015,4,2015 Q4,-0.07,119458.89,Republic of Ireland,False,155.0,113882.7
+Offaly,2016,1,2016 Q1,-0.13,96668.61,Republic of Ireland,False,98.0,98136.17
+Offaly,2016,2,2016 Q2,0.17,133994.8,Republic of Ireland,False,112.0,126191.96
+Offaly,2016,3,2016 Q3,0.13,115237.67,Republic of Ireland,False,134.0,112772.39
+Offaly,2016,4,2016 Q4,-0.07,119660.48,Republic of Ireland,False,152.0,107753.07
+Offaly,2017,1,2017 Q1,0.57,140182.04,Republic of Ireland,False,112.0,124544.58
+Offaly,2017,2,2017 Q2,0.23,128965.05,Republic of Ireland,False,139.0,117215.32
+Offaly,2017,3,2017 Q3,0.2,149670.89,Republic of Ireland,False,132.0,146847.53
+Offaly,2017,4,2017 Q4,0.47,146146.47,Republic of Ireland,False,150.0,133640.33
+Offaly,2018,1,2018 Q1,0.23,142609.31,Republic of Ireland,False,109.0,134256.71
+Offaly,2018,2,2018 Q2,0.17,152159.08,Republic of Ireland,False,111.0,156429.0
+Offaly,2018,3,2018 Q3,0.77,150388.22,Republic of Ireland,False,148.0,142749.91
+Offaly,2018,4,2018 Q4,0.73,156292.24,Republic of Ireland,False,162.0,150101.2
+Offaly,2019,1,2019 Q1,0.83,166635.1,Republic of Ireland,False,106.0,152955.91
+Offaly,2019,2,2019 Q2,1.17,144319.21,Republic of Ireland,False,123.0,137536.11
+Offaly,2019,3,2019 Q3,0.7,159248.78,Republic of Ireland,False,149.0,157669.47
+Offaly,2019,4,2019 Q4,1.03,157910.79,Republic of Ireland,False,157.0,148538.15
+Offaly,2020,1,2020 Q1,1.03,156422.99,Republic of Ireland,False,109.0,154240.18
+Offaly,2020,2,2020 Q2,-0.3,159763.3,Republic of Ireland,False,89.0,154185.79
+Offaly,2020,3,2020 Q3,-0.93,177171.66,Republic of Ireland,False,98.0,161729.88
+Offaly,2020,4,2020 Q4,-1.13,174403.33,Republic of Ireland,False,199.0,163303.87
+Offaly,2021,1,2021 Q1,-0.23,181588.07,Republic of Ireland,False,140.0,177496.83
+Offaly,2021,2,2021 Q2,1.4,168605.36,Republic of Ireland,False,121.0,168969.14
+Offaly,2021,3,2021 Q3,2.93,186998.11,Republic of Ireland,False,175.0,184702.68
+Offaly,2021,4,2021 Q4,5.27,198714.19,Republic of Ireland,False,162.0,191051.03
+Offaly,2022,1,2022 Q1,5.77,206999.39,Republic of Ireland,False,146.0,207668.49
+Offaly,2022,2,2022 Q2,7.97,203077.65,Republic of Ireland,False,154.0,207103.64
+Offaly,2022,3,2022 Q3,8.7,198287.94,Republic of Ireland,False,175.0,203442.74
+Offaly,2022,4,2022 Q4,8.8,192322.83,Republic of Ireland,False,160.0,200887.79
+Offaly,2023,1,2023 Q1,7.97,217064.74,Republic of Ireland,False,123.0,227018.22
+Offaly,2023,2,2023 Q2,6.63,221185.9,Republic of Ireland,False,170.0,219202.02
+Offaly,2023,3,2023 Q3,6.23,217706.3,Republic of Ireland,False,164.0,214751.08
+Offaly,2023,4,2023 Q4,4.5,218394.02,Republic of Ireland,False,175.0,214971.37
+Offaly,2024,1,2024 Q1,3.47,232734.92,Republic of Ireland,False,126.0,219681.75
+Offaly,2024,2,2024 Q2,2.47,244180.63,Republic of Ireland,False,128.0,232312.67
+Offaly,2024,3,2024 Q3,1.53,267328.66,Republic of Ireland,False,166.0,242708.61
+Offaly,2024,4,2024 Q4,1.03,310691.36,Republic of Ireland,False,159.0,232265.72
+Offaly,2025,1,2025 Q1,1.9,248909.62,Republic of Ireland,False,117.0,239452.28
+Offaly,2025,2,2025 Q2,1.9,318786.24,Republic of Ireland,False,152.0,256551.78
+Offaly,2025,3,2025 Q3,2.13,257882.02,Republic of Ireland,False,141.0,257430.73
+Offaly,2025,4,2025 Q4,3.05,264807.2,Republic of Ireland,False,68.0,273381.2
+Roscommon,2010,1,2010 Q1,-3.37,146296.11,Republic of Ireland,False,25.0,116600.0
+Roscommon,2010,2,2010 Q2,-1.33,133095.61,Republic of Ireland,False,40.0,120200.0
+Roscommon,2010,3,2010 Q3,0.2,148511.02,Republic of Ireland,False,44.0,135079.75
+Roscommon,2010,4,2010 Q4,0.93,127457.42,Republic of Ireland,False,52.0,109370.0
+Roscommon,2011,1,2011 Q1,2.27,127963.75,Republic of Ireland,False,22.0,113081.82
+Roscommon,2011,2,2011 Q2,2.87,107338.43,Republic of Ireland,False,44.0,103798.3
+Roscommon,2011,3,2011 Q3,2.43,109556.69,Republic of Ireland,False,41.0,112277.2
+Roscommon,2011,4,2011 Q4,2.7,83608.52,Republic of Ireland,False,52.0,74568.4
+Roscommon,2012,1,2012 Q1,2.13,109012.77,Republic of Ireland,False,35.0,97314.29
+Roscommon,2012,2,2012 Q2,1.8,81264.69,Republic of Ireland,False,64.0,77857.33
+Roscommon,2012,3,2012 Q3,1.77,80922.53,Republic of Ireland,False,74.0,76155.41
+Roscommon,2012,4,2012 Q4,1.07,84737.18,Republic of Ireland,False,89.0,79401.08
+Roscommon,2013,1,2013 Q1,0.97,81964.4,Republic of Ireland,False,56.0,72230.36
+Roscommon,2013,2,2013 Q2,0.53,82613.39,Republic of Ireland,False,85.0,74260.76
+Roscommon,2013,3,2013 Q3,0.3,76007.82,Republic of Ireland,False,106.0,73499.04
+Roscommon,2013,4,2013 Q4,0.23,70132.78,Republic of Ireland,False,115.0,66720.43
+Roscommon,2014,1,2014 Q1,0.07,73095.28,Republic of Ireland,False,90.0,72300.02
+Roscommon,2014,2,2014 Q2,0.37,75082.53,Republic of Ireland,False,94.0,73316.49
+Roscommon,2014,3,2014 Q3,0.37,78294.52,Republic of Ireland,False,98.0,72955.82
+Roscommon,2014,4,2014 Q4,-0.03,73443.24,Republic of Ireland,False,150.0,70374.69
+Roscommon,2015,1,2015 Q1,-0.6,78950.89,Republic of Ireland,False,109.0,74981.3
+Roscommon,2015,2,2015 Q2,-0.43,74601.43,Republic of Ireland,False,163.0,73457.66
+Roscommon,2015,3,2015 Q3,-0.17,89796.94,Republic of Ireland,False,124.0,81613.28
+Roscommon,2015,4,2015 Q4,-0.07,84677.02,Republic of Ireland,False,176.0,80718.4
+Roscommon,2016,1,2016 Q1,-0.13,80385.45,Republic of Ireland,False,109.0,74206.42
+Roscommon,2016,2,2016 Q2,0.17,98933.74,Republic of Ireland,False,112.0,86984.38
+Roscommon,2016,3,2016 Q3,0.13,92910.58,Republic of Ireland,False,144.0,81283.32
+Roscommon,2016,4,2016 Q4,-0.07,92981.27,Republic of Ireland,False,164.0,85389.33
+Roscommon,2017,1,2017 Q1,0.57,106995.23,Republic of Ireland,False,109.0,100906.72
+Roscommon,2017,2,2017 Q2,0.23,102924.74,Republic of Ireland,False,138.0,92027.54
+Roscommon,2017,3,2017 Q3,0.2,105453.61,Republic of Ireland,False,168.0,100095.02
+Roscommon,2017,4,2017 Q4,0.47,115607.82,Republic of Ireland,False,160.0,107151.54
+Roscommon,2018,1,2018 Q1,0.23,122037.15,Republic of Ireland,False,130.0,106529.47
+Roscommon,2018,2,2018 Q2,0.17,106866.39,Republic of Ireland,False,173.0,99093.61
+Roscommon,2018,3,2018 Q3,0.77,111973.62,Republic of Ireland,False,180.0,108675.38
+Roscommon,2018,4,2018 Q4,0.73,119011.71,Republic of Ireland,False,201.0,110324.14
+Roscommon,2019,1,2019 Q1,0.83,124744.72,Republic of Ireland,False,140.0,111164.53
+Roscommon,2019,2,2019 Q2,1.17,124532.2,Republic of Ireland,False,138.0,115570.1
+Roscommon,2019,3,2019 Q3,0.7,129020.33,Republic of Ireland,False,170.0,126248.82
+Roscommon,2019,4,2019 Q4,1.03,119901.35,Republic of Ireland,False,179.0,111735.04
+Roscommon,2020,1,2020 Q1,1.03,115627.21,Republic of Ireland,False,151.0,112727.8
+Roscommon,2020,2,2020 Q2,-0.3,110103.22,Republic of Ireland,False,95.0,102321.05
+Roscommon,2020,3,2020 Q3,-0.93,120278.94,Republic of Ireland,False,142.0,109703.3
+Roscommon,2020,4,2020 Q4,-1.13,129665.61,Republic of Ireland,False,216.0,120985.91
+Roscommon,2021,1,2021 Q1,-0.23,136893.11,Republic of Ireland,False,163.0,128507.99
+Roscommon,2021,2,2021 Q2,1.4,132086.88,Republic of Ireland,False,169.0,121217.99
+Roscommon,2021,3,2021 Q3,2.93,151990.72,Republic of Ireland,False,204.0,145923.53
+Roscommon,2021,4,2021 Q4,5.27,144753.31,Republic of Ireland,False,229.0,145413.89
+Roscommon,2022,1,2022 Q1,5.77,143508.56,Republic of Ireland,False,181.0,145736.65
+Roscommon,2022,2,2022 Q2,7.97,174560.3,Republic of Ireland,False,178.0,157634.65
+Roscommon,2022,3,2022 Q3,8.7,162563.89,Republic of Ireland,False,195.0,165722.56
+Roscommon,2022,4,2022 Q4,8.8,174945.88,Republic of Ireland,False,224.0,166276.52
+Roscommon,2023,1,2023 Q1,7.97,156360.67,Republic of Ireland,False,158.0,157225.76
+Roscommon,2023,2,2023 Q2,6.63,159262.64,Republic of Ireland,False,154.0,162980.52
+Roscommon,2023,3,2023 Q3,6.23,170636.15,Republic of Ireland,False,189.0,175057.18
+Roscommon,2023,4,2023 Q4,4.5,185021.26,Republic of Ireland,False,194.0,171359.91
+Roscommon,2024,1,2024 Q1,3.47,181656.48,Republic of Ireland,False,130.0,176862.28
+Roscommon,2024,2,2024 Q2,2.47,213160.31,Republic of Ireland,False,169.0,176288.46
+Roscommon,2024,3,2024 Q3,1.53,220524.02,Republic of Ireland,False,144.0,208027.78
+Roscommon,2024,4,2024 Q4,1.03,204623.91,Republic of Ireland,False,197.0,199675.27
+Roscommon,2025,1,2025 Q1,1.9,194060.36,Republic of Ireland,False,113.0,188905.99
+Roscommon,2025,2,2025 Q2,1.9,225370.46,Republic of Ireland,False,154.0,200077.66
+Roscommon,2025,3,2025 Q3,2.13,210771.23,Republic of Ireland,False,147.0,210326.53
+Roscommon,2025,4,2025 Q4,3.05,216079.5,Republic of Ireland,False,69.0,193434.29
+Sligo,2010,1,2010 Q1,-3.37,187220.41,Republic of Ireland,False,25.0,182409.73
+Sligo,2010,2,2010 Q2,-1.33,158693.27,Republic of Ireland,False,43.0,160937.98
+Sligo,2010,3,2010 Q3,0.2,161428.53,Republic of Ireland,False,51.0,152784.31
+Sligo,2010,4,2010 Q4,0.93,159202.64,Republic of Ireland,False,55.0,141050.45
+Sligo,2011,1,2011 Q1,2.27,222762.07,Republic of Ireland,False,37.0,138359.46
+Sligo,2011,2,2011 Q2,2.87,123793.23,Republic of Ireland,False,22.0,119431.82
+Sligo,2011,3,2011 Q3,2.43,115110.59,Republic of Ireland,False,41.0,118455.49
+Sligo,2011,4,2011 Q4,2.7,181463.08,Republic of Ireland,False,63.0,116265.08
+Sligo,2012,1,2012 Q1,2.13,106146.44,Republic of Ireland,False,43.0,98093.02
+Sligo,2012,2,2012 Q2,1.8,107465.5,Republic of Ireland,False,61.0,102997.54
+Sligo,2012,3,2012 Q3,1.77,118597.68,Republic of Ireland,False,66.0,110093.56
+Sligo,2012,4,2012 Q4,1.07,111609.78,Republic of Ireland,False,105.0,98085.4
+Sligo,2013,1,2013 Q1,0.97,86326.52,Republic of Ireland,False,54.0,79883.33
+Sligo,2013,2,2013 Q2,0.53,112762.78,Republic of Ireland,False,71.0,101114.08
+Sligo,2013,3,2013 Q3,0.3,113438.25,Republic of Ireland,False,76.0,109573.05
+Sligo,2013,4,2013 Q4,0.23,113664.53,Republic of Ireland,False,96.0,106617.09
+Sligo,2014,1,2014 Q1,0.07,127260.18,Republic of Ireland,False,83.0,119483.54
+Sligo,2014,2,2014 Q2,0.37,108726.22,Republic of Ireland,False,106.0,110351.42
+Sligo,2014,3,2014 Q3,0.37,114673.73,Republic of Ireland,False,142.0,105149.01
+Sligo,2014,4,2014 Q4,-0.03,114614.27,Republic of Ireland,False,194.0,102951.26
+Sligo,2015,1,2015 Q1,-0.6,117182.99,Republic of Ireland,False,121.0,109071.46
+Sligo,2015,2,2015 Q2,-0.43,115680.56,Republic of Ireland,False,144.0,110475.27
+Sligo,2015,3,2015 Q3,-0.17,126711.35,Republic of Ireland,False,127.0,111911.16
+Sligo,2015,4,2015 Q4,-0.07,142388.05,Republic of Ireland,False,126.0,121286.51
+Sligo,2016,1,2016 Q1,-0.13,120830.06,Republic of Ireland,False,111.0,104490.7
+Sligo,2016,2,2016 Q2,0.17,82660.73,Republic of Ireland,False,192.0,72275.78
+Sligo,2016,3,2016 Q3,0.13,123400.46,Republic of Ireland,False,157.0,111466.4
+Sligo,2016,4,2016 Q4,-0.07,142414.94,Republic of Ireland,False,169.0,118010.65
+Sligo,2017,1,2017 Q1,0.57,125942.83,Republic of Ireland,False,113.0,115752.65
+Sligo,2017,2,2017 Q2,0.23,134186.45,Republic of Ireland,False,161.0,127504.52
+Sligo,2017,3,2017 Q3,0.2,142233.41,Republic of Ireland,False,143.0,129043.71
+Sligo,2017,4,2017 Q4,0.47,136172.0,Republic of Ireland,False,191.0,134673.3
+Sligo,2018,1,2018 Q1,0.23,151702.89,Republic of Ireland,False,136.0,129787.5
+Sligo,2018,2,2018 Q2,0.17,120427.0,Republic of Ireland,False,127.0,110792.54
+Sligo,2018,3,2018 Q3,0.77,150537.71,Republic of Ireland,False,208.0,133671.88
+Sligo,2018,4,2018 Q4,0.73,133498.88,Republic of Ireland,False,285.0,114818.48
+Sligo,2019,1,2019 Q1,0.83,145763.4,Republic of Ireland,False,129.0,138822.67
+Sligo,2019,2,2019 Q2,1.17,136006.56,Republic of Ireland,False,140.0,132606.43
+Sligo,2019,3,2019 Q3,0.7,140761.12,Republic of Ireland,False,161.0,159376.74
+Sligo,2019,4,2019 Q4,1.03,163363.34,Republic of Ireland,False,203.0,153629.36
+Sligo,2020,1,2020 Q1,1.03,130945.14,Republic of Ireland,False,157.0,126726.89
+Sligo,2020,2,2020 Q2,-0.3,145751.87,Republic of Ireland,False,89.0,130690.33
+Sligo,2020,3,2020 Q3,-0.93,153090.38,Republic of Ireland,False,110.0,143184.45
+Sligo,2020,4,2020 Q4,-1.13,157608.32,Republic of Ireland,False,214.0,144799.94
+Sligo,2021,1,2021 Q1,-0.23,159490.68,Republic of Ireland,False,138.0,158158.25
+Sligo,2021,2,2021 Q2,1.4,169009.42,Republic of Ireland,False,184.0,162994.29
+Sligo,2021,3,2021 Q3,2.93,175247.47,Republic of Ireland,False,180.0,163892.78
+Sligo,2021,4,2021 Q4,5.27,176516.17,Republic of Ireland,False,227.0,178003.11
+Sligo,2022,1,2022 Q1,5.77,177611.32,Republic of Ireland,False,158.0,173754.84
+Sligo,2022,2,2022 Q2,7.97,170670.9,Republic of Ireland,False,163.0,175228.29
+Sligo,2022,3,2022 Q3,8.7,198586.84,Republic of Ireland,False,202.0,202524.75
+Sligo,2022,4,2022 Q4,8.8,189433.32,Republic of Ireland,False,221.0,197001.1
+Sligo,2023,1,2023 Q1,7.97,189770.5,Republic of Ireland,False,161.0,178488.46
+Sligo,2023,2,2023 Q2,6.63,194968.72,Republic of Ireland,False,156.0,190738.14
+Sligo,2023,3,2023 Q3,6.23,208261.45,Republic of Ireland,False,211.0,196563.74
+Sligo,2023,4,2023 Q4,4.5,214221.11,Republic of Ireland,False,181.0,212802.26
+Sligo,2024,1,2024 Q1,3.47,223675.67,Republic of Ireland,False,122.0,210784.48
+Sligo,2024,2,2024 Q2,2.47,215047.92,Republic of Ireland,False,131.0,202953.81
+Sligo,2024,3,2024 Q3,1.53,250632.93,Republic of Ireland,False,157.0,237692.4
+Sligo,2024,4,2024 Q4,1.03,273030.69,Republic of Ireland,False,168.0,250885.57
+Sligo,2025,1,2025 Q1,1.9,241257.5,Republic of Ireland,False,134.0,226144.81
+Sligo,2025,2,2025 Q2,1.9,260180.77,Republic of Ireland,False,130.0,235284.62
+Sligo,2025,3,2025 Q3,2.13,263068.0,Republic of Ireland,False,148.0,247050.68
+Sligo,2025,4,2025 Q4,3.05,248571.0,Republic of Ireland,False,75.0,233861.12
+Tipperary,2010,1,2010 Q1,-3.37,167330.26,Republic of Ireland,False,74.0,158219.59
+Tipperary,2010,2,2010 Q2,-1.33,170555.27,Republic of Ireland,False,83.0,161067.36
+Tipperary,2010,3,2010 Q3,0.2,166319.92,Republic of Ireland,False,90.0,156827.3
+Tipperary,2010,4,2010 Q4,0.93,149960.75,Republic of Ireland,False,99.0,134929.11
+Tipperary,2011,1,2011 Q1,2.27,152788.28,Republic of Ireland,False,76.0,141210.91
+Tipperary,2011,2,2011 Q2,2.87,150466.07,Republic of Ireland,False,73.0,129382.19
+Tipperary,2011,3,2011 Q3,2.43,128089.91,Republic of Ireland,False,83.0,118303.11
+Tipperary,2011,4,2011 Q4,2.7,124779.71,Republic of Ireland,False,110.0,123987.32
+Tipperary,2012,1,2012 Q1,2.13,133118.06,Republic of Ireland,False,93.0,118373.95
+Tipperary,2012,2,2012 Q2,1.8,102064.54,Republic of Ireland,False,97.0,99360.59
+Tipperary,2012,3,2012 Q3,1.77,113131.33,Republic of Ireland,False,114.0,108046.49
+Tipperary,2012,4,2012 Q4,1.07,132754.1,Republic of Ireland,False,158.0,110630.53
+Tipperary,2013,1,2013 Q1,0.97,106439.6,Republic of Ireland,False,112.0,107085.98
+Tipperary,2013,2,2013 Q2,0.53,102681.91,Republic of Ireland,False,130.0,99441.82
+Tipperary,2013,3,2013 Q3,0.3,113764.63,Republic of Ireland,False,161.0,107760.46
+Tipperary,2013,4,2013 Q4,0.23,119330.72,Republic of Ireland,False,192.0,105329.67
+Tipperary,2014,1,2014 Q1,0.07,111991.11,Republic of Ireland,False,141.0,106694.28
+Tipperary,2014,2,2014 Q2,0.37,108407.5,Republic of Ireland,False,155.0,108090.9
+Tipperary,2014,3,2014 Q3,0.37,114946.11,Republic of Ireland,False,193.0,108131.87
+Tipperary,2014,4,2014 Q4,-0.03,109785.18,Republic of Ireland,False,293.0,100607.33
+Tipperary,2015,1,2015 Q1,-0.6,114550.33,Republic of Ireland,False,220.0,105413.3
+Tipperary,2015,2,2015 Q2,-0.43,121383.12,Republic of Ireland,False,238.0,104058.34
+Tipperary,2015,3,2015 Q3,-0.17,118139.89,Republic of Ireland,False,237.0,112126.01
+Tipperary,2015,4,2015 Q4,-0.07,131385.58,Republic of Ireland,False,311.0,114439.67
+Tipperary,2016,1,2016 Q1,-0.13,123796.48,Republic of Ireland,False,224.0,110674.95
+Tipperary,2016,2,2016 Q2,0.17,118981.23,Republic of Ireland,False,255.0,101811.96
+Tipperary,2016,3,2016 Q3,0.13,127228.93,Republic of Ireland,False,272.0,120691.63
+Tipperary,2016,4,2016 Q4,-0.07,131191.1,Republic of Ireland,False,338.0,122112.52
+Tipperary,2017,1,2017 Q1,0.57,126552.29,Republic of Ireland,False,258.0,122221.03
+Tipperary,2017,2,2017 Q2,0.23,125288.51,Republic of Ireland,False,300.0,113917.6
+Tipperary,2017,3,2017 Q3,0.2,147915.69,Republic of Ireland,False,304.0,132418.58
+Tipperary,2017,4,2017 Q4,0.47,129290.7,Republic of Ireland,False,372.0,121004.17
+Tipperary,2018,1,2018 Q1,0.23,136867.29,Republic of Ireland,False,265.0,131439.27
+Tipperary,2018,2,2018 Q2,0.17,139855.67,Republic of Ireland,False,298.0,127631.35
+Tipperary,2018,3,2018 Q3,0.77,152586.46,Republic of Ireland,False,284.0,145169.97
+Tipperary,2018,4,2018 Q4,0.73,152831.46,Republic of Ireland,False,363.0,139974.89
+Tipperary,2019,1,2019 Q1,0.83,146789.86,Republic of Ireland,False,267.0,149188.48
+Tipperary,2019,2,2019 Q2,1.17,144942.38,Republic of Ireland,False,330.0,136686.67
+Tipperary,2019,3,2019 Q3,0.7,154889.19,Republic of Ireland,False,301.0,152332.76
+Tipperary,2019,4,2019 Q4,1.03,180503.2,Republic of Ireland,False,351.0,159254.64
+Tipperary,2020,1,2020 Q1,1.03,146324.2,Republic of Ireland,False,260.0,143344.14
+Tipperary,2020,2,2020 Q2,-0.3,147789.3,Republic of Ireland,False,223.0,134552.56
+Tipperary,2020,3,2020 Q3,-0.93,151040.28,Republic of Ireland,False,252.0,141042.08
+Tipperary,2020,4,2020 Q4,-1.13,175198.72,Republic of Ireland,False,383.0,155277.2
+Tipperary,2021,1,2021 Q1,-0.23,180131.4,Republic of Ireland,False,308.0,172524.91
+Tipperary,2021,2,2021 Q2,1.4,159296.99,Republic of Ireland,False,284.0,150954.72
+Tipperary,2021,3,2021 Q3,2.93,181016.25,Republic of Ireland,False,345.0,178880.2
+Tipperary,2021,4,2021 Q4,5.27,184321.5,Republic of Ireland,False,432.0,183349.1
+Tipperary,2022,1,2022 Q1,5.77,181522.52,Republic of Ireland,False,342.0,185283.84
+Tipperary,2022,2,2022 Q2,7.97,202363.36,Republic of Ireland,False,331.0,195868.11
+Tipperary,2022,3,2022 Q3,8.7,189567.79,Republic of Ireland,False,340.0,193261.76
+Tipperary,2022,4,2022 Q4,8.8,192303.16,Republic of Ireland,False,382.0,196455.82
+Tipperary,2023,1,2023 Q1,7.97,192665.79,Republic of Ireland,False,298.0,197038.84
+Tipperary,2023,2,2023 Q2,6.63,228029.98,Republic of Ireland,False,320.0,209947.81
+Tipperary,2023,3,2023 Q3,6.23,200591.24,Republic of Ireland,False,351.0,201074.09
+Tipperary,2023,4,2023 Q4,4.5,205598.84,Republic of Ireland,False,379.0,205089.47
+Tipperary,2024,1,2024 Q1,3.47,203725.31,Republic of Ireland,False,244.0,204592.01
+Tipperary,2024,2,2024 Q2,2.47,225327.06,Republic of Ireland,False,296.0,218105.35
+Tipperary,2024,3,2024 Q3,1.53,222532.96,Republic of Ireland,False,309.0,212690.15
+Tipperary,2024,4,2024 Q4,1.03,247900.46,Republic of Ireland,False,374.0,235304.6
+Tipperary,2025,1,2025 Q1,1.9,240762.59,Republic of Ireland,False,233.0,237849.35
+Tipperary,2025,2,2025 Q2,1.9,404757.28,Republic of Ireland,False,257.0,250538.18
+Tipperary,2025,3,2025 Q3,2.13,262295.78,Republic of Ireland,False,282.0,255331.43
+Tipperary,2025,4,2025 Q4,3.05,260797.01,Republic of Ireland,False,121.0,255115.29
+Waterford,2010,1,2010 Q1,-3.37,196676.99,Republic of Ireland,False,57.0,181569.3
+Waterford,2010,2,2010 Q2,-1.33,176223.26,Republic of Ireland,False,69.0,154398.55
+Waterford,2010,3,2010 Q3,0.2,188147.33,Republic of Ireland,False,79.0,173144.11
+Waterford,2010,4,2010 Q4,0.93,172722.72,Republic of Ireland,False,92.0,163505.43
+Waterford,2011,1,2011 Q1,2.27,175540.52,Republic of Ireland,False,69.0,164718.84
+Waterford,2011,2,2011 Q2,2.87,149048.74,Republic of Ireland,False,87.0,142722.99
+Waterford,2011,3,2011 Q3,2.43,140051.76,Republic of Ireland,False,102.0,140513.82
+Waterford,2011,4,2011 Q4,2.7,130939.51,Republic of Ireland,False,130.0,124222.49
+Waterford,2012,1,2012 Q1,2.13,110535.86,Republic of Ireland,False,72.0,105911.36
+Waterford,2012,2,2012 Q2,1.8,114435.21,Republic of Ireland,False,96.0,112778.12
+Waterford,2012,3,2012 Q3,1.77,138724.19,Republic of Ireland,False,116.0,118885.78
+Waterford,2012,4,2012 Q4,1.07,125633.57,Republic of Ireland,False,166.0,107779.46
+Waterford,2013,1,2013 Q1,0.97,111985.5,Republic of Ireland,False,83.0,110253.61
+Waterford,2013,2,2013 Q2,0.53,131596.66,Republic of Ireland,False,137.0,108536.87
+Waterford,2013,3,2013 Q3,0.3,110999.45,Republic of Ireland,False,169.0,104196.92
+Waterford,2013,4,2013 Q4,0.23,118330.04,Republic of Ireland,False,197.0,110022.44
+Waterford,2014,1,2014 Q1,0.07,120893.49,Republic of Ireland,False,152.0,113948.99
+Waterford,2014,2,2014 Q2,0.37,115126.09,Republic of Ireland,False,186.0,105356.63
+Waterford,2014,3,2014 Q3,0.37,126109.11,Republic of Ireland,False,243.0,114146.99
+Waterford,2014,4,2014 Q4,-0.03,123166.92,Republic of Ireland,False,356.0,112264.07
+Waterford,2015,1,2015 Q1,-0.6,125796.99,Republic of Ireland,False,235.0,110452.18
+Waterford,2015,2,2015 Q2,-0.43,128106.42,Republic of Ireland,False,212.0,114959.02
+Waterford,2015,3,2015 Q3,-0.17,131171.37,Republic of Ireland,False,304.0,119559.73
+Waterford,2015,4,2015 Q4,-0.07,134480.92,Republic of Ireland,False,317.0,121648.35
+Waterford,2016,1,2016 Q1,-0.13,134947.03,Republic of Ireland,False,247.0,116661.54
+Waterford,2016,2,2016 Q2,0.17,132848.94,Republic of Ireland,False,270.0,122937.01
+Waterford,2016,3,2016 Q3,0.13,144412.54,Republic of Ireland,False,326.0,133778.65
+Waterford,2016,4,2016 Q4,-0.07,141658.55,Republic of Ireland,False,342.0,126449.21
+Waterford,2017,1,2017 Q1,0.57,142385.3,Republic of Ireland,False,240.0,131980.03
+Waterford,2017,2,2017 Q2,0.23,137364.86,Republic of Ireland,False,245.0,128252.44
+Waterford,2017,3,2017 Q3,0.2,175601.5,Republic of Ireland,False,271.0,162408.46
+Waterford,2017,4,2017 Q4,0.47,152777.6,Republic of Ireland,False,322.0,138419.13
+Waterford,2018,1,2018 Q1,0.23,164847.38,Republic of Ireland,False,244.0,153703.78
+Waterford,2018,2,2018 Q2,0.17,166772.24,Republic of Ireland,False,290.0,156504.03
+Waterford,2018,3,2018 Q3,0.77,179142.61,Republic of Ireland,False,289.0,166077.93
+Waterford,2018,4,2018 Q4,0.73,182390.82,Republic of Ireland,False,328.0,166423.34
+Waterford,2019,1,2019 Q1,0.83,170412.81,Republic of Ireland,False,237.0,165453.6
+Waterford,2019,2,2019 Q2,1.17,184422.87,Republic of Ireland,False,277.0,175996.45
+Waterford,2019,3,2019 Q3,0.7,188283.57,Republic of Ireland,False,316.0,174879.51
+Waterford,2019,4,2019 Q4,1.03,210637.95,Republic of Ireland,False,310.0,176600.72
+Waterford,2020,1,2020 Q1,1.03,185164.27,Republic of Ireland,False,238.0,170240.56
+Waterford,2020,2,2020 Q2,-0.3,192837.69,Republic of Ireland,False,161.0,179822.01
+Waterford,2020,3,2020 Q3,-0.93,204609.58,Republic of Ireland,False,231.0,188914.84
+Waterford,2020,4,2020 Q4,-1.13,205269.84,Republic of Ireland,False,371.0,188206.49
+Waterford,2021,1,2021 Q1,-0.23,195587.81,Republic of Ireland,False,287.0,186439.47
+Waterford,2021,2,2021 Q2,1.4,192598.72,Republic of Ireland,False,269.0,183753.86
+Waterford,2021,3,2021 Q3,2.93,219700.85,Republic of Ireland,False,339.0,209847.05
+Waterford,2021,4,2021 Q4,5.27,227477.54,Republic of Ireland,False,407.0,205909.81
+Waterford,2022,1,2022 Q1,5.77,227343.12,Republic of Ireland,False,300.0,228582.91
+Waterford,2022,2,2022 Q2,7.97,248037.14,Republic of Ireland,False,326.0,232445.83
+Waterford,2022,3,2022 Q3,8.7,242646.92,Republic of Ireland,False,352.0,243466.53
+Waterford,2022,4,2022 Q4,8.8,242490.52,Republic of Ireland,False,340.0,234781.64
+Waterford,2023,1,2023 Q1,7.97,237464.34,Republic of Ireland,False,273.0,234977.49
+Waterford,2023,2,2023 Q2,6.63,235354.41,Republic of Ireland,False,267.0,228139.16
+Waterford,2023,3,2023 Q3,6.23,255298.46,Republic of Ireland,False,319.0,250795.24
+Waterford,2023,4,2023 Q4,4.5,253565.37,Republic of Ireland,False,326.0,248350.11
+Waterford,2024,1,2024 Q1,3.47,254963.76,Republic of Ireland,False,228.0,255846.64
+Waterford,2024,2,2024 Q2,2.47,263221.73,Republic of Ireland,False,301.0,255121.7
+Waterford,2024,3,2024 Q3,1.53,269312.33,Republic of Ireland,False,288.0,256477.23
+Waterford,2024,4,2024 Q4,1.03,328633.97,Republic of Ireland,False,308.0,267333.09
+Waterford,2025,1,2025 Q1,1.9,301165.66,Republic of Ireland,False,216.0,265457.64
+Waterford,2025,2,2025 Q2,1.9,299115.77,Republic of Ireland,False,241.0,275839.67
+Waterford,2025,3,2025 Q3,2.13,297421.0,Republic of Ireland,False,306.0,279190.31
+Waterford,2025,4,2025 Q4,3.05,306851.04,Republic of Ireland,False,109.0,289004.79
+Westmeath,2010,1,2010 Q1,-3.37,177973.97,Republic of Ireland,False,46.0,159782.61
+Westmeath,2010,2,2010 Q2,-1.33,163515.4,Republic of Ireland,False,60.0,169535.0
+Westmeath,2010,3,2010 Q3,0.2,155887.37,Republic of Ireland,False,65.0,164041.54
+Westmeath,2010,4,2010 Q4,0.93,156446.84,Republic of Ireland,False,59.0,149851.69
+Westmeath,2011,1,2011 Q1,2.27,140542.83,Republic of Ireland,False,38.0,128736.84
+Westmeath,2011,2,2011 Q2,2.87,139325.24,Republic of Ireland,False,55.0,143600.0
+Westmeath,2011,3,2011 Q3,2.43,129982.22,Republic of Ireland,False,60.0,136611.93
+Westmeath,2011,4,2011 Q4,2.7,121828.23,Republic of Ireland,False,68.0,128666.21
+Westmeath,2012,1,2012 Q1,2.13,93152.53,Republic of Ireland,False,64.0,92179.68
+Westmeath,2012,2,2012 Q2,1.8,121880.31,Republic of Ireland,False,64.0,108154.39
+Westmeath,2012,3,2012 Q3,1.77,114956.01,Republic of Ireland,False,91.0,113207.92
+Westmeath,2012,4,2012 Q4,1.07,109887.92,Republic of Ireland,False,108.0,106533.8
+Westmeath,2013,1,2013 Q1,0.97,102056.98,Republic of Ireland,False,68.0,97144.85
+Westmeath,2013,2,2013 Q2,0.53,116893.98,Republic of Ireland,False,93.0,109042.94
+Westmeath,2013,3,2013 Q3,0.3,104130.45,Republic of Ireland,False,109.0,98500.83
+Westmeath,2013,4,2013 Q4,0.23,105788.13,Republic of Ireland,False,145.0,101714.17
+Westmeath,2014,1,2014 Q1,0.07,87781.04,Republic of Ireland,False,95.0,84222.32
+Westmeath,2014,2,2014 Q2,0.37,105900.61,Republic of Ireland,False,151.0,93708.28
+Westmeath,2014,3,2014 Q3,0.37,107149.3,Republic of Ireland,False,202.0,99519.3
+Westmeath,2014,4,2014 Q4,-0.03,116411.36,Republic of Ireland,False,292.0,107252.0
+Westmeath,2015,1,2015 Q1,-0.6,123398.21,Republic of Ireland,False,162.0,106344.72
+Westmeath,2015,2,2015 Q2,-0.43,111944.87,Republic of Ireland,False,174.0,104241.87
+Westmeath,2015,3,2015 Q3,-0.17,123378.88,Republic of Ireland,False,203.0,118878.83
+Westmeath,2015,4,2015 Q4,-0.07,158990.97,Republic of Ireland,False,263.0,110223.06
+Westmeath,2016,1,2016 Q1,-0.13,127874.07,Republic of Ireland,False,125.0,122171.6
+Westmeath,2016,2,2016 Q2,0.17,121979.47,Republic of Ireland,False,205.0,117341.84
+Westmeath,2016,3,2016 Q3,0.13,136589.98,Republic of Ireland,False,221.0,126063.42
+Westmeath,2016,4,2016 Q4,-0.07,139765.38,Republic of Ireland,False,249.0,132330.98
+Westmeath,2017,1,2017 Q1,0.57,153722.07,Republic of Ireland,False,165.0,131991.09
+Westmeath,2017,2,2017 Q2,0.23,147490.99,Republic of Ireland,False,185.0,142143.66
+Westmeath,2017,3,2017 Q3,0.2,159293.68,Republic of Ireland,False,241.0,146622.61
+Westmeath,2017,4,2017 Q4,0.47,180011.62,Republic of Ireland,False,206.0,162715.3
+Westmeath,2018,1,2018 Q1,0.23,181559.02,Republic of Ireland,False,187.0,167254.81
+Westmeath,2018,2,2018 Q2,0.17,172356.96,Republic of Ireland,False,190.0,167232.52
+Westmeath,2018,3,2018 Q3,0.77,181852.52,Republic of Ireland,False,185.0,177904.85
+Westmeath,2018,4,2018 Q4,0.73,170091.6,Republic of Ireland,False,252.0,162975.89
+Westmeath,2019,1,2019 Q1,0.83,174931.6,Republic of Ireland,False,151.0,164523.34
+Westmeath,2019,2,2019 Q2,1.17,193003.35,Republic of Ireland,False,199.0,178714.76
+Westmeath,2019,3,2019 Q3,0.7,170522.65,Republic of Ireland,False,365.0,159744.97
+Westmeath,2019,4,2019 Q4,1.03,185307.95,Republic of Ireland,False,216.0,170485.57
+Westmeath,2020,1,2020 Q1,1.03,175946.12,Republic of Ireland,False,181.0,168817.53
+Westmeath,2020,2,2020 Q2,-0.3,205208.12,Republic of Ireland,False,106.0,198188.46
+Westmeath,2020,3,2020 Q3,-0.93,194669.03,Republic of Ireland,False,163.0,179329.39
+Westmeath,2020,4,2020 Q4,-1.13,213495.34,Republic of Ireland,False,279.0,182002.14
+Westmeath,2021,1,2021 Q1,-0.23,198767.23,Republic of Ireland,False,206.0,185468.06
+Westmeath,2021,2,2021 Q2,1.4,214989.83,Republic of Ireland,False,165.0,194063.33
+Westmeath,2021,3,2021 Q3,2.93,213976.04,Republic of Ireland,False,239.0,204972.59
+Westmeath,2021,4,2021 Q4,5.27,206641.15,Republic of Ireland,False,266.0,213408.02
+Westmeath,2022,1,2022 Q1,5.77,224368.96,Republic of Ireland,False,189.0,234324.6
+Westmeath,2022,2,2022 Q2,7.97,206591.33,Republic of Ireland,False,207.0,215654.95
+Westmeath,2022,3,2022 Q3,8.7,224502.7,Republic of Ireland,False,236.0,224839.76
+Westmeath,2022,4,2022 Q4,8.8,251431.09,Republic of Ireland,False,285.0,242174.52
+Westmeath,2023,1,2023 Q1,7.97,217416.38,Republic of Ireland,False,188.0,222497.02
+Westmeath,2023,2,2023 Q2,6.63,226020.58,Republic of Ireland,False,231.0,227068.61
+Westmeath,2023,3,2023 Q3,6.23,247506.88,Republic of Ireland,False,253.0,253426.92
+Westmeath,2023,4,2023 Q4,4.5,298061.42,Republic of Ireland,False,222.0,241574.05
+Westmeath,2024,1,2024 Q1,3.47,242894.25,Republic of Ireland,False,161.0,239070.35
+Westmeath,2024,2,2024 Q2,2.47,279258.22,Republic of Ireland,False,166.0,252783.13
+Westmeath,2024,3,2024 Q3,1.53,285056.98,Republic of Ireland,False,205.0,271266.43
+Westmeath,2024,4,2024 Q4,1.03,303457.36,Republic of Ireland,False,227.0,274444.52
+Westmeath,2025,1,2025 Q1,1.9,274338.82,Republic of Ireland,False,164.0,270498.34
+Westmeath,2025,2,2025 Q2,1.9,524145.03,Republic of Ireland,False,163.0,295201.07
+Westmeath,2025,3,2025 Q3,2.13,303718.15,Republic of Ireland,False,234.0,297677.31
+Westmeath,2025,4,2025 Q4,3.05,306787.88,Republic of Ireland,False,80.0,300415.0
+Wexford,2010,1,2010 Q1,-3.37,200539.18,Republic of Ireland,False,82.0,186600.56
+Wexford,2010,2,2010 Q2,-1.33,178638.82,Republic of Ireland,False,89.0,171099.44
+Wexford,2010,3,2010 Q3,0.2,174990.45,Republic of Ireland,False,147.0,171419.75
+Wexford,2010,4,2010 Q4,0.93,174693.93,Republic of Ireland,False,128.0,162251.55
+Wexford,2011,1,2011 Q1,2.27,152187.11,Republic of Ireland,False,72.0,148345.31
+Wexford,2011,2,2011 Q2,2.87,146996.99,Republic of Ireland,False,100.0,137824.5
+Wexford,2011,3,2011 Q3,2.43,133165.09,Republic of Ireland,False,143.0,133523.57
+Wexford,2011,4,2011 Q4,2.7,133394.82,Republic of Ireland,False,146.0,129209.25
+Wexford,2012,1,2012 Q1,2.13,123812.74,Republic of Ireland,False,126.0,123733.86
+Wexford,2012,2,2012 Q2,1.8,120010.73,Republic of Ireland,False,139.0,117013.62
+Wexford,2012,3,2012 Q3,1.77,116561.4,Republic of Ireland,False,205.0,119635.94
+Wexford,2012,4,2012 Q4,1.07,129164.86,Republic of Ireland,False,243.0,123977.59
+Wexford,2013,1,2013 Q1,0.97,116447.91,Republic of Ireland,False,137.0,116147.08
+Wexford,2013,2,2013 Q2,0.53,119058.07,Republic of Ireland,False,163.0,114100.98
+Wexford,2013,3,2013 Q3,0.3,107236.42,Republic of Ireland,False,218.0,103311.73
+Wexford,2013,4,2013 Q4,0.23,118439.9,Republic of Ireland,False,280.0,113084.0
+Wexford,2014,1,2014 Q1,0.07,116280.29,Republic of Ireland,False,180.0,114456.97
+Wexford,2014,2,2014 Q2,0.37,121898.84,Republic of Ireland,False,263.0,109701.91
+Wexford,2014,3,2014 Q3,0.37,120499.6,Republic of Ireland,False,344.0,116483.68
+Wexford,2014,4,2014 Q4,-0.03,128488.23,Republic of Ireland,False,393.0,122295.95
+Wexford,2015,1,2015 Q1,-0.6,134909.02,Republic of Ireland,False,268.0,127324.68
+Wexford,2015,2,2015 Q2,-0.43,132802.84,Republic of Ireland,False,298.0,128796.5
+Wexford,2015,3,2015 Q3,-0.17,134102.75,Republic of Ireland,False,358.0,133691.71
+Wexford,2015,4,2015 Q4,-0.07,130474.05,Republic of Ireland,False,354.0,127660.08
+Wexford,2016,1,2016 Q1,-0.13,138050.66,Republic of Ireland,False,239.0,131231.8
+Wexford,2016,2,2016 Q2,0.17,140581.68,Republic of Ireland,False,314.0,125498.61
+Wexford,2016,3,2016 Q3,0.13,152582.38,Republic of Ireland,False,344.0,147089.42
+Wexford,2016,4,2016 Q4,-0.07,151423.28,Republic of Ireland,False,367.0,146153.27
+Wexford,2017,1,2017 Q1,0.57,146095.66,Republic of Ireland,False,248.0,143505.31
+Wexford,2017,2,2017 Q2,0.23,149580.56,Republic of Ireland,False,289.0,148028.99
+Wexford,2017,3,2017 Q3,0.2,151773.78,Republic of Ireland,False,372.0,148711.26
+Wexford,2017,4,2017 Q4,0.47,173708.09,Republic of Ireland,False,402.0,171460.29
+Wexford,2018,1,2018 Q1,0.23,165547.42,Republic of Ireland,False,263.0,154317.63
+Wexford,2018,2,2018 Q2,0.17,171492.88,Republic of Ireland,False,306.0,168689.74
+Wexford,2018,3,2018 Q3,0.77,175978.3,Republic of Ireland,False,369.0,163045.93
+Wexford,2018,4,2018 Q4,0.73,180353.77,Republic of Ireland,False,411.0,175827.99
+Wexford,2019,1,2019 Q1,0.83,174301.69,Republic of Ireland,False,277.0,174302.52
+Wexford,2019,2,2019 Q2,1.17,180023.53,Republic of Ireland,False,343.0,168255.33
+Wexford,2019,3,2019 Q3,0.7,200232.8,Republic of Ireland,False,372.0,187619.66
+Wexford,2019,4,2019 Q4,1.03,193385.44,Republic of Ireland,False,400.0,181502.2
+Wexford,2020,1,2020 Q1,1.03,192004.72,Republic of Ireland,False,284.0,178187.5
+Wexford,2020,2,2020 Q2,-0.3,181589.13,Republic of Ireland,False,202.0,172056.31
+Wexford,2020,3,2020 Q3,-0.93,207484.49,Republic of Ireland,False,313.0,186429.56
+Wexford,2020,4,2020 Q4,-1.13,223783.7,Republic of Ireland,False,546.0,188213.04
+Wexford,2021,1,2021 Q1,-0.23,233638.08,Republic of Ireland,False,349.0,208733.47
+Wexford,2021,2,2021 Q2,1.4,212569.0,Republic of Ireland,False,398.0,190413.61
+Wexford,2021,3,2021 Q3,2.93,220579.57,Republic of Ireland,False,437.0,222552.38
+Wexford,2021,4,2021 Q4,5.27,237200.03,Republic of Ireland,False,480.0,227387.03
+Wexford,2022,1,2022 Q1,5.77,221618.54,Republic of Ireland,False,325.0,233551.79
+Wexford,2022,2,2022 Q2,7.97,224582.15,Republic of Ireland,False,398.0,230142.38
+Wexford,2022,3,2022 Q3,8.7,237495.17,Republic of Ireland,False,432.0,248698.43
+Wexford,2022,4,2022 Q4,8.8,261472.33,Republic of Ireland,False,482.0,243357.64
+Wexford,2023,1,2023 Q1,7.97,240096.35,Republic of Ireland,False,345.0,251964.25
+Wexford,2023,2,2023 Q2,6.63,261726.37,Republic of Ireland,False,406.0,248260.86
+Wexford,2023,3,2023 Q3,6.23,261758.09,Republic of Ireland,False,446.0,250843.15
+Wexford,2023,4,2023 Q4,4.5,253498.22,Republic of Ireland,False,417.0,248188.58
+Wexford,2024,1,2024 Q1,3.47,258160.43,Republic of Ireland,False,290.0,261856.02
+Wexford,2024,2,2024 Q2,2.47,280988.45,Republic of Ireland,False,326.0,254987.73
+Wexford,2024,3,2024 Q3,1.53,280642.37,Republic of Ireland,False,422.0,259399.97
+Wexford,2024,4,2024 Q4,1.03,346642.15,Republic of Ireland,False,449.0,277620.03
+Wexford,2025,1,2025 Q1,1.9,297288.56,Republic of Ireland,False,326.0,280501.18
+Wexford,2025,2,2025 Q2,1.9,311509.32,Republic of Ireland,False,324.0,291244.68
+Wexford,2025,3,2025 Q3,2.13,316308.22,Republic of Ireland,False,408.0,300070.07
+Wexford,2025,4,2025 Q4,3.05,290992.51,Republic of Ireland,False,165.0,278003.64
+Wicklow,2010,1,2010 Q1,-3.37,313519.88,Republic of Ireland,False,65.0,290430.77
+Wicklow,2010,2,2010 Q2,-1.33,282313.8,Republic of Ireland,False,90.0,289737.22
+Wicklow,2010,3,2010 Q3,0.2,301250.92,Republic of Ireland,False,148.0,295786.58
+Wicklow,2010,4,2010 Q4,0.93,288754.36,Republic of Ireland,False,127.0,283019.97
+Wicklow,2011,1,2011 Q1,2.27,263969.41,Republic of Ireland,False,75.0,261881.28
+Wicklow,2011,2,2011 Q2,2.87,242692.19,Republic of Ireland,False,90.0,253280.56
+Wicklow,2011,3,2011 Q3,2.43,237324.55,Republic of Ireland,False,121.0,239690.08
+Wicklow,2011,4,2011 Q4,2.7,226331.78,Republic of Ireland,False,132.0,232334.5
+Wicklow,2012,1,2012 Q1,2.13,198893.52,Republic of Ireland,False,85.0,193210.02
+Wicklow,2012,2,2012 Q2,1.8,206659.86,Republic of Ireland,False,119.0,203612.83
+Wicklow,2012,3,2012 Q3,1.77,253276.91,Republic of Ireland,False,161.0,248751.55
+Wicklow,2012,4,2012 Q4,1.07,246257.66,Republic of Ireland,False,208.0,217709.56
+Wicklow,2013,1,2013 Q1,0.97,266188.96,Republic of Ireland,False,129.0,208705.99
+Wicklow,2013,2,2013 Q2,0.53,221497.68,Republic of Ireland,False,141.0,212936.4
+Wicklow,2013,3,2013 Q3,0.3,223801.22,Republic of Ireland,False,219.0,208133.24
+Wicklow,2013,4,2013 Q4,0.23,265970.25,Republic of Ireland,False,255.0,239330.43
+Wicklow,2014,1,2014 Q1,0.07,290827.18,Republic of Ireland,False,187.0,267006.83
+Wicklow,2014,2,2014 Q2,0.37,218548.44,Republic of Ireland,False,260.0,214453.68
+Wicklow,2014,3,2014 Q3,0.37,277012.36,Republic of Ireland,False,267.0,263601.53
+Wicklow,2014,4,2014 Q4,-0.03,269241.93,Republic of Ireland,False,335.0,252477.94
+Wicklow,2015,1,2015 Q1,-0.6,286442.06,Republic of Ireland,False,207.0,247584.15
+Wicklow,2015,2,2015 Q2,-0.43,283977.89,Republic of Ireland,False,282.0,254663.42
+Wicklow,2015,3,2015 Q3,-0.17,301970.4,Republic of Ireland,False,258.0,274605.55
+Wicklow,2015,4,2015 Q4,-0.07,291043.75,Republic of Ireland,False,293.0,282247.33
+Wicklow,2016,1,2016 Q1,-0.13,333746.49,Republic of Ireland,False,204.0,294728.19
+Wicklow,2016,2,2016 Q2,0.17,295868.33,Republic of Ireland,False,232.0,285951.07
+Wicklow,2016,3,2016 Q3,0.13,299620.31,Republic of Ireland,False,286.0,282803.55
+Wicklow,2016,4,2016 Q4,-0.07,312729.87,Republic of Ireland,False,312.0,290615.7
+Wicklow,2017,1,2017 Q1,0.57,319223.26,Republic of Ireland,False,240.0,282375.67
+Wicklow,2017,2,2017 Q2,0.23,329658.99,Republic of Ireland,False,277.0,311588.41
+Wicklow,2017,3,2017 Q3,0.2,332182.34,Republic of Ireland,False,305.0,316855.65
+Wicklow,2017,4,2017 Q4,0.47,333271.69,Republic of Ireland,False,307.0,308673.08
+Wicklow,2018,1,2018 Q1,0.23,339779.16,Republic of Ireland,False,229.0,320455.89
+Wicklow,2018,2,2018 Q2,0.17,331858.42,Republic of Ireland,False,235.0,333417.09
+Wicklow,2018,3,2018 Q3,0.77,333062.03,Republic of Ireland,False,271.0,312053.38
+Wicklow,2018,4,2018 Q4,0.73,321180.58,Republic of Ireland,False,305.0,318815.58
+Wicklow,2019,1,2019 Q1,0.83,323832.01,Republic of Ireland,False,203.0,305444.44
+Wicklow,2019,2,2019 Q2,1.17,311186.62,Republic of Ireland,False,266.0,297456.81
+Wicklow,2019,3,2019 Q3,0.7,343033.39,Republic of Ireland,False,361.0,335119.2
+Wicklow,2019,4,2019 Q4,1.03,403752.5,Republic of Ireland,False,311.0,325426.78
+Wicklow,2020,1,2020 Q1,1.03,389963.04,Republic of Ireland,False,217.0,333684.11
+Wicklow,2020,2,2020 Q2,-0.3,335057.78,Republic of Ireland,False,163.0,322644.59
+Wicklow,2020,3,2020 Q3,-0.93,334030.12,Republic of Ireland,False,226.0,324269.22
+Wicklow,2020,4,2020 Q4,-1.13,381223.52,Republic of Ireland,False,487.0,348955.53
+Wicklow,2021,1,2021 Q1,-0.23,405869.5,Republic of Ireland,False,322.0,374010.19
+Wicklow,2021,2,2021 Q2,1.4,410181.22,Republic of Ireland,False,268.0,363857.38
+Wicklow,2021,3,2021 Q3,2.93,448572.5,Republic of Ireland,False,368.0,404732.96
+Wicklow,2021,4,2021 Q4,5.27,415250.08,Republic of Ireland,False,370.0,376868.13
+Wicklow,2022,1,2022 Q1,5.77,391566.69,Republic of Ireland,False,258.0,389030.02
+Wicklow,2022,2,2022 Q2,7.97,444661.24,Republic of Ireland,False,298.0,425259.77
+Wicklow,2022,3,2022 Q3,8.7,412788.36,Republic of Ireland,False,346.0,425647.3
+Wicklow,2022,4,2022 Q4,8.8,549415.9,Republic of Ireland,False,343.0,459546.54
+Wicklow,2023,1,2023 Q1,7.97,555218.2,Republic of Ireland,False,252.0,414454.09
+Wicklow,2023,2,2023 Q2,6.63,500918.09,Republic of Ireland,False,298.0,438707.21
+Wicklow,2023,3,2023 Q3,6.23,434185.56,Republic of Ireland,False,374.0,416903.03
+Wicklow,2023,4,2023 Q4,4.5,462317.46,Republic of Ireland,False,361.0,412598.55
+Wicklow,2024,1,2024 Q1,3.47,441886.96,Republic of Ireland,False,281.0,433852.05
+Wicklow,2024,2,2024 Q2,2.47,432829.45,Republic of Ireland,False,307.0,395364.65
+Wicklow,2024,3,2024 Q3,1.53,466590.78,Republic of Ireland,False,375.0,451250.53
+Wicklow,2024,4,2024 Q4,1.03,940101.37,Republic of Ireland,False,428.0,438714.86
+Wicklow,2025,1,2025 Q1,1.9,489495.21,Republic of Ireland,False,273.0,477255.01
+Wicklow,2025,2,2025 Q2,1.9,480458.06,Republic of Ireland,False,288.0,456471.41
+Wicklow,2025,3,2025 Q3,2.13,506612.18,Republic of Ireland,False,343.0,521350.59
+Wicklow,2025,4,2025 Q4,3.05,517886.37,Republic of Ireland,False,127.0,457443.51
+Antrim and Newtownabbey,2010,1,2010 Q1,3.28,143630.65,Northern Ireland,True,217.0,148341.74
+Antrim and Newtownabbey,2010,2,2010 Q2,3.46,147734.48,Northern Ireland,True,245.0,152846.09
+Antrim and Newtownabbey,2010,3,2010 Q3,3.09,152217.47,Northern Ireland,True,269.0,156920.99
+Antrim and Newtownabbey,2010,4,2010 Q4,3.38,134301.09,Northern Ireland,True,270.0,138840.47
+Antrim and Newtownabbey,2011,1,2011 Q1,4.12,128956.2,Northern Ireland,True,205.0,134269.2
+Antrim and Newtownabbey,2011,2,2011 Q2,4.38,125657.69,Northern Ireland,True,224.0,131161.5
+Antrim and Newtownabbey,2011,3,2011 Q3,4.71,126089.5,Northern Ireland,True,283.0,132028.32
+Antrim and Newtownabbey,2011,4,2011 Q4,4.65,119516.95,Northern Ireland,True,252.0,125074.49
+Antrim and Newtownabbey,2012,1,2012 Q1,3.49,117065.97,Northern Ireland,True,317.0,121151.57
+Antrim and Newtownabbey,2012,2,2012 Q2,2.76,122125.84,Northern Ireland,True,275.0,125496.51
+Antrim and Newtownabbey,2012,3,2012 Q3,2.41,124970.61,Northern Ireland,True,304.0,127982.4
+Antrim and Newtownabbey,2012,4,2012 Q4,2.67,119576.1,Northern Ireland,True,343.0,122768.78
+Antrim and Newtownabbey,2013,1,2013 Q1,2.78,109393.6,Northern Ireland,True,291.0,112434.74
+Antrim and Newtownabbey,2013,2,2013 Q2,2.68,111806.8,Northern Ireland,True,330.0,114803.22
+Antrim and Newtownabbey,2013,3,2013 Q3,2.71,112119.12,Northern Ireland,True,359.0,115157.55
+Antrim and Newtownabbey,2013,4,2013 Q4,2.1,115636.94,Northern Ireland,True,383.0,118065.32
+Antrim and Newtownabbey,2014,1,2014 Q1,1.74,119987.43,Northern Ireland,True,404.0,122075.21
+Antrim and Newtownabbey,2014,2,2014 Q2,1.72,125865.19,Northern Ireland,True,486.0,128030.07
+Antrim and Newtownabbey,2014,3,2014 Q3,1.46,132372.7,Northern Ireland,True,471.0,134305.34
+Antrim and Newtownabbey,2014,4,2014 Q4,0.94,134485.33,Northern Ireland,True,479.0,135749.49
+Antrim and Newtownabbey,2015,1,2015 Q1,0.1,144710.44,Northern Ireland,True,385.0,144855.15
+Antrim and Newtownabbey,2015,2,2015 Q2,-0.02,155317.45,Northern Ireland,True,478.0,155286.39
+Antrim and Newtownabbey,2015,3,2015 Q3,0.01,158365.62,Northern Ireland,True,571.0,158381.46
+Antrim and Newtownabbey,2015,4,2015 Q4,0.07,159045.22,Northern Ireland,True,542.0,159156.55
+Antrim and Newtownabbey,2016,1,2016 Q1,0.35,146171.1,Northern Ireland,True,538.0,146682.7
+Antrim and Newtownabbey,2016,2,2016 Q2,0.35,151715.17,Northern Ireland,True,402.0,152246.17
+Antrim and Newtownabbey,2016,3,2016 Q3,0.73,143055.97,Northern Ireland,True,570.0,144100.28
+Antrim and Newtownabbey,2016,4,2016 Q4,1.21,139398.51,Northern Ireland,True,545.0,141085.23
+Antrim and Newtownabbey,2017,1,2017 Q1,2.14,137768.68,Northern Ireland,True,509.0,140716.93
+Antrim and Newtownabbey,2017,2,2017 Q2,2.74,141021.98,Northern Ireland,True,634.0,144885.98
+Antrim and Newtownabbey,2017,3,2017 Q3,2.82,135707.08,Northern Ireland,True,600.0,139534.02
+Antrim and Newtownabbey,2017,4,2017 Q4,3.02,135020.16,Northern Ireland,True,667.0,139097.77
+Antrim and Newtownabbey,2018,1,2018 Q1,2.72,137882.27,Northern Ireland,True,443.0,141632.67
+Antrim and Newtownabbey,2018,2,2018 Q2,2.42,141180.87,Northern Ireland,True,590.0,144597.45
+Antrim and Newtownabbey,2018,3,2018 Q3,2.52,142329.56,Northern Ireland,True,647.0,145916.26
+Antrim and Newtownabbey,2018,4,2018 Q4,2.27,145438.35,Northern Ireland,True,647.0,148739.8
+Antrim and Newtownabbey,2019,1,2019 Q1,1.88,146586.67,Northern Ireland,True,499.0,149342.5
+Antrim and Newtownabbey,2019,2,2019 Q2,2.05,146176.84,Northern Ireland,True,564.0,149173.47
+Antrim and Newtownabbey,2019,3,2019 Q3,1.83,147368.38,Northern Ireland,True,618.0,150065.22
+Antrim and Newtownabbey,2019,4,2019 Q4,1.41,156086.68,Northern Ireland,True,573.0,158287.5
+Antrim and Newtownabbey,2020,1,2020 Q1,1.67,155494.3,Northern Ireland,True,493.0,158091.05
+Antrim and Newtownabbey,2020,2,2020 Q2,0.62,153612.81,Northern Ireland,True,198.0,154565.21
+Antrim and Newtownabbey,2020,3,2020 Q3,0.6,152386.14,Northern Ireland,True,418.0,153300.46
+Antrim and Newtownabbey,2020,4,2020 Q4,0.53,155360.07,Northern Ireland,True,756.0,156183.48
+Antrim and Newtownabbey,2021,1,2021 Q1,0.61,163446.73,Northern Ireland,True,655.0,164443.76
+Antrim and Newtownabbey,2021,2,2021 Q2,2.05,168538.66,Northern Ireland,True,727.0,171993.7
+Antrim and Newtownabbey,2021,3,2021 Q3,2.77,172853.21,Northern Ireland,True,763.0,177641.24
+Antrim and Newtownabbey,2021,4,2021 Q4,4.91,171218.63,Northern Ireland,True,603.0,179625.46
+Antrim and Newtownabbey,2022,1,2022 Q1,6.22,174896.18,Northern Ireland,True,506.0,185774.72
+Antrim and Newtownabbey,2022,2,2022 Q2,9.17,176026.9,Northern Ireland,True,559.0,192168.57
+Antrim and Newtownabbey,2022,3,2022 Q3,10.02,179059.48,Northern Ireland,True,582.0,197001.24
+Antrim and Newtownabbey,2022,4,2022 Q4,10.75,174828.6,Northern Ireland,True,676.0,193622.67
+Antrim and Newtownabbey,2023,1,2023 Q1,10.18,170615.07,Northern Ireland,True,459.0,187983.68
+Antrim and Newtownabbey,2023,2,2023 Q2,8.43,177083.43,Northern Ireland,True,482.0,192011.56
+Antrim and Newtownabbey,2023,3,2023 Q3,6.71,189110.66,Northern Ireland,True,553.0,201799.98
+Antrim and Newtownabbey,2023,4,2023 Q4,4.18,189954.08,Northern Ireland,True,574.0,197894.16
+Antrim and Newtownabbey,2024,1,2024 Q1,3.54,195709.04,Northern Ireland,True,451.0,202637.14
+Antrim and Newtownabbey,2024,2,2024 Q2,2.1,205132.42,Northern Ireland,True,511.0,209440.2
+Antrim and Newtownabbey,2024,3,2024 Q3,2.04,213608.76,Northern Ireland,True,631.0,217966.38
+Antrim and Newtownabbey,2024,4,2024 Q4,2.47,218524.19,Northern Ireland,True,613.0,223921.74
+Antrim and Newtownabbey,2025,1,2025 Q1,2.8,220900.9,Northern Ireland,True,599.0,227086.13
+Antrim and Newtownabbey,2025,2,2025 Q2,3.49,215600.14,Northern Ireland,True,437.0,223124.58
+Antrim and Newtownabbey,2025,3,2025 Q3,3.8,218158.24,Northern Ireland,True,530.0,226448.25
+Ards and North Down,2010,1,2010 Q1,3.28,172181.77,Northern Ireland,True,286.0,177829.33
+Ards and North Down,2010,2,2010 Q2,3.46,178620.03,Northern Ireland,True,269.0,184800.28
+Ards and North Down,2010,3,2010 Q3,3.09,181718.02,Northern Ireland,True,286.0,187333.11
+Ards and North Down,2010,4,2010 Q4,3.38,162595.86,Northern Ireland,True,305.0,168091.6
+Ards and North Down,2011,1,2011 Q1,4.12,155171.0,Northern Ireland,True,235.0,161564.04
+Ards and North Down,2011,2,2011 Q2,4.38,143072.31,Northern Ireland,True,294.0,149338.88
+Ards and North Down,2011,3,2011 Q3,4.71,143186.52,Northern Ireland,True,357.0,149930.6
+Ards and North Down,2011,4,2011 Q4,4.65,148310.97,Northern Ireland,True,342.0,155207.43
+Ards and North Down,2012,1,2012 Q1,3.49,140608.64,Northern Ireland,True,359.0,145515.88
+Ards and North Down,2012,2,2012 Q2,2.76,143387.88,Northern Ireland,True,315.0,147345.39
+Ards and North Down,2012,3,2012 Q3,2.41,147273.57,Northern Ireland,True,411.0,150822.86
+Ards and North Down,2012,4,2012 Q4,2.67,141234.53,Northern Ireland,True,424.0,145005.49
+Ards and North Down,2013,1,2013 Q1,2.78,129329.6,Northern Ireland,True,420.0,132924.96
+Ards and North Down,2013,2,2013 Q2,2.68,131181.07,Northern Ireland,True,466.0,134696.72
+Ards and North Down,2013,3,2013 Q3,2.71,132168.97,Northern Ireland,True,491.0,135750.75
+Ards and North Down,2013,4,2013 Q4,2.1,136656.97,Northern Ireland,True,633.0,139526.77
+Ards and North Down,2014,1,2014 Q1,1.74,142071.31,Northern Ireland,True,565.0,144543.35
+Ards and North Down,2014,2,2014 Q2,1.72,147302.2,Northern Ireland,True,645.0,149835.8
+Ards and North Down,2014,3,2014 Q3,1.46,153667.82,Northern Ireland,True,702.0,155911.37
+Ards and North Down,2014,4,2014 Q4,0.94,157930.57,Northern Ireland,True,670.0,159415.12
+Ards and North Down,2015,1,2015 Q1,0.1,171197.98,Northern Ireland,True,494.0,171369.18
+Ards and North Down,2015,2,2015 Q2,-0.02,178672.96,Northern Ireland,True,599.0,178637.23
+Ards and North Down,2015,3,2015 Q3,0.01,184788.93,Northern Ireland,True,693.0,184807.41
+Ards and North Down,2015,4,2015 Q4,0.07,184268.88,Northern Ireland,True,672.0,184397.87
+Ards and North Down,2016,1,2016 Q1,0.35,171472.09,Northern Ireland,True,638.0,172072.24
+Ards and North Down,2016,2,2016 Q2,0.35,170871.33,Northern Ireland,True,575.0,171469.38
+Ards and North Down,2016,3,2016 Q3,0.73,157642.65,Northern Ireland,True,716.0,158793.44
+Ards and North Down,2016,4,2016 Q4,1.21,154409.77,Northern Ireland,True,698.0,156278.13
+Ards and North Down,2017,1,2017 Q1,2.14,154540.97,Northern Ireland,True,541.0,157848.15
+Ards and North Down,2017,2,2017 Q2,2.74,156264.78,Northern Ireland,True,709.0,160546.44
+Ards and North Down,2017,3,2017 Q3,2.82,152110.94,Northern Ireland,True,680.0,156400.47
+Ards and North Down,2017,4,2017 Q4,3.02,152296.67,Northern Ireland,True,760.0,156896.03
+Ards and North Down,2018,1,2018 Q1,2.72,155889.11,Northern Ireland,True,588.0,160129.29
+Ards and North Down,2018,2,2018 Q2,2.42,158296.34,Northern Ireland,True,704.0,162127.11
+Ards and North Down,2018,3,2018 Q3,2.52,158007.55,Northern Ireland,True,760.0,161989.34
+Ards and North Down,2018,4,2018 Q4,2.27,159751.76,Northern Ireland,True,751.0,163378.13
+Ards and North Down,2019,1,2019 Q1,1.88,161453.65,Northern Ireland,True,551.0,164488.98
+Ards and North Down,2019,2,2019 Q2,2.05,163427.78,Northern Ireland,True,676.0,166778.05
+Ards and North Down,2019,3,2019 Q3,1.83,162388.57,Northern Ireland,True,843.0,165360.28
+Ards and North Down,2019,4,2019 Q4,1.41,170071.93,Northern Ireland,True,843.0,172469.94
+Ards and North Down,2020,1,2020 Q1,1.67,168963.35,Northern Ireland,True,558.0,171785.04
+Ards and North Down,2020,2,2020 Q2,0.62,164639.07,Northern Ireland,True,230.0,165659.83
+Ards and North Down,2020,3,2020 Q3,0.6,170876.19,Northern Ireland,True,622.0,171901.45
+Ards and North Down,2020,4,2020 Q4,0.53,173670.78,Northern Ireland,True,0.0,174591.24
+Ards and North Down,2021,1,2021 Q1,0.61,186000.76,Northern Ireland,True,976.0,187135.36
+Ards and North Down,2021,2,2021 Q2,2.05,188850.22,Northern Ireland,True,0.0,192721.65
+Ards and North Down,2021,3,2021 Q3,2.77,194372.97,Northern Ireland,True,0.0,199757.1
+Ards and North Down,2021,4,2021 Q4,4.91,191331.06,Northern Ireland,True,752.0,200725.41
+Ards and North Down,2022,1,2022 Q1,6.22,199380.39,Northern Ireland,True,692.0,211781.85
+Ards and North Down,2022,2,2022 Q2,9.17,201247.47,Northern Ireland,True,750.0,219701.86
+Ards and North Down,2022,3,2022 Q3,10.02,199757.29,Northern Ireland,True,804.0,219772.97
+Ards and North Down,2022,4,2022 Q4,10.75,199185.91,Northern Ireland,True,724.0,220598.4
+Ards and North Down,2023,1,2023 Q1,10.18,186826.53,Northern Ireland,True,528.0,205845.47
+Ards and North Down,2023,2,2023 Q2,8.43,202004.46,Northern Ireland,True,602.0,219033.44
+Ards and North Down,2023,3,2023 Q3,6.71,205604.64,Northern Ireland,True,693.0,219400.71
+Ards and North Down,2023,4,2023 Q4,4.18,211763.42,Northern Ireland,True,658.0,220615.13
+Ards and North Down,2024,1,2024 Q1,3.54,223451.82,Northern Ireland,True,531.0,231362.01
+Ards and North Down,2024,2,2024 Q2,2.1,230252.79,Northern Ireland,True,674.0,235088.1
+Ards and North Down,2024,3,2024 Q3,2.04,238031.5,Northern Ireland,True,755.0,242887.34
+Ards and North Down,2024,4,2024 Q4,2.47,242642.47,Northern Ireland,True,818.0,248635.74
+Ards and North Down,2025,1,2025 Q1,2.8,243671.64,Northern Ireland,True,838.0,250494.45
+Ards and North Down,2025,2,2025 Q2,3.49,240846.45,Northern Ireland,True,590.0,249251.99
+Ards and North Down,2025,3,2025 Q3,3.8,247788.0,Northern Ireland,True,738.0,257203.94
+"Armagh City, Banbridge and Craigavon",2010,1,2010 Q1,3.28,129510.57,Northern Ireland,True,261.0,133758.52
+"Armagh City, Banbridge and Craigavon",2010,2,2010 Q2,3.46,130145.77,Northern Ireland,True,298.0,134648.81
+"Armagh City, Banbridge and Craigavon",2010,3,2010 Q3,3.09,134428.0,Northern Ireland,True,224.0,138581.83
+"Armagh City, Banbridge and Craigavon",2010,4,2010 Q4,3.38,124923.91,Northern Ireland,True,299.0,129146.34
+"Armagh City, Banbridge and Craigavon",2011,1,2011 Q1,4.12,120358.15,Northern Ireland,True,254.0,125316.91
+"Armagh City, Banbridge and Craigavon",2011,2,2011 Q2,4.38,108018.4,Northern Ireland,True,288.0,112749.61
+"Armagh City, Banbridge and Craigavon",2011,3,2011 Q3,4.71,110681.4,Northern Ireland,True,347.0,115894.49
+"Armagh City, Banbridge and Craigavon",2011,4,2011 Q4,4.65,107743.31,Northern Ireland,True,327.0,112753.37
+"Armagh City, Banbridge and Craigavon",2012,1,2012 Q1,3.49,107349.66,Northern Ireland,True,337.0,111096.16
+"Armagh City, Banbridge and Craigavon",2012,2,2012 Q2,2.76,110539.82,Northern Ireland,True,343.0,113590.72
+"Armagh City, Banbridge and Craigavon",2012,3,2012 Q3,2.41,105518.43,Northern Ireland,True,398.0,108061.42
+"Armagh City, Banbridge and Craigavon",2012,4,2012 Q4,2.67,100495.31,Northern Ireland,True,441.0,103178.53
+"Armagh City, Banbridge and Craigavon",2013,1,2013 Q1,2.78,95974.5,Northern Ireland,True,373.0,98642.59
+"Armagh City, Banbridge and Craigavon",2013,2,2013 Q2,2.68,97913.24,Northern Ireland,True,407.0,100537.31
+"Armagh City, Banbridge and Craigavon",2013,3,2013 Q3,2.71,98317.11,Northern Ireland,True,434.0,100981.5
+"Armagh City, Banbridge and Craigavon",2013,4,2013 Q4,2.1,104154.53,Northern Ireland,True,564.0,106341.78
+"Armagh City, Banbridge and Craigavon",2014,1,2014 Q1,1.74,106997.81,Northern Ireland,True,437.0,108859.57
+"Armagh City, Banbridge and Craigavon",2014,2,2014 Q2,1.72,111011.37,Northern Ireland,True,558.0,112920.77
+"Armagh City, Banbridge and Craigavon",2014,3,2014 Q3,1.46,116994.62,Northern Ireland,True,552.0,118702.74
+"Armagh City, Banbridge and Craigavon",2014,4,2014 Q4,0.94,120995.87,Northern Ireland,True,688.0,122133.23
+"Armagh City, Banbridge and Craigavon",2015,1,2015 Q1,0.1,130673.15,Northern Ireland,True,515.0,130803.82
+"Armagh City, Banbridge and Craigavon",2015,2,2015 Q2,-0.02,137775.87,Northern Ireland,True,566.0,137748.31
+"Armagh City, Banbridge and Craigavon",2015,3,2015 Q3,0.01,143057.36,Northern Ireland,True,613.0,143071.67
+"Armagh City, Banbridge and Craigavon",2015,4,2015 Q4,0.07,145668.05,Northern Ireland,True,683.0,145770.02
+"Armagh City, Banbridge and Craigavon",2016,1,2016 Q1,0.35,137319.19,Northern Ireland,True,692.0,137799.81
+"Armagh City, Banbridge and Craigavon",2016,2,2016 Q2,0.35,138914.44,Northern Ireland,True,534.0,139400.64
+"Armagh City, Banbridge and Craigavon",2016,3,2016 Q3,0.73,126947.68,Northern Ireland,True,644.0,127874.4
+"Armagh City, Banbridge and Craigavon",2016,4,2016 Q4,1.21,124908.34,Northern Ireland,True,706.0,126419.73
+"Armagh City, Banbridge and Craigavon",2017,1,2017 Q1,2.14,127760.4,Northern Ireland,True,600.0,130494.47
+"Armagh City, Banbridge and Craigavon",2017,2,2017 Q2,2.74,126647.86,Northern Ireland,True,686.0,130118.01
+"Armagh City, Banbridge and Craigavon",2017,3,2017 Q3,2.82,121979.22,Northern Ireland,True,738.0,125419.03
+"Armagh City, Banbridge and Craigavon",2017,4,2017 Q4,3.02,125406.18,Northern Ireland,True,825.0,129193.45
+"Armagh City, Banbridge and Craigavon",2018,1,2018 Q1,2.72,126091.95,Northern Ireland,True,611.0,129521.65
+"Armagh City, Banbridge and Craigavon",2018,2,2018 Q2,2.42,128598.98,Northern Ireland,True,711.0,131711.08
+"Armagh City, Banbridge and Craigavon",2018,3,2018 Q3,2.52,125786.88,Northern Ireland,True,745.0,128956.71
+"Armagh City, Banbridge and Craigavon",2018,4,2018 Q4,2.27,130322.33,Northern Ireland,True,759.0,133280.65
+"Armagh City, Banbridge and Craigavon",2019,1,2019 Q1,1.88,134096.73,Northern Ireland,True,554.0,136617.75
+"Armagh City, Banbridge and Craigavon",2019,2,2019 Q2,2.05,132468.21,Northern Ireland,True,719.0,135183.81
+"Armagh City, Banbridge and Craigavon",2019,3,2019 Q3,1.83,133384.89,Northern Ireland,True,735.0,135825.83
+"Armagh City, Banbridge and Craigavon",2019,4,2019 Q4,1.41,140139.06,Northern Ireland,True,834.0,142115.02
+"Armagh City, Banbridge and Craigavon",2020,1,2020 Q1,1.67,140264.37,Northern Ireland,True,638.0,142606.79
+"Armagh City, Banbridge and Craigavon",2020,2,2020 Q2,0.62,138306.85,Northern Ireland,True,283.0,139164.35
+"Armagh City, Banbridge and Craigavon",2020,3,2020 Q3,0.6,137199.8,Northern Ireland,True,631.0,138023.0
+"Armagh City, Banbridge and Craigavon",2020,4,2020 Q4,0.53,140090.5,Northern Ireland,True,974.0,140832.98
+"Armagh City, Banbridge and Craigavon",2021,1,2021 Q1,0.61,144166.89,Northern Ireland,True,850.0,145046.31
+"Armagh City, Banbridge and Craigavon",2021,2,2021 Q2,2.05,151761.62,Northern Ireland,True,823.0,154872.73
+"Armagh City, Banbridge and Craigavon",2021,3,2021 Q3,2.77,158686.82,Northern Ireland,True,987.0,163082.44
+"Armagh City, Banbridge and Craigavon",2021,4,2021 Q4,4.91,155251.62,Northern Ireland,True,853.0,162874.47
+"Armagh City, Banbridge and Craigavon",2022,1,2022 Q1,6.22,161774.02,Northern Ireland,True,621.0,171836.36
+"Armagh City, Banbridge and Craigavon",2022,2,2022 Q2,9.17,160432.32,Northern Ireland,True,752.0,175143.96
+"Armagh City, Banbridge and Craigavon",2022,3,2022 Q3,10.02,164561.56,Northern Ireland,True,759.0,181050.63
+"Armagh City, Banbridge and Craigavon",2022,4,2022 Q4,10.75,159776.28,Northern Ireland,True,808.0,176952.23
+"Armagh City, Banbridge and Craigavon",2023,1,2023 Q1,10.18,156700.87,Northern Ireland,True,571.0,172653.02
+"Armagh City, Banbridge and Craigavon",2023,2,2023 Q2,8.43,160806.16,Northern Ireland,True,622.0,174362.12
+"Armagh City, Banbridge and Craigavon",2023,3,2023 Q3,6.71,174401.25,Northern Ireland,True,695.0,186103.57
+"Armagh City, Banbridge and Craigavon",2023,4,2023 Q4,4.18,174213.35,Northern Ireland,True,645.0,181495.47
+"Armagh City, Banbridge and Craigavon",2024,1,2024 Q1,3.54,179568.16,Northern Ireland,True,576.0,185924.87
+"Armagh City, Banbridge and Craigavon",2024,2,2024 Q2,2.1,188313.19,Northern Ireland,True,597.0,192267.77
+"Armagh City, Banbridge and Craigavon",2024,3,2024 Q3,2.04,195533.82,Northern Ireland,True,707.0,199522.71
+"Armagh City, Banbridge and Craigavon",2024,4,2024 Q4,2.47,196176.3,Northern Ireland,True,761.0,201021.85
+"Armagh City, Banbridge and Craigavon",2025,1,2025 Q1,2.8,197679.73,Northern Ireland,True,716.0,203214.76
+"Armagh City, Banbridge and Craigavon",2025,2,2025 Q2,3.49,195548.28,Northern Ireland,True,558.0,202372.92
+"Armagh City, Banbridge and Craigavon",2025,3,2025 Q3,3.8,194828.81,Northern Ireland,True,670.0,202232.3
+Belfast,2010,1,2010 Q1,3.28,132187.07,Northern Ireland,True,599.0,136522.81
+Belfast,2010,2,2010 Q2,3.46,135704.76,Northern Ireland,True,604.0,140400.14
+Belfast,2010,3,2010 Q3,3.09,134644.43,Northern Ireland,True,534.0,138804.94
+Belfast,2010,4,2010 Q4,3.38,120234.76,Northern Ireland,True,606.0,124298.7
+Belfast,2011,1,2011 Q1,4.12,113430.22,Northern Ireland,True,585.0,118103.55
+Belfast,2011,2,2011 Q2,4.38,109803.82,Northern Ireland,True,573.0,114613.23
+Belfast,2011,3,2011 Q3,4.71,108901.02,Northern Ireland,True,677.0,114030.26
+Belfast,2011,4,2011 Q4,4.65,107819.06,Northern Ireland,True,714.0,112832.65
+Belfast,2012,1,2012 Q1,3.49,102112.8,Northern Ireland,True,744.0,105676.54
+Belfast,2012,2,2012 Q2,2.76,107907.89,Northern Ireland,True,700.0,110886.15
+Belfast,2012,3,2012 Q3,2.41,109066.18,Northern Ireland,True,788.0,111694.67
+Belfast,2012,4,2012 Q4,2.67,102818.44,Northern Ireland,True,797.0,105563.69
+Belfast,2013,1,2013 Q1,2.78,94720.29,Northern Ireland,True,729.0,97353.51
+Belfast,2013,2,2013 Q2,2.68,97843.4,Northern Ireland,True,816.0,100465.6
+Belfast,2013,3,2013 Q3,2.71,100788.42,Northern Ireland,True,907.0,103519.79
+Belfast,2013,4,2013 Q4,2.1,104941.77,Northern Ireland,True,0.0,107145.55
+Belfast,2014,1,2014 Q1,1.74,107685.23,Northern Ireland,True,994.0,109558.95
+Belfast,2014,2,2014 Q2,1.72,114791.82,Northern Ireland,True,0.0,116766.24
+Belfast,2014,3,2014 Q3,1.46,121046.51,Northern Ireland,True,0.0,122813.79
+Belfast,2014,4,2014 Q4,0.94,124346.27,Northern Ireland,True,0.0,125515.12
+Belfast,2015,1,2015 Q1,0.1,133985.76,Northern Ireland,True,962.0,134119.75
+Belfast,2015,2,2015 Q2,-0.02,141587.57,Northern Ireland,True,0.0,141559.25
+Belfast,2015,3,2015 Q3,0.01,148231.66,Northern Ireland,True,0.0,148246.48
+Belfast,2015,4,2015 Q4,0.07,147567.2,Northern Ireland,True,0.0,147670.5
+Belfast,2016,1,2016 Q1,0.35,135324.5,Northern Ireland,True,0.0,135798.14
+Belfast,2016,2,2016 Q2,0.35,142229.49,Northern Ireland,True,0.0,142727.29
+Belfast,2016,3,2016 Q3,0.73,130740.61,Northern Ireland,True,0.0,131695.02
+Belfast,2016,4,2016 Q4,1.21,127724.23,Northern Ireland,True,0.0,129269.69
+Belfast,2017,1,2017 Q1,2.14,125626.01,Northern Ireland,True,0.0,128314.41
+Belfast,2017,2,2017 Q2,2.74,127983.7,Northern Ireland,True,0.0,131490.45
+Belfast,2017,3,2017 Q3,2.82,125241.57,Northern Ireland,True,0.0,128773.38
+Belfast,2017,4,2017 Q4,3.02,125767.16,Northern Ireland,True,0.0,129565.33
+Belfast,2018,1,2018 Q1,2.72,127839.27,Northern Ireland,True,0.0,131316.5
+Belfast,2018,2,2018 Q2,2.42,131702.37,Northern Ireland,True,0.0,134889.57
+Belfast,2018,3,2018 Q3,2.52,132832.25,Northern Ireland,True,0.0,136179.62
+Belfast,2018,4,2018 Q4,2.27,136736.52,Northern Ireland,True,0.0,139840.44
+Belfast,2019,1,2019 Q1,1.88,136697.87,Northern Ireland,True,959.0,139267.79
+Belfast,2019,2,2019 Q2,2.05,137342.94,Northern Ireland,True,0.0,140158.47
+Belfast,2019,3,2019 Q3,1.83,137271.43,Northern Ireland,True,0.0,139783.5
+Belfast,2019,4,2019 Q4,1.41,142846.47,Northern Ireland,True,0.0,144860.61
+Belfast,2020,1,2020 Q1,1.67,144641.39,Northern Ireland,True,0.0,147056.9
+Belfast,2020,2,2020 Q2,0.62,143140.84,Northern Ireland,True,329.0,144028.31
+Belfast,2020,3,2020 Q3,0.6,141950.0,Northern Ireland,True,960.0,142801.7
+Belfast,2020,4,2020 Q4,0.53,146569.43,Northern Ireland,True,0.0,147346.25
+Belfast,2021,1,2021 Q1,0.61,153348.74,Northern Ireland,True,0.0,154284.17
+Belfast,2021,2,2021 Q2,2.05,156875.87,Northern Ireland,True,0.0,160091.83
+Belfast,2021,3,2021 Q3,2.77,161336.26,Northern Ireland,True,0.0,165805.27
+Belfast,2021,4,2021 Q4,4.91,156927.09,Northern Ireland,True,0.0,164632.21
+Belfast,2022,1,2022 Q1,6.22,161934.95,Northern Ireland,True,0.0,172007.3
+Belfast,2022,2,2022 Q2,9.17,159110.99,Northern Ireland,True,0.0,173701.47
+Belfast,2022,3,2022 Q3,10.02,164032.5,Northern Ireland,True,0.0,180468.56
+Belfast,2022,4,2022 Q4,10.75,157664.52,Northern Ireland,True,0.0,174613.46
+Belfast,2023,1,2023 Q1,10.18,153553.56,Northern Ireland,True,0.0,169185.31
+Belfast,2023,2,2023 Q2,8.43,158113.8,Northern Ireland,True,0.0,171442.79
+Belfast,2023,3,2023 Q3,6.71,170652.22,Northern Ireland,True,0.0,182102.98
+Belfast,2023,4,2023 Q4,4.18,169688.47,Northern Ireland,True,0.0,176781.45
+Belfast,2024,1,2024 Q1,3.54,174791.1,Northern Ireland,True,922.0,180978.71
+Belfast,2024,2,2024 Q2,2.1,181848.84,Northern Ireland,True,0.0,185667.67
+Belfast,2024,3,2024 Q3,2.04,194014.44,Northern Ireland,True,0.0,197972.33
+Belfast,2024,4,2024 Q4,2.47,198516.49,Northern Ireland,True,0.0,203419.85
+Belfast,2025,1,2025 Q1,2.8,197921.82,Northern Ireland,True,0.0,203463.63
+Belfast,2025,2,2025 Q2,3.49,195029.4,Northern Ireland,True,905.0,201835.93
+Belfast,2025,3,2025 Q3,3.8,197423.18,Northern Ireland,True,0.0,204925.26
+Causeway Coast and Glens,2010,1,2010 Q1,3.28,138983.61,Northern Ireland,True,191.0,143542.27
+Causeway Coast and Glens,2010,2,2010 Q2,3.46,148145.5,Northern Ireland,True,210.0,153271.33
+Causeway Coast and Glens,2010,3,2010 Q3,3.09,139894.34,Northern Ireland,True,400.0,144217.08
+Causeway Coast and Glens,2010,4,2010 Q4,3.38,139563.3,Northern Ireland,True,249.0,144280.54
+Causeway Coast and Glens,2011,1,2011 Q1,4.12,134767.35,Northern Ireland,True,189.0,140319.76
+Causeway Coast and Glens,2011,2,2011 Q2,4.38,123604.19,Northern Ireland,True,201.0,129018.05
+Causeway Coast and Glens,2011,3,2011 Q3,4.71,116739.01,Northern Ireland,True,273.0,122237.42
+Causeway Coast and Glens,2011,4,2011 Q4,4.65,122623.32,Northern Ireland,True,236.0,128325.3
+Causeway Coast and Glens,2012,1,2012 Q1,3.49,114789.18,Northern Ireland,True,215.0,118795.32
+Causeway Coast and Glens,2012,2,2012 Q2,2.76,122875.42,Northern Ireland,True,236.0,126266.78
+Causeway Coast and Glens,2012,3,2012 Q3,2.41,118660.89,Northern Ireland,True,277.0,121520.62
+Causeway Coast and Glens,2012,4,2012 Q4,2.67,114648.8,Northern Ireland,True,279.0,117709.92
+Causeway Coast and Glens,2013,1,2013 Q1,2.78,106385.54,Northern Ireland,True,280.0,109343.06
+Causeway Coast and Glens,2013,2,2013 Q2,2.68,107624.42,Northern Ireland,True,335.0,110508.75
+Causeway Coast and Glens,2013,3,2013 Q3,2.71,109254.53,Northern Ireland,True,308.0,112215.33
+Causeway Coast and Glens,2013,4,2013 Q4,2.1,112242.3,Northern Ireland,True,408.0,114599.39
+Causeway Coast and Glens,2014,1,2014 Q1,1.74,110444.38,Northern Ireland,True,335.0,112366.11
+Causeway Coast and Glens,2014,2,2014 Q2,1.72,120707.51,Northern Ireland,True,444.0,122783.68
+Causeway Coast and Glens,2014,3,2014 Q3,1.46,129499.24,Northern Ireland,True,432.0,131389.93
+Causeway Coast and Glens,2014,4,2014 Q4,0.94,128885.44,Northern Ireland,True,501.0,130096.96
+Causeway Coast and Glens,2015,1,2015 Q1,0.1,136116.17,Northern Ireland,True,378.0,136252.29
+Causeway Coast and Glens,2015,2,2015 Q2,-0.02,148636.93,Northern Ireland,True,401.0,148607.2
+Causeway Coast and Glens,2015,3,2015 Q3,0.01,155149.29,Northern Ireland,True,449.0,155164.8
+Causeway Coast and Glens,2015,4,2015 Q4,0.07,153541.7,Northern Ireland,True,496.0,153649.18
+Causeway Coast and Glens,2016,1,2016 Q1,0.35,148759.54,Northern Ireland,True,594.0,149280.2
+Causeway Coast and Glens,2016,2,2016 Q2,0.35,145704.03,Northern Ireland,True,409.0,146213.99
+Causeway Coast and Glens,2016,3,2016 Q3,0.73,138306.63,Northern Ireland,True,486.0,139316.27
+Causeway Coast and Glens,2016,4,2016 Q4,1.21,136745.32,Northern Ireland,True,516.0,138399.94
+Causeway Coast and Glens,2017,1,2017 Q1,2.14,137274.64,Northern Ireland,True,381.0,140212.32
+Causeway Coast and Glens,2017,2,2017 Q2,2.74,138551.64,Northern Ireland,True,517.0,142347.95
+Causeway Coast and Glens,2017,3,2017 Q3,2.82,135535.84,Northern Ireland,True,612.0,139357.95
+Causeway Coast and Glens,2017,4,2017 Q4,3.02,137569.97,Northern Ireland,True,611.0,141724.58
+Causeway Coast and Glens,2018,1,2018 Q1,2.72,135900.13,Northern Ireland,True,470.0,139596.61
+Causeway Coast and Glens,2018,2,2018 Q2,2.42,143925.32,Northern Ireland,True,529.0,147408.31
+Causeway Coast and Glens,2018,3,2018 Q3,2.52,143874.18,Northern Ireland,True,550.0,147499.81
+Causeway Coast and Glens,2018,4,2018 Q4,2.27,146580.51,Northern Ireland,True,558.0,149907.89
+Causeway Coast and Glens,2019,1,2019 Q1,1.88,151248.43,Northern Ireland,True,403.0,154091.9
+Causeway Coast and Glens,2019,2,2019 Q2,2.05,151217.42,Northern Ireland,True,488.0,154317.38
+Causeway Coast and Glens,2019,3,2019 Q3,1.83,151077.41,Northern Ireland,True,552.0,153842.13
+Causeway Coast and Glens,2019,4,2019 Q4,1.41,160137.48,Northern Ireland,True,555.0,162395.42
+Causeway Coast and Glens,2020,1,2020 Q1,1.67,163675.08,Northern Ireland,True,410.0,166408.45
+Causeway Coast and Glens,2020,2,2020 Q2,0.62,153888.27,Northern Ireland,True,150.0,154842.38
+Causeway Coast and Glens,2020,3,2020 Q3,0.6,159544.92,Northern Ireland,True,486.0,160502.19
+Causeway Coast and Glens,2020,4,2020 Q4,0.53,166871.21,Northern Ireland,True,730.0,167755.63
+Causeway Coast and Glens,2021,1,2021 Q1,0.61,170128.27,Northern Ireland,True,612.0,171166.05
+Causeway Coast and Glens,2021,2,2021 Q2,2.05,182677.87,Northern Ireland,True,677.0,186422.77
+Causeway Coast and Glens,2021,3,2021 Q3,2.77,187197.06,Northern Ireland,True,647.0,192382.42
+Causeway Coast and Glens,2021,4,2021 Q4,4.91,185420.26,Northern Ireland,True,463.0,194524.39
+Causeway Coast and Glens,2022,1,2022 Q1,6.22,191664.64,Northern Ireland,True,390.0,203586.18
+Causeway Coast and Glens,2022,2,2022 Q2,9.17,191422.85,Northern Ireland,True,417.0,208976.33
+Causeway Coast and Glens,2022,3,2022 Q3,10.02,195895.64,Northern Ireland,True,464.0,215524.38
+Causeway Coast and Glens,2022,4,2022 Q4,10.75,189642.01,Northern Ireland,True,534.0,210028.53
+Causeway Coast and Glens,2023,1,2023 Q1,10.18,187400.07,Northern Ireland,True,358.0,206477.4
+Causeway Coast and Glens,2023,2,2023 Q2,8.43,193939.06,Northern Ireland,True,454.0,210288.12
+Causeway Coast and Glens,2023,3,2023 Q3,6.71,200261.8,Northern Ireland,True,466.0,213699.37
+Causeway Coast and Glens,2023,4,2023 Q4,4.18,203578.55,Northern Ireland,True,401.0,212088.13
+Causeway Coast and Glens,2024,1,2024 Q1,3.54,197389.02,Northern Ireland,True,346.0,204376.59
+Causeway Coast and Glens,2024,2,2024 Q2,2.1,224205.16,Northern Ireland,True,412.0,228913.47
+Causeway Coast and Glens,2024,3,2024 Q3,2.04,229628.46,Northern Ireland,True,495.0,234312.88
+Causeway Coast and Glens,2024,4,2024 Q4,2.47,231521.87,Northern Ireland,True,482.0,237240.46
+Causeway Coast and Glens,2025,1,2025 Q1,2.8,232871.72,Northern Ireland,True,507.0,239392.13
+Causeway Coast and Glens,2025,2,2025 Q2,3.49,226008.4,Northern Ireland,True,359.0,233896.09
+Causeway Coast and Glens,2025,3,2025 Q3,3.8,230368.73,Northern Ireland,True,454.0,239122.74
+Derry City and Strabane,2010,1,2010 Q1,3.28,124549.29,Northern Ireland,True,137.0,128634.51
+Derry City and Strabane,2010,2,2010 Q2,3.46,121496.18,Northern Ireland,True,178.0,125699.95
+Derry City and Strabane,2010,3,2010 Q3,3.09,122336.43,Northern Ireland,True,178.0,126116.63
+Derry City and Strabane,2010,4,2010 Q4,3.38,110394.86,Northern Ireland,True,180.0,114126.21
+Derry City and Strabane,2011,1,2011 Q1,4.12,115410.76,Northern Ireland,True,166.0,120165.68
+Derry City and Strabane,2011,2,2011 Q2,4.38,103780.06,Northern Ireland,True,207.0,108325.63
+Derry City and Strabane,2011,3,2011 Q3,4.71,100220.22,Northern Ireland,True,210.0,104940.59
+Derry City and Strabane,2011,4,2011 Q4,4.65,96900.0,Northern Ireland,True,179.0,101405.85
+Derry City and Strabane,2012,1,2012 Q1,3.49,103262.78,Northern Ireland,True,181.0,106866.65
+Derry City and Strabane,2012,2,2012 Q2,2.76,105028.51,Northern Ireland,True,194.0,107927.3
+Derry City and Strabane,2012,3,2012 Q3,2.41,102353.08,Northern Ireland,True,229.0,104819.79
+Derry City and Strabane,2012,4,2012 Q4,2.67,99644.94,Northern Ireland,True,259.0,102305.46
+Derry City and Strabane,2013,1,2013 Q1,2.78,90588.34,Northern Ireland,True,233.0,93106.7
+Derry City and Strabane,2013,2,2013 Q2,2.68,93707.96,Northern Ireland,True,248.0,96219.33
+Derry City and Strabane,2013,3,2013 Q3,2.71,94361.62,Northern Ireland,True,260.0,96918.82
+Derry City and Strabane,2013,4,2013 Q4,2.1,95787.29,Northern Ireland,True,271.0,97798.82
+Derry City and Strabane,2014,1,2014 Q1,1.74,98150.48,Northern Ireland,True,323.0,99858.3
+Derry City and Strabane,2014,2,2014 Q2,1.72,101011.05,Northern Ireland,True,302.0,102748.44
+Derry City and Strabane,2014,3,2014 Q3,1.46,108343.21,Northern Ireland,True,354.0,109925.02
+Derry City and Strabane,2014,4,2014 Q4,0.94,111892.44,Northern Ireland,True,344.0,112944.23
+Derry City and Strabane,2015,1,2015 Q1,0.1,121986.07,Northern Ireland,True,311.0,122108.06
+Derry City and Strabane,2015,2,2015 Q2,-0.02,125356.29,Northern Ireland,True,342.0,125331.22
+Derry City and Strabane,2015,3,2015 Q3,0.01,130990.52,Northern Ireland,True,345.0,131003.62
+Derry City and Strabane,2015,4,2015 Q4,0.07,129645.09,Northern Ireland,True,376.0,129735.84
+Derry City and Strabane,2016,1,2016 Q1,0.35,125119.5,Northern Ireland,True,382.0,125557.42
+Derry City and Strabane,2016,2,2016 Q2,0.35,124470.74,Northern Ireland,True,275.0,124906.39
+Derry City and Strabane,2016,3,2016 Q3,0.73,118225.56,Northern Ireland,True,368.0,119088.61
+Derry City and Strabane,2016,4,2016 Q4,1.21,117169.48,Northern Ireland,True,356.0,118587.23
+Derry City and Strabane,2017,1,2017 Q1,2.14,118739.05,Northern Ireland,True,333.0,121280.07
+Derry City and Strabane,2017,2,2017 Q2,2.74,118676.94,Northern Ireland,True,379.0,121928.69
+Derry City and Strabane,2017,3,2017 Q3,2.82,117362.08,Northern Ireland,True,409.0,120671.69
+Derry City and Strabane,2017,4,2017 Q4,3.02,123235.95,Northern Ireland,True,438.0,126957.68
+Derry City and Strabane,2018,1,2018 Q1,2.72,119629.6,Northern Ireland,True,361.0,122883.52
+Derry City and Strabane,2018,2,2018 Q2,2.42,126750.77,Northern Ireland,True,411.0,129818.14
+Derry City and Strabane,2018,3,2018 Q3,2.52,125479.7,Northern Ireland,True,407.0,128641.79
+Derry City and Strabane,2018,4,2018 Q4,2.27,133236.17,Northern Ireland,True,433.0,136260.63
+Derry City and Strabane,2019,1,2019 Q1,1.88,131210.72,Northern Ireland,True,349.0,133677.48
+Derry City and Strabane,2019,2,2019 Q2,2.05,133161.88,Northern Ireland,True,393.0,135891.7
+Derry City and Strabane,2019,3,2019 Q3,1.83,125193.65,Northern Ireland,True,442.0,127484.69
+Derry City and Strabane,2019,4,2019 Q4,1.41,139601.48,Northern Ireland,True,398.0,141569.86
+Derry City and Strabane,2020,1,2020 Q1,1.67,138130.11,Northern Ireland,True,358.0,140436.88
+Derry City and Strabane,2020,2,2020 Q2,0.62,136806.37,Northern Ireland,True,115.0,137654.57
+Derry City and Strabane,2020,3,2020 Q3,0.6,132706.62,Northern Ireland,True,372.0,133502.86
+Derry City and Strabane,2020,4,2020 Q4,0.53,136528.18,Northern Ireland,True,496.0,137251.78
+Derry City and Strabane,2021,1,2021 Q1,0.61,145237.81,Northern Ireland,True,468.0,146123.76
+Derry City and Strabane,2021,2,2021 Q2,2.05,146199.58,Northern Ireland,True,448.0,149196.67
+Derry City and Strabane,2021,3,2021 Q3,2.77,155822.36,Northern Ireland,True,512.0,160138.64
+Derry City and Strabane,2021,4,2021 Q4,4.91,154907.75,Northern Ireland,True,444.0,162513.72
+Derry City and Strabane,2022,1,2022 Q1,6.22,157321.94,Northern Ireland,True,416.0,167107.36
+Derry City and Strabane,2022,2,2022 Q2,9.17,155256.07,Northern Ireland,True,379.0,169493.05
+Derry City and Strabane,2022,3,2022 Q3,10.02,157895.3,Northern Ireland,True,438.0,173716.41
+Derry City and Strabane,2022,4,2022 Q4,10.75,151534.94,Northern Ireland,True,438.0,167824.95
+Derry City and Strabane,2023,1,2023 Q1,10.18,145296.73,Northern Ireland,True,367.0,160087.94
+Derry City and Strabane,2023,2,2023 Q2,8.43,161559.64,Northern Ireland,True,315.0,175179.12
+Derry City and Strabane,2023,3,2023 Q3,6.71,170386.22,Northern Ireland,True,339.0,181819.14
+Derry City and Strabane,2023,4,2023 Q4,4.18,168707.3,Northern Ireland,True,382.0,175759.27
+Derry City and Strabane,2024,1,2024 Q1,3.54,169532.29,Northern Ireland,True,319.0,175533.73
+Derry City and Strabane,2024,2,2024 Q2,2.1,179718.18,Northern Ireland,True,377.0,183492.26
+Derry City and Strabane,2024,3,2024 Q3,2.04,187743.18,Northern Ireland,True,386.0,191573.14
+Derry City and Strabane,2024,4,2024 Q4,2.47,195653.39,Northern Ireland,True,417.0,200486.03
+Derry City and Strabane,2025,1,2025 Q1,2.8,195846.57,Northern Ireland,True,378.0,201330.27
+Derry City and Strabane,2025,2,2025 Q2,3.49,192387.23,Northern Ireland,True,318.0,199101.54
+Derry City and Strabane,2025,3,2025 Q3,3.8,203315.57,Northern Ireland,True,315.0,211041.56
+Fermanagh and Omagh,2010,1,2010 Q1,3.28,131250.9,Northern Ireland,True,80.0,135555.93
+Fermanagh and Omagh,2010,2,2010 Q2,3.46,132701.59,Northern Ireland,True,95.0,137293.06
+Fermanagh and Omagh,2010,3,2010 Q3,3.09,141975.93,Northern Ireland,True,85.0,146362.99
+Fermanagh and Omagh,2010,4,2010 Q4,3.38,124576.03,Northern Ireland,True,116.0,128786.7
+Fermanagh and Omagh,2011,1,2011 Q1,4.12,123134.95,Northern Ireland,True,85.0,128208.11
+Fermanagh and Omagh,2011,2,2011 Q2,4.38,128820.43,Northern Ireland,True,101.0,134462.77
+Fermanagh and Omagh,2011,3,2011 Q3,4.71,113608.39,Northern Ireland,True,121.0,118959.35
+Fermanagh and Omagh,2011,4,2011 Q4,4.65,113658.54,Northern Ireland,True,113.0,118943.66
+Fermanagh and Omagh,2012,1,2012 Q1,3.49,112174.23,Northern Ireland,True,108.0,116089.11
+Fermanagh and Omagh,2012,2,2012 Q2,2.76,112798.16,Northern Ireland,True,115.0,115911.39
+Fermanagh and Omagh,2012,3,2012 Q3,2.41,116058.05,Northern Ireland,True,108.0,118855.05
+Fermanagh and Omagh,2012,4,2012 Q4,2.67,106728.93,Northern Ireland,True,140.0,109578.59
+Fermanagh and Omagh,2013,1,2013 Q1,2.78,103754.77,Northern Ireland,True,127.0,106639.15
+Fermanagh and Omagh,2013,2,2013 Q2,2.68,103095.13,Northern Ireland,True,136.0,105858.08
+Fermanagh and Omagh,2013,3,2013 Q3,2.71,110940.45,Northern Ireland,True,166.0,113946.94
+Fermanagh and Omagh,2013,4,2013 Q4,2.1,103426.7,Northern Ireland,True,171.0,105598.66
+Fermanagh and Omagh,2014,1,2014 Q1,1.74,108814.29,Northern Ireland,True,227.0,110707.66
+Fermanagh and Omagh,2014,2,2014 Q2,1.72,118357.41,Northern Ireland,True,183.0,120393.16
+Fermanagh and Omagh,2014,3,2014 Q3,1.46,120757.19,Northern Ireland,True,224.0,122520.24
+Fermanagh and Omagh,2014,4,2014 Q4,0.94,122489.68,Northern Ireland,True,238.0,123641.08
+Fermanagh and Omagh,2015,1,2015 Q1,0.1,127847.39,Northern Ireland,True,155.0,127975.24
+Fermanagh and Omagh,2015,2,2015 Q2,-0.02,137863.22,Northern Ireland,True,189.0,137835.65
+Fermanagh and Omagh,2015,3,2015 Q3,0.01,146741.94,Northern Ireland,True,202.0,146756.61
+Fermanagh and Omagh,2015,4,2015 Q4,0.07,153534.78,Northern Ireland,True,243.0,153642.25
+Fermanagh and Omagh,2016,1,2016 Q1,0.35,141108.06,Northern Ireland,True,241.0,141601.94
+Fermanagh and Omagh,2016,2,2016 Q2,0.35,138087.89,Northern Ireland,True,186.0,138571.2
+Fermanagh and Omagh,2016,3,2016 Q3,0.73,130517.57,Northern Ireland,True,211.0,131470.35
+Fermanagh and Omagh,2016,4,2016 Q4,1.21,127805.01,Northern Ireland,True,243.0,129351.45
+Fermanagh and Omagh,2017,1,2017 Q1,2.14,126302.18,Northern Ireland,True,207.0,129005.05
+Fermanagh and Omagh,2017,2,2017 Q2,2.74,130650.85,Northern Ireland,True,222.0,134230.68
+Fermanagh and Omagh,2017,3,2017 Q3,2.82,126854.31,Northern Ireland,True,275.0,130431.6
+Fermanagh and Omagh,2017,4,2017 Q4,3.02,129666.79,Northern Ireland,True,288.0,133582.73
+Fermanagh and Omagh,2018,1,2018 Q1,2.72,131337.24,Northern Ireland,True,234.0,134909.61
+Fermanagh and Omagh,2018,2,2018 Q2,2.42,135467.91,Northern Ireland,True,249.0,138746.23
+Fermanagh and Omagh,2018,3,2018 Q3,2.52,133657.58,Northern Ireland,True,279.0,137025.75
+Fermanagh and Omagh,2018,4,2018 Q4,2.27,137031.98,Northern Ireland,True,288.0,140142.61
+Fermanagh and Omagh,2019,1,2019 Q1,1.88,140806.75,Northern Ireland,True,217.0,143453.92
+Fermanagh and Omagh,2019,2,2019 Q2,2.05,138824.41,Northern Ireland,True,251.0,141670.31
+Fermanagh and Omagh,2019,3,2019 Q3,1.83,141616.43,Northern Ireland,True,274.0,144208.01
+Fermanagh and Omagh,2019,4,2019 Q4,1.41,147970.16,Northern Ireland,True,306.0,150056.54
+Fermanagh and Omagh,2020,1,2020 Q1,1.67,147589.86,Northern Ireland,True,221.0,150054.61
+Fermanagh and Omagh,2020,2,2020 Q2,0.62,142522.74,Northern Ireland,True,112.0,143406.38
+Fermanagh and Omagh,2020,3,2020 Q3,0.6,141362.4,Northern Ireland,True,212.0,142210.57
+Fermanagh and Omagh,2020,4,2020 Q4,0.53,149130.16,Northern Ireland,True,337.0,149920.55
+Fermanagh and Omagh,2021,1,2021 Q1,0.61,153036.91,Northern Ireland,True,291.0,153970.44
+Fermanagh and Omagh,2021,2,2021 Q2,2.05,157791.9,Northern Ireland,True,317.0,161026.63
+Fermanagh and Omagh,2021,3,2021 Q3,2.77,162063.17,Northern Ireland,True,345.0,166552.32
+Fermanagh and Omagh,2021,4,2021 Q4,4.91,165423.57,Northern Ireland,True,286.0,173545.87
+Fermanagh and Omagh,2022,1,2022 Q1,6.22,168551.18,Northern Ireland,True,255.0,179035.06
+Fermanagh and Omagh,2022,2,2022 Q2,9.17,164307.75,Northern Ireland,True,230.0,179374.77
+Fermanagh and Omagh,2022,3,2022 Q3,10.02,167531.89,Northern Ireland,True,266.0,184318.59
+Fermanagh and Omagh,2022,4,2022 Q4,10.75,166134.38,Northern Ireland,True,312.0,183993.83
+Fermanagh and Omagh,2023,1,2023 Q1,10.18,161227.58,Northern Ireland,True,249.0,177640.55
+Fermanagh and Omagh,2023,2,2023 Q2,8.43,167885.68,Northern Ireland,True,238.0,182038.44
+Fermanagh and Omagh,2023,3,2023 Q3,6.71,174618.19,Northern Ireland,True,262.0,186335.07
+Fermanagh and Omagh,2023,4,2023 Q4,4.18,177942.0,Northern Ireland,True,272.0,185379.98
+Fermanagh and Omagh,2024,1,2024 Q1,3.54,182923.6,Northern Ireland,True,243.0,189399.1
+Fermanagh and Omagh,2024,2,2024 Q2,2.1,195986.37,Northern Ireland,True,246.0,200102.08
+Fermanagh and Omagh,2024,3,2024 Q3,2.04,201391.01,Northern Ireland,True,251.0,205499.39
+Fermanagh and Omagh,2024,4,2024 Q4,2.47,207472.76,Northern Ireland,True,327.0,212597.34
+Fermanagh and Omagh,2025,1,2025 Q1,2.8,204350.1,Northern Ireland,True,254.0,210071.9
+Fermanagh and Omagh,2025,2,2025 Q2,3.49,207258.29,Northern Ireland,True,182.0,214491.6
+Fermanagh and Omagh,2025,3,2025 Q3,3.8,209421.37,Northern Ireland,True,203.0,217379.38
+Lisburn and Castlereagh,2010,1,2010 Q1,3.28,168991.35,Northern Ireland,True,212.0,174534.27
+Lisburn and Castlereagh,2010,2,2010 Q2,3.46,173470.93,Northern Ireland,True,244.0,179473.02
+Lisburn and Castlereagh,2010,3,2010 Q3,3.09,179102.38,Northern Ireland,True,238.0,184636.64
+Lisburn and Castlereagh,2010,4,2010 Q4,3.38,162112.87,Northern Ireland,True,231.0,167592.29
+Lisburn and Castlereagh,2011,1,2011 Q1,4.12,152811.45,Northern Ireland,True,209.0,159107.28
+Lisburn and Castlereagh,2011,2,2011 Q2,4.38,139972.52,Northern Ireland,True,188.0,146103.32
+Lisburn and Castlereagh,2011,3,2011 Q3,4.71,142246.79,Northern Ireland,True,301.0,148946.61
+Lisburn and Castlereagh,2011,4,2011 Q4,4.65,142460.35,Northern Ireland,True,270.0,149084.76
+Lisburn and Castlereagh,2012,1,2012 Q1,3.49,140056.23,Northern Ireland,True,313.0,144944.19
+Lisburn and Castlereagh,2012,2,2012 Q2,2.76,144290.02,Northern Ireland,True,281.0,148272.42
+Lisburn and Castlereagh,2012,3,2012 Q3,2.41,148133.37,Northern Ireland,True,307.0,151703.38
+Lisburn and Castlereagh,2012,4,2012 Q4,2.67,143626.41,Northern Ireland,True,326.0,147461.24
+Lisburn and Castlereagh,2013,1,2013 Q1,2.78,132034.69,Northern Ireland,True,297.0,135705.25
+Lisburn and Castlereagh,2013,2,2013 Q2,2.68,133513.26,Northern Ireland,True,395.0,137091.42
+Lisburn and Castlereagh,2013,3,2013 Q3,2.71,135272.94,Northern Ireland,True,454.0,138938.84
+Lisburn and Castlereagh,2013,4,2013 Q4,2.1,138444.55,Northern Ireland,True,514.0,141351.89
+Lisburn and Castlereagh,2014,1,2014 Q1,1.74,142796.72,Northern Ireland,True,481.0,145281.38
+Lisburn and Castlereagh,2014,2,2014 Q2,1.72,151628.23,Northern Ireland,True,496.0,154236.24
+Lisburn and Castlereagh,2014,3,2014 Q3,1.46,153931.07,Northern Ireland,True,529.0,156178.46
+Lisburn and Castlereagh,2014,4,2014 Q4,0.94,162980.64,Northern Ireland,True,537.0,164512.66
+Lisburn and Castlereagh,2015,1,2015 Q1,0.1,172518.73,Northern Ireland,True,439.0,172691.25
+Lisburn and Castlereagh,2015,2,2015 Q2,-0.02,183556.49,Northern Ireland,True,554.0,183519.78
+Lisburn and Castlereagh,2015,3,2015 Q3,0.01,187663.84,Northern Ireland,True,584.0,187682.61
+Lisburn and Castlereagh,2015,4,2015 Q4,0.07,189387.31,Northern Ireland,True,591.0,189519.88
+Lisburn and Castlereagh,2016,1,2016 Q1,0.35,175923.27,Northern Ireland,True,576.0,176539.0
+Lisburn and Castlereagh,2016,2,2016 Q2,0.35,180131.7,Northern Ireland,True,506.0,180762.16
+Lisburn and Castlereagh,2016,3,2016 Q3,0.73,167747.41,Northern Ireland,True,612.0,168971.97
+Lisburn and Castlereagh,2016,4,2016 Q4,1.21,161453.47,Northern Ireland,True,621.0,163407.06
+Lisburn and Castlereagh,2017,1,2017 Q1,2.14,160947.55,Northern Ireland,True,505.0,164391.83
+Lisburn and Castlereagh,2017,2,2017 Q2,2.74,163624.9,Northern Ireland,True,628.0,168108.22
+Lisburn and Castlereagh,2017,3,2017 Q3,2.82,158833.97,Northern Ireland,True,678.0,163313.09
+Lisburn and Castlereagh,2017,4,2017 Q4,3.02,159443.99,Northern Ireland,True,663.0,164259.2
+Lisburn and Castlereagh,2018,1,2018 Q1,2.72,162124.36,Northern Ireland,True,564.0,166534.14
+Lisburn and Castlereagh,2018,2,2018 Q2,2.42,167520.68,Northern Ireland,True,593.0,171574.68
+Lisburn and Castlereagh,2018,3,2018 Q3,2.52,166745.12,Northern Ireland,True,605.0,170947.1
+Lisburn and Castlereagh,2018,4,2018 Q4,2.27,169584.73,Northern Ireland,True,662.0,173434.3
+Lisburn and Castlereagh,2019,1,2019 Q1,1.88,172068.74,Northern Ireland,True,513.0,175303.63
+Lisburn and Castlereagh,2019,2,2019 Q2,2.05,175096.87,Northern Ireland,True,622.0,178686.36
+Lisburn and Castlereagh,2019,3,2019 Q3,1.83,171896.38,Northern Ireland,True,661.0,175042.08
+Lisburn and Castlereagh,2019,4,2019 Q4,1.41,180564.59,Northern Ireland,True,667.0,183110.55
+Lisburn and Castlereagh,2020,1,2020 Q1,1.67,181274.5,Northern Ireland,True,507.0,184301.78
+Lisburn and Castlereagh,2020,2,2020 Q2,0.62,180821.8,Northern Ireland,True,192.0,181942.9
+Lisburn and Castlereagh,2020,3,2020 Q3,0.6,179630.82,Northern Ireland,True,529.0,180708.6
+Lisburn and Castlereagh,2020,4,2020 Q4,0.53,183452.0,Northern Ireland,True,833.0,184424.3
+Lisburn and Castlereagh,2021,1,2021 Q1,0.61,191475.96,Northern Ireland,True,763.0,192643.96
+Lisburn and Castlereagh,2021,2,2021 Q2,2.05,196534.1,Northern Ireland,True,852.0,200563.05
+Lisburn and Castlereagh,2021,3,2021 Q3,2.77,198916.5,Northern Ireland,True,901.0,204426.49
+Lisburn and Castlereagh,2021,4,2021 Q4,4.91,198728.54,Northern Ireland,True,643.0,208486.11
+Lisburn and Castlereagh,2022,1,2022 Q1,6.22,202853.37,Northern Ireland,True,563.0,215470.85
+Lisburn and Castlereagh,2022,2,2022 Q2,9.17,201172.99,Northern Ireland,True,574.0,219620.55
+Lisburn and Castlereagh,2022,3,2022 Q3,10.02,208863.77,Northern Ireland,True,617.0,229791.92
+Lisburn and Castlereagh,2022,4,2022 Q4,10.75,205747.61,Northern Ireland,True,607.0,227865.48
+Lisburn and Castlereagh,2023,1,2023 Q1,10.18,199346.93,Northern Ireland,True,449.0,219640.45
+Lisburn and Castlereagh,2023,2,2023 Q2,8.43,206147.54,Northern Ireland,True,417.0,223525.78
+Lisburn and Castlereagh,2023,3,2023 Q3,6.71,217026.15,Northern Ireland,True,575.0,231588.6
+Lisburn and Castlereagh,2023,4,2023 Q4,4.18,216788.85,Northern Ireland,True,491.0,225850.62
+Lisburn and Castlereagh,2024,1,2024 Q1,3.54,226993.42,Northern Ireland,True,454.0,235028.99
+Lisburn and Castlereagh,2024,2,2024 Q2,2.1,236597.74,Northern Ireland,True,511.0,241566.29
+Lisburn and Castlereagh,2024,3,2024 Q3,2.04,246896.15,Northern Ireland,True,649.0,251932.83
+Lisburn and Castlereagh,2024,4,2024 Q4,2.47,255363.45,Northern Ireland,True,679.0,261670.93
+Lisburn and Castlereagh,2025,1,2025 Q1,2.8,257090.37,Northern Ireland,True,657.0,264288.9
+Lisburn and Castlereagh,2025,2,2025 Q2,3.49,248732.01,Northern Ireland,True,470.0,257412.76
+Lisburn and Castlereagh,2025,3,2025 Q3,3.8,251559.53,Northern Ireland,True,515.0,261118.79
+Mid Ulster,2010,1,2010 Q1,3.28,125783.34,Northern Ireland,True,140.0,129909.03
+Mid Ulster,2010,2,2010 Q2,3.46,129886.89,Northern Ireland,True,150.0,134380.98
+Mid Ulster,2010,3,2010 Q3,3.09,130442.87,Northern Ireland,True,132.0,134473.55
+Mid Ulster,2010,4,2010 Q4,3.38,119170.85,Northern Ireland,True,148.0,123198.82
+Mid Ulster,2011,1,2011 Q1,4.12,121600.9,Northern Ireland,True,124.0,126610.86
+Mid Ulster,2011,2,2011 Q2,4.38,112458.61,Northern Ireland,True,160.0,117384.3
+Mid Ulster,2011,3,2011 Q3,4.71,107414.66,Northern Ireland,True,157.0,112473.89
+Mid Ulster,2011,4,2011 Q4,4.65,104639.17,Northern Ireland,True,183.0,109504.89
+Mid Ulster,2012,1,2012 Q1,3.49,104069.96,Northern Ireland,True,170.0,107702.0
+Mid Ulster,2012,2,2012 Q2,2.76,113637.84,Northern Ireland,True,148.0,116774.24
+Mid Ulster,2012,3,2012 Q3,2.41,109828.52,Northern Ireland,True,197.0,112475.39
+Mid Ulster,2012,4,2012 Q4,2.67,103188.74,Northern Ireland,True,205.0,105943.88
+Mid Ulster,2013,1,2013 Q1,2.78,100228.78,Northern Ireland,True,178.0,103015.14
+Mid Ulster,2013,2,2013 Q2,2.68,103400.82,Northern Ireland,True,198.0,106171.96
+Mid Ulster,2013,3,2013 Q3,2.71,105563.51,Northern Ireland,True,212.0,108424.28
+Mid Ulster,2013,4,2013 Q4,2.1,106855.11,Northern Ireland,True,240.0,109099.07
+Mid Ulster,2014,1,2014 Q1,1.74,114378.9,Northern Ireland,True,213.0,116369.09
+Mid Ulster,2014,2,2014 Q2,1.72,117077.95,Northern Ireland,True,275.0,119091.69
+Mid Ulster,2014,3,2014 Q3,1.46,120287.79,Northern Ireland,True,249.0,122043.99
+Mid Ulster,2014,4,2014 Q4,0.94,129565.81,Northern Ireland,True,300.0,130783.73
+Mid Ulster,2015,1,2015 Q1,0.1,141461.03,Northern Ireland,True,246.0,141602.49
+Mid Ulster,2015,2,2015 Q2,-0.02,151831.61,Northern Ireland,True,278.0,151801.24
+Mid Ulster,2015,3,2015 Q3,0.01,152555.87,Northern Ireland,True,296.0,152571.13
+Mid Ulster,2015,4,2015 Q4,0.07,150412.46,Northern Ireland,True,334.0,150517.75
+Mid Ulster,2016,1,2016 Q1,0.35,148952.29,Northern Ireland,True,334.0,149473.62
+Mid Ulster,2016,2,2016 Q2,0.35,141768.75,Northern Ireland,True,264.0,142264.94
+Mid Ulster,2016,3,2016 Q3,0.73,136300.39,Northern Ireland,True,311.0,137295.38
+Mid Ulster,2016,4,2016 Q4,1.21,132181.87,Northern Ireland,True,345.0,133781.27
+Mid Ulster,2017,1,2017 Q1,2.14,132425.32,Northern Ireland,True,303.0,135259.22
+Mid Ulster,2017,2,2017 Q2,2.74,134473.99,Northern Ireland,True,328.0,138158.58
+Mid Ulster,2017,3,2017 Q3,2.82,128116.98,Northern Ireland,True,326.0,131729.88
+Mid Ulster,2017,4,2017 Q4,3.02,133128.87,Northern Ireland,True,308.0,137149.36
+Mid Ulster,2018,1,2018 Q1,2.72,136970.57,Northern Ireland,True,308.0,140696.17
+Mid Ulster,2018,2,2018 Q2,2.42,136471.16,Northern Ireland,True,306.0,139773.76
+Mid Ulster,2018,3,2018 Q3,2.52,134727.77,Northern Ireland,True,343.0,138122.91
+Mid Ulster,2018,4,2018 Q4,2.27,140404.45,Northern Ireland,True,392.0,143591.63
+Mid Ulster,2019,1,2019 Q1,1.88,140135.64,Northern Ireland,True,301.0,142770.19
+Mid Ulster,2019,2,2019 Q2,2.05,141705.55,Northern Ireland,True,377.0,144610.51
+Mid Ulster,2019,3,2019 Q3,1.83,139512.53,Northern Ireland,True,369.0,142065.61
+Mid Ulster,2019,4,2019 Q4,1.41,147571.28,Northern Ireland,True,360.0,149652.03
+Mid Ulster,2020,1,2020 Q1,1.67,144748.74,Northern Ireland,True,309.0,147166.04
+Mid Ulster,2020,2,2020 Q2,0.62,140615.79,Northern Ireland,True,128.0,141487.61
+Mid Ulster,2020,3,2020 Q3,0.6,138942.82,Northern Ireland,True,282.0,139776.48
+Mid Ulster,2020,4,2020 Q4,0.53,144423.01,Northern Ireland,True,420.0,145188.45
+Mid Ulster,2021,1,2021 Q1,0.61,152805.88,Northern Ireland,True,349.0,153738.0
+Mid Ulster,2021,2,2021 Q2,2.05,154479.0,Northern Ireland,True,375.0,157645.82
+Mid Ulster,2021,3,2021 Q3,2.77,162356.67,Northern Ireland,True,406.0,166853.95
+Mid Ulster,2021,4,2021 Q4,4.91,160518.51,Northern Ireland,True,419.0,168399.97
+Mid Ulster,2022,1,2022 Q1,6.22,167762.27,Northern Ireland,True,290.0,178197.08
+Mid Ulster,2022,2,2022 Q2,9.17,164456.72,Northern Ireland,True,308.0,179537.4
+Mid Ulster,2022,3,2022 Q3,10.02,168101.32,Northern Ireland,True,349.0,184945.07
+Mid Ulster,2022,4,2022 Q4,10.75,163585.32,Northern Ireland,True,371.0,181170.74
+Mid Ulster,2023,1,2023 Q1,10.18,157801.72,Northern Ireland,True,256.0,173865.93
+Mid Ulster,2023,2,2023 Q2,8.43,167896.29,Northern Ireland,True,261.0,182049.95
+Mid Ulster,2023,3,2023 Q3,6.71,177960.59,Northern Ireland,True,317.0,189901.75
+Mid Ulster,2023,4,2023 Q4,4.18,179571.0,Northern Ireland,True,308.0,187077.07
+Mid Ulster,2024,1,2024 Q1,3.54,185673.17,Northern Ireland,True,291.0,192246.0
+Mid Ulster,2024,2,2024 Q2,2.1,192178.48,Northern Ireland,True,254.0,196214.23
+Mid Ulster,2024,3,2024 Q3,2.04,195891.05,Northern Ireland,True,317.0,199887.23
+Mid Ulster,2024,4,2024 Q4,2.47,200395.91,Northern Ireland,True,377.0,205345.69
+Mid Ulster,2025,1,2025 Q1,2.8,200272.92,Northern Ireland,True,306.0,205880.56
+Mid Ulster,2025,2,2025 Q2,3.49,202169.65,Northern Ireland,True,253.0,209225.37
+Mid Ulster,2025,3,2025 Q3,3.8,208684.4,Northern Ireland,True,283.0,216614.41
+Mid and East Antrim,2010,1,2010 Q1,3.28,125948.09,Northern Ireland,True,211.0,130079.19
+Mid and East Antrim,2010,2,2010 Q2,3.46,139484.55,Northern Ireland,True,238.0,144310.72
+Mid and East Antrim,2010,3,2010 Q3,3.09,135797.5,Northern Ireland,True,189.0,139993.64
+Mid and East Antrim,2010,4,2010 Q4,3.38,125082.66,Northern Ireland,True,229.0,129310.45
+Mid and East Antrim,2011,1,2011 Q1,4.12,108678.52,Northern Ireland,True,195.0,113156.07
+Mid and East Antrim,2011,2,2011 Q2,4.38,115185.05,Northern Ireland,True,204.0,120230.15
+Mid and East Antrim,2011,3,2011 Q3,4.71,112734.0,Northern Ireland,True,277.0,118043.77
+Mid and East Antrim,2011,4,2011 Q4,4.65,111874.72,Northern Ireland,True,246.0,117076.89
+Mid and East Antrim,2012,1,2012 Q1,3.49,108478.78,Northern Ireland,True,243.0,112264.69
+Mid and East Antrim,2012,2,2012 Q2,2.76,116881.2,Northern Ireland,True,295.0,120107.12
+Mid and East Antrim,2012,3,2012 Q3,2.41,113682.2,Northern Ireland,True,311.0,116421.94
+Mid and East Antrim,2012,4,2012 Q4,2.67,109252.28,Northern Ireland,True,278.0,112169.32
+Mid and East Antrim,2013,1,2013 Q1,2.78,101705.94,Northern Ireland,True,280.0,104533.37
+Mid and East Antrim,2013,2,2013 Q2,2.68,102621.13,Northern Ireland,True,283.0,105371.38
+Mid and East Antrim,2013,3,2013 Q3,2.71,101800.66,Northern Ireland,True,334.0,104559.46
+Mid and East Antrim,2013,4,2013 Q4,2.1,105906.01,Northern Ireland,True,391.0,108130.04
+Mid and East Antrim,2014,1,2014 Q1,1.74,110795.79,Northern Ireland,True,343.0,112723.64
+Mid and East Antrim,2014,2,2014 Q2,1.72,113849.12,Northern Ireland,True,400.0,115807.32
+Mid and East Antrim,2014,3,2014 Q3,1.46,119226.08,Northern Ireland,True,361.0,120966.78
+Mid and East Antrim,2014,4,2014 Q4,0.94,119697.89,Northern Ireland,True,444.0,120823.05
+Mid and East Antrim,2015,1,2015 Q1,0.1,127663.14,Northern Ireland,True,367.0,127790.8
+Mid and East Antrim,2015,2,2015 Q2,-0.02,138717.35,Northern Ireland,True,430.0,138689.61
+Mid and East Antrim,2015,3,2015 Q3,0.01,138712.24,Northern Ireland,True,455.0,138726.11
+Mid and East Antrim,2015,4,2015 Q4,0.07,140735.25,Northern Ireland,True,453.0,140833.76
+Mid and East Antrim,2016,1,2016 Q1,0.35,131267.85,Northern Ireland,True,472.0,131727.29
+Mid and East Antrim,2016,2,2016 Q2,0.35,135104.47,Northern Ireland,True,372.0,135577.34
+Mid and East Antrim,2016,3,2016 Q3,0.73,127333.05,Northern Ireland,True,484.0,128262.58
+Mid and East Antrim,2016,4,2016 Q4,1.21,124121.03,Northern Ireland,True,442.0,125622.89
+Mid and East Antrim,2017,1,2017 Q1,2.14,121821.69,Northern Ireland,True,382.0,124428.67
+Mid and East Antrim,2017,2,2017 Q2,2.74,124892.38,Northern Ireland,True,451.0,128314.43
+Mid and East Antrim,2017,3,2017 Q3,2.82,121661.65,Northern Ireland,True,478.0,125092.51
+Mid and East Antrim,2017,4,2017 Q4,3.02,123755.54,Northern Ireland,True,484.0,127492.96
+Mid and East Antrim,2018,1,2018 Q1,2.72,125072.22,Northern Ireland,True,374.0,128474.18
+Mid and East Antrim,2018,2,2018 Q2,2.42,127385.05,Northern Ireland,True,458.0,130467.77
+Mid and East Antrim,2018,3,2018 Q3,2.52,128057.35,Northern Ireland,True,473.0,131284.4
+Mid and East Antrim,2018,4,2018 Q4,2.27,127642.22,Northern Ireland,True,503.0,130539.7
+Mid and East Antrim,2019,1,2019 Q1,1.88,129992.35,Northern Ireland,True,464.0,132436.21
+Mid and East Antrim,2019,2,2019 Q2,2.05,131542.58,Northern Ireland,True,484.0,134239.2
+Mid and East Antrim,2019,3,2019 Q3,1.83,128803.58,Northern Ireland,True,549.0,131160.69
+Mid and East Antrim,2019,4,2019 Q4,1.41,136905.52,Northern Ireland,True,508.0,138835.89
+Mid and East Antrim,2020,1,2020 Q1,1.67,135710.36,Northern Ireland,True,443.0,137976.72
+Mid and East Antrim,2020,2,2020 Q2,0.62,134295.88,Northern Ireland,True,150.0,135128.51
+Mid and East Antrim,2020,3,2020 Q3,0.6,131755.48,Northern Ireland,True,435.0,132546.01
+Mid and East Antrim,2020,4,2020 Q4,0.53,136816.87,Northern Ireland,True,686.0,137542.0
+Mid and East Antrim,2021,1,2021 Q1,0.61,141803.14,Northern Ireland,True,572.0,142668.14
+Mid and East Antrim,2021,2,2021 Q2,2.05,149585.22,Northern Ireland,True,629.0,152651.72
+Mid and East Antrim,2021,3,2021 Q3,2.77,151273.14,Northern Ireland,True,706.0,155463.41
+Mid and East Antrim,2021,4,2021 Q4,4.91,151401.73,Northern Ireland,True,505.0,158835.55
+Mid and East Antrim,2022,1,2022 Q1,6.22,156528.53,Northern Ireland,True,417.0,166264.6
+Mid and East Antrim,2022,2,2022 Q2,9.17,152321.97,Northern Ireland,True,515.0,166289.89
+Mid and East Antrim,2022,3,2022 Q3,10.02,155075.81,Northern Ireland,True,507.0,170614.41
+Mid and East Antrim,2022,4,2022 Q4,10.75,153250.93,Northern Ireland,True,520.0,169725.41
+Mid and East Antrim,2023,1,2023 Q1,10.18,150808.13,Northern Ireland,True,396.0,166160.4
+Mid and East Antrim,2023,2,2023 Q2,8.43,154936.46,Northern Ireland,True,427.0,167997.6
+Mid and East Antrim,2023,3,2023 Q3,6.71,165048.84,Northern Ireland,True,445.0,176123.62
+Mid and East Antrim,2023,4,2023 Q4,4.18,169150.27,Northern Ireland,True,483.0,176220.75
+Mid and East Antrim,2024,1,2024 Q1,3.54,169122.74,Northern Ireland,True,379.0,175109.68
+Mid and East Antrim,2024,2,2024 Q2,2.1,179610.26,Northern Ireland,True,448.0,183382.08
+Mid and East Antrim,2024,3,2024 Q3,2.04,185409.58,Northern Ireland,True,499.0,189191.94
+Mid and East Antrim,2024,4,2024 Q4,2.47,187931.7,Northern Ireland,True,542.0,192573.61
+Mid and East Antrim,2025,1,2025 Q1,2.8,191505.18,Northern Ireland,True,470.0,196867.32
+Mid and East Antrim,2025,2,2025 Q2,3.49,186481.59,Northern Ireland,True,379.0,192989.8
+Mid and East Antrim,2025,3,2025 Q3,3.8,189786.76,Northern Ireland,True,458.0,196998.66
+"Newry, Mourne and Down",2010,1,2010 Q1,3.28,148917.09,Northern Ireland,True,170.0,153801.57
+"Newry, Mourne and Down",2010,2,2010 Q2,3.46,151726.6,Northern Ireland,True,165.0,156976.34
+"Newry, Mourne and Down",2010,3,2010 Q3,3.09,154036.09,Northern Ireland,True,171.0,158795.81
+"Newry, Mourne and Down",2010,4,2010 Q4,3.38,143395.68,Northern Ireland,True,181.0,148242.45
+"Newry, Mourne and Down",2011,1,2011 Q1,4.12,135425.27,Northern Ireland,True,154.0,141004.79
+"Newry, Mourne and Down",2011,2,2011 Q2,4.38,130382.27,Northern Ireland,True,180.0,136093.01
+"Newry, Mourne and Down",2011,3,2011 Q3,4.71,128280.39,Northern Ireland,True,205.0,134322.4
+"Newry, Mourne and Down",2011,4,2011 Q4,4.65,129581.43,Northern Ireland,True,216.0,135606.97
+"Newry, Mourne and Down",2012,1,2012 Q1,3.49,127396.07,Northern Ireland,True,188.0,131842.19
+"Newry, Mourne and Down",2012,2,2012 Q2,2.76,123095.24,Northern Ireland,True,225.0,126492.67
+"Newry, Mourne and Down",2012,3,2012 Q3,2.41,126196.78,Northern Ireland,True,228.0,129238.12
+"Newry, Mourne and Down",2012,4,2012 Q4,2.67,121016.29,Northern Ireland,True,279.0,124247.43
+"Newry, Mourne and Down",2013,1,2013 Q1,2.78,108363.48,Northern Ireland,True,232.0,111375.98
+"Newry, Mourne and Down",2013,2,2013 Q2,2.68,109337.21,Northern Ireland,True,261.0,112267.45
+"Newry, Mourne and Down",2013,3,2013 Q3,2.71,111089.78,Northern Ireland,True,290.0,114100.31
+"Newry, Mourne and Down",2013,4,2013 Q4,2.1,111125.5,Northern Ireland,True,374.0,113459.14
+"Newry, Mourne and Down",2014,1,2014 Q1,1.74,123428.05,Northern Ireland,True,311.0,125575.7
+"Newry, Mourne and Down",2014,2,2014 Q2,1.72,127450.03,Northern Ireland,True,373.0,129642.17
+"Newry, Mourne and Down",2014,3,2014 Q3,1.46,135508.17,Northern Ireland,True,402.0,137486.59
+"Newry, Mourne and Down",2014,4,2014 Q4,0.94,135533.51,Northern Ireland,True,458.0,136807.52
+"Newry, Mourne and Down",2015,1,2015 Q1,0.1,144394.38,Northern Ireland,True,366.0,144538.77
+"Newry, Mourne and Down",2015,2,2015 Q2,-0.02,154023.78,Northern Ireland,True,356.0,153992.98
+"Newry, Mourne and Down",2015,3,2015 Q3,0.01,161527.62,Northern Ireland,True,458.0,161543.77
+"Newry, Mourne and Down",2015,4,2015 Q4,0.07,162027.62,Northern Ireland,True,482.0,162141.04
+"Newry, Mourne and Down",2016,1,2016 Q1,0.35,149054.48,Northern Ireland,True,438.0,149576.17
+"Newry, Mourne and Down",2016,2,2016 Q2,0.35,150140.55,Northern Ireland,True,347.0,150666.04
+"Newry, Mourne and Down",2016,3,2016 Q3,0.73,142910.0,Northern Ireland,True,425.0,143953.24
+"Newry, Mourne and Down",2016,4,2016 Q4,1.21,138070.77,Northern Ireland,True,466.0,139741.43
+"Newry, Mourne and Down",2017,1,2017 Q1,2.14,140624.77,Northern Ireland,True,392.0,143634.14
+"Newry, Mourne and Down",2017,2,2017 Q2,2.74,140745.99,Northern Ireland,True,432.0,144602.43
+"Newry, Mourne and Down",2017,3,2017 Q3,2.82,134657.93,Northern Ireland,True,465.0,138455.28
+"Newry, Mourne and Down",2017,4,2017 Q4,3.02,139391.25,Northern Ireland,True,539.0,143600.87
+"Newry, Mourne and Down",2018,1,2018 Q1,2.72,145408.45,Northern Ireland,True,460.0,149363.56
+"Newry, Mourne and Down",2018,2,2018 Q2,2.42,142789.42,Northern Ireland,True,502.0,146244.92
+"Newry, Mourne and Down",2018,3,2018 Q3,2.52,146118.43,Northern Ireland,True,536.0,149800.61
+"Newry, Mourne and Down",2018,4,2018 Q4,2.27,149010.36,Northern Ireland,True,505.0,152392.9
+"Newry, Mourne and Down",2019,1,2019 Q1,1.88,150357.74,Northern Ireland,True,379.0,153184.47
+"Newry, Mourne and Down",2019,2,2019 Q2,2.05,154821.36,Northern Ireland,True,482.0,157995.2
+"Newry, Mourne and Down",2019,3,2019 Q3,1.83,152386.36,Northern Ireland,True,478.0,155175.03
+"Newry, Mourne and Down",2019,4,2019 Q4,1.41,159977.0,Northern Ireland,True,515.0,162232.68
+"Newry, Mourne and Down",2020,1,2020 Q1,1.67,158314.86,Northern Ireland,True,410.0,160958.72
+"Newry, Mourne and Down",2020,2,2020 Q2,0.62,155480.57,Northern Ireland,True,145.0,156444.55
+"Newry, Mourne and Down",2020,3,2020 Q3,0.6,159450.47,Northern Ireland,True,373.0,160407.17
+"Newry, Mourne and Down",2020,4,2020 Q4,0.53,164212.42,Northern Ireland,True,638.0,165082.75
+"Newry, Mourne and Down",2021,1,2021 Q1,0.61,169198.47,Northern Ireland,True,487.0,170230.58
+"Newry, Mourne and Down",2021,2,2021 Q2,2.05,176922.64,Northern Ireland,True,506.0,180549.55
+"Newry, Mourne and Down",2021,3,2021 Q3,2.77,185571.45,Northern Ireland,True,593.0,190711.78
+"Newry, Mourne and Down",2021,4,2021 Q4,4.91,182790.74,Northern Ireland,True,505.0,191765.77
+"Newry, Mourne and Down",2022,1,2022 Q1,6.22,188633.94,Northern Ireland,True,433.0,200366.97
+"Newry, Mourne and Down",2022,2,2022 Q2,9.17,187152.32,Northern Ireland,True,449.0,204314.19
+"Newry, Mourne and Down",2022,3,2022 Q3,10.02,193441.6,Northern Ireland,True,449.0,212824.45
+"Newry, Mourne and Down",2022,4,2022 Q4,10.75,183513.47,Northern Ireland,True,546.0,203241.17
+"Newry, Mourne and Down",2023,1,2023 Q1,10.18,178343.57,Northern Ireland,True,345.0,196498.94
+"Newry, Mourne and Down",2023,2,2023 Q2,8.43,188264.62,Northern Ireland,True,399.0,204135.33
+"Newry, Mourne and Down",2023,3,2023 Q3,6.71,201034.72,Northern Ireland,True,410.0,214524.15
+"Newry, Mourne and Down",2023,4,2023 Q4,4.18,201310.57,Northern Ireland,True,438.0,209725.35
+"Newry, Mourne and Down",2024,1,2024 Q1,3.54,201836.61,Northern Ireland,True,341.0,208981.63
+"Newry, Mourne and Down",2024,2,2024 Q2,2.1,220334.13,Northern Ireland,True,374.0,224961.15
+"Newry, Mourne and Down",2024,3,2024 Q3,2.04,221888.85,Northern Ireland,True,501.0,226415.38
+"Newry, Mourne and Down",2024,4,2024 Q4,2.47,228088.96,Northern Ireland,True,528.0,233722.76
+"Newry, Mourne and Down",2025,1,2025 Q1,2.8,227906.48,Northern Ireland,True,457.0,234287.86
+"Newry, Mourne and Down",2025,2,2025 Q2,3.49,221496.68,Northern Ireland,True,312.0,229226.91
+"Newry, Mourne and Down",2025,3,2025 Q3,3.8,229974.12,Northern Ireland,True,443.0,238713.14
