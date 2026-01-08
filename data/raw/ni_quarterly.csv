@@ -1,0 +1,694 @@
+County,Year,Quarter,Period,transaction_count,avg_price
+Antrim and Newtownabbey,2010,1,2010 Q1,217.0,148341.7353
+Antrim and Newtownabbey,2010,2,2010 Q2,245.0,152846.09050000002
+Antrim and Newtownabbey,2010,3,2010 Q3,269.0,156920.989
+Antrim and Newtownabbey,2010,4,2010 Q4,270.0,138840.46709999998
+Antrim and Newtownabbey,2011,1,2011 Q1,205.0,134269.202
+Antrim and Newtownabbey,2011,2,2011 Q2,224.0,131161.4975
+Antrim and Newtownabbey,2011,3,2011 Q3,283.0,132028.3188
+Antrim and Newtownabbey,2011,4,2011 Q4,252.0,125074.488
+Antrim and Newtownabbey,2012,1,2012 Q1,317.0,121151.571
+Antrim and Newtownabbey,2012,2,2012 Q2,275.0,125496.5104
+Antrim and Newtownabbey,2012,3,2012 Q3,304.0,127982.3964
+Antrim and Newtownabbey,2012,4,2012 Q4,343.0,122768.784
+Antrim and Newtownabbey,2013,1,2013 Q1,291.0,112434.7431
+Antrim and Newtownabbey,2013,2,2013 Q2,330.0,114803.218
+Antrim and Newtownabbey,2013,3,2013 Q3,359.0,115157.5464
+Antrim and Newtownabbey,2013,4,2013 Q4,383.0,118065.322
+Antrim and Newtownabbey,2014,1,2014 Q1,404.0,122075.2056
+Antrim and Newtownabbey,2014,2,2014 Q2,486.0,128030.0728
+Antrim and Newtownabbey,2014,3,2014 Q3,471.0,134305.34
+Antrim and Newtownabbey,2014,4,2014 Q4,479.0,135749.4914
+Antrim and Newtownabbey,2015,1,2015 Q1,385.0,144855.1485
+Antrim and Newtownabbey,2015,2,2015 Q2,478.0,155286.39450000002
+Antrim and Newtownabbey,2015,3,2015 Q3,571.0,158381.4617
+Antrim and Newtownabbey,2015,4,2015 Q4,542.0,159156.553
+Antrim and Newtownabbey,2016,1,2016 Q1,538.0,146682.70380000002
+Antrim and Newtownabbey,2016,2,2016 Q2,402.0,152246.172
+Antrim and Newtownabbey,2016,3,2016 Q3,570.0,144100.27889999998
+Antrim and Newtownabbey,2016,4,2016 Q4,545.0,141085.2345
+Antrim and Newtownabbey,2017,1,2017 Q1,509.0,140716.9302
+Antrim and Newtownabbey,2017,2,2017 Q2,634.0,144885.9796
+Antrim and Newtownabbey,2017,3,2017 Q3,600.0,139534.024
+Antrim and Newtownabbey,2017,4,2017 Q4,667.0,139097.7746
+Antrim and Newtownabbey,2018,1,2018 Q1,443.0,141632.66520000002
+Antrim and Newtownabbey,2018,2,2018 Q2,590.0,144597.4467
+Antrim and Newtownabbey,2018,3,2018 Q3,647.0,145916.2607
+Antrim and Newtownabbey,2018,4,2018 Q4,647.0,148739.8
+Antrim and Newtownabbey,2019,1,2019 Q1,499.0,149342.496
+Antrim and Newtownabbey,2019,2,2019 Q2,564.0,149173.4712
+Antrim and Newtownabbey,2019,3,2019 Q3,618.0,150065.2192
+Antrim and Newtownabbey,2019,4,2019 Q4,573.0,158287.4952
+Antrim and Newtownabbey,2020,1,2020 Q1,493.0,158091.048
+Antrim and Newtownabbey,2020,2,2020 Q2,198.0,154565.2128
+Antrim and Newtownabbey,2020,3,2020 Q3,418.0,153300.4554
+Antrim and Newtownabbey,2020,4,2020 Q4,756.0,156183.4846
+Antrim and Newtownabbey,2021,1,2021 Q1,655.0,164443.755
+Antrim and Newtownabbey,2021,2,2021 Q2,727.0,171993.7008
+Antrim and Newtownabbey,2021,3,2021 Q3,763.0,177641.2377
+Antrim and Newtownabbey,2021,4,2021 Q4,603.0,179625.45630000002
+Antrim and Newtownabbey,2022,1,2022 Q1,506.0,185774.7232
+Antrim and Newtownabbey,2022,2,2022 Q2,559.0,192168.567
+Antrim and Newtownabbey,2022,3,2022 Q3,582.0,197001.24
+Antrim and Newtownabbey,2022,4,2022 Q4,676.0,193622.6736
+Antrim and Newtownabbey,2023,1,2023 Q1,459.0,187983.675
+Antrim and Newtownabbey,2023,2,2023 Q2,482.0,192011.5555
+Antrim and Newtownabbey,2023,3,2023 Q3,553.0,201799.9776
+Antrim and Newtownabbey,2023,4,2023 Q4,574.0,197894.161
+Antrim and Newtownabbey,2024,1,2024 Q1,451.0,202637.1402
+Antrim and Newtownabbey,2024,2,2024 Q2,511.0,209440.2048
+Antrim and Newtownabbey,2024,3,2024 Q3,631.0,217966.3785
+Antrim and Newtownabbey,2024,4,2024 Q4,613.0,223921.7376
+Antrim and Newtownabbey,2025,1,2025 Q1,599.0,227086.128
+Antrim and Newtownabbey,2025,2,2025 Q2,437.0,223124.5824
+Antrim and Newtownabbey,2025,3,2025 Q3,530.0,226448.2494
+Ards and North Down,2010,1,2010 Q1,286.0,177829.3276
+Ards and North Down,2010,2,2010 Q2,269.0,184800.2799
+Ards and North Down,2010,3,2010 Q3,286.0,187333.112
+Ards and North Down,2010,4,2010 Q4,305.0,168091.60189999998
+Ards and North Down,2011,1,2011 Q1,235.0,161564.041
+Ards and North Down,2011,2,2011 Q2,294.0,149338.878
+Ards and North Down,2011,3,2011 Q3,357.0,149930.59900000002
+Ards and North Down,2011,4,2011 Q4,342.0,155207.42599999998
+Ards and North Down,2012,1,2012 Q1,359.0,145515.87749999997
+Ards and North Down,2012,2,2012 Q2,315.0,147345.3904
+Ards and North Down,2012,3,2012 Q3,411.0,150822.8604
+Ards and North Down,2012,4,2012 Q4,424.0,145005.4944
+Ards and North Down,2013,1,2013 Q1,420.0,132924.9618
+Ards and North Down,2013,2,2013 Q2,466.0,134696.7212
+Ards and North Down,2013,3,2013 Q3,491.0,135750.7476
+Ards and North Down,2013,4,2013 Q4,633.0,139526.772
+Ards and North Down,2014,1,2014 Q1,565.0,144543.3535
+Ards and North Down,2014,2,2014 Q2,645.0,149835.8008
+Ards and North Down,2014,3,2014 Q3,702.0,155911.3651
+Ards and North Down,2014,4,2014 Q4,670.0,159415.1181
+Ards and North Down,2015,1,2015 Q1,494.0,171369.1807
+Ards and North Down,2015,2,2015 Q2,599.0,178637.2317
+Ards and North Down,2015,3,2015 Q3,693.0,184807.4074
+Ards and North Down,2015,4,2015 Q4,672.0,184397.86880000003
+Ards and North Down,2016,1,2016 Q1,638.0,172072.2417
+Ards and North Down,2016,2,2016 Q2,575.0,171469.3788
+Ards and North Down,2016,3,2016 Q3,716.0,158793.4422
+Ards and North Down,2016,4,2016 Q4,698.0,156278.1255
+Ards and North Down,2017,1,2017 Q1,541.0,157848.152
+Ards and North Down,2017,2,2017 Q2,709.0,160546.4392
+Ards and North Down,2017,3,2017 Q3,680.0,156400.468
+Ards and North Down,2017,4,2017 Q4,760.0,156896.0332
+Ards and North Down,2018,1,2018 Q1,588.0,160129.2868
+Ards and North Down,2018,2,2018 Q2,704.0,162127.1085
+Ards and North Down,2018,3,2018 Q3,760.0,161989.3401
+Ards and North Down,2018,4,2018 Q4,751.0,163378.13249999998
+Ards and North Down,2019,1,2019 Q1,551.0,164488.9776
+Ards and North Down,2019,2,2019 Q2,676.0,166778.0496
+Ards and North Down,2019,3,2019 Q3,843.0,165360.2769
+Ards and North Down,2019,4,2019 Q4,843.0,172469.9376
+Ards and North Down,2020,1,2020 Q1,558.0,171785.043
+Ards and North Down,2020,2,2020 Q2,230.0,165659.8277
+Ards and North Down,2020,3,2020 Q3,622.0,171901.4469
+Ards and North Down,2020,4,2020 Q4,0.0,174591.2432
+Ards and North Down,2021,1,2021 Q1,976.0,187135.365
+Ards and North Down,2021,2,2021 Q2,0.0,192721.6464
+Ards and North Down,2021,3,2021 Q3,0.0,199757.1024
+Ards and North Down,2021,4,2021 Q4,752.0,200725.4085
+Ards and North Down,2022,1,2022 Q1,692.0,211781.8456
+Ards and North Down,2022,2,2022 Q2,750.0,219701.8625
+Ards and North Down,2022,3,2022 Q3,804.0,219772.9704
+Ards and North Down,2022,4,2022 Q4,724.0,220598.40320000003
+Ards and North Down,2023,1,2023 Q1,528.0,205845.46500000003
+Ards and North Down,2023,2,2023 Q2,602.0,219033.4436
+Ards and North Down,2023,3,2023 Q3,693.0,219400.7066
+Ards and North Down,2023,4,2023 Q4,658.0,220615.1288
+Ards and North Down,2024,1,2024 Q1,531.0,231362.01
+Ards and North Down,2024,2,2024 Q2,674.0,235088.097
+Ards and North Down,2024,3,2024 Q3,755.0,242887.338
+Ards and North Down,2024,4,2024 Q4,818.0,248635.737
+Ards and North Down,2025,1,2025 Q1,838.0,250494.454
+Ards and North Down,2025,2,2025 Q2,590.0,249251.9936
+Ards and North Down,2025,3,2025 Q3,738.0,257203.9422
+"Armagh City, Banbridge and Craigavon",2010,1,2010 Q1,261.0,133758.5224
+"Armagh City, Banbridge and Craigavon",2010,2,2010 Q2,298.0,134648.8128
+"Armagh City, Banbridge and Craigavon",2010,3,2010 Q3,224.0,138581.8335
+"Armagh City, Banbridge and Craigavon",2010,4,2010 Q4,299.0,129146.344
+"Armagh City, Banbridge and Craigavon",2011,1,2011 Q1,254.0,125316.907
+"Armagh City, Banbridge and Craigavon",2011,2,2011 Q2,288.0,112749.6067
+"Armagh City, Banbridge and Craigavon",2011,3,2011 Q3,347.0,115894.4888
+"Armagh City, Banbridge and Craigavon",2011,4,2011 Q4,327.0,112753.366
+"Armagh City, Banbridge and Craigavon",2012,1,2012 Q1,337.0,111096.156
+"Armagh City, Banbridge and Craigavon",2012,2,2012 Q2,343.0,113590.7224
+"Armagh City, Banbridge and Craigavon",2012,3,2012 Q3,398.0,108061.4187
+"Armagh City, Banbridge and Craigavon",2012,4,2012 Q4,441.0,103178.5344
+"Armagh City, Banbridge and Craigavon",2013,1,2013 Q1,373.0,98642.5944
+"Armagh City, Banbridge and Craigavon",2013,2,2013 Q2,407.0,100537.312
+"Armagh City, Banbridge and Craigavon",2013,3,2013 Q3,434.0,100981.5
+"Armagh City, Banbridge and Craigavon",2013,4,2013 Q4,564.0,106341.782
+"Armagh City, Banbridge and Craigavon",2014,1,2014 Q1,437.0,108859.5717
+"Armagh City, Banbridge and Craigavon",2014,2,2014 Q2,558.0,112920.766
+"Armagh City, Banbridge and Craigavon",2014,3,2014 Q3,552.0,118702.7384
+"Armagh City, Banbridge and Craigavon",2014,4,2014 Q4,688.0,122133.2348
+"Armagh City, Banbridge and Craigavon",2015,1,2015 Q1,515.0,130803.8154
+"Armagh City, Banbridge and Craigavon",2015,2,2015 Q2,566.0,137748.3132
+"Armagh City, Banbridge and Craigavon",2015,3,2015 Q3,613.0,143071.6672
+"Armagh City, Banbridge and Craigavon",2015,4,2015 Q4,683.0,145770.0196
+"Armagh City, Banbridge and Craigavon",2016,1,2016 Q1,692.0,137799.80550000002
+"Armagh City, Banbridge and Craigavon",2016,2,2016 Q2,534.0,139400.6394
+"Armagh City, Banbridge and Craigavon",2016,3,2016 Q3,644.0,127874.39669999998
+"Armagh City, Banbridge and Craigavon",2016,4,2016 Q4,706.0,126419.7305
+"Armagh City, Banbridge and Craigavon",2017,1,2017 Q1,600.0,130494.4718
+"Armagh City, Banbridge and Craigavon",2017,2,2017 Q2,686.0,130118.0128
+"Armagh City, Banbridge and Craigavon",2017,3,2017 Q3,738.0,125419.0336
+"Armagh City, Banbridge and Craigavon",2017,4,2017 Q4,825.0,129193.4505
+"Armagh City, Banbridge and Craigavon",2018,1,2018 Q1,611.0,129521.6472
+"Armagh City, Banbridge and Craigavon",2018,2,2018 Q2,711.0,131711.0788
+"Armagh City, Banbridge and Craigavon",2018,3,2018 Q3,745.0,128956.7076
+"Armagh City, Banbridge and Craigavon",2018,4,2018 Q4,759.0,133280.6475
+"Armagh City, Banbridge and Craigavon",2019,1,2019 Q1,554.0,136617.7536
+"Armagh City, Banbridge and Craigavon",2019,2,2019 Q2,719.0,135183.8124
+"Armagh City, Banbridge and Craigavon",2019,3,2019 Q3,735.0,135825.8343
+"Armagh City, Banbridge and Craigavon",2019,4,2019 Q4,834.0,142115.024
+"Armagh City, Banbridge and Craigavon",2020,1,2020 Q1,638.0,142606.791
+"Armagh City, Banbridge and Craigavon",2020,2,2020 Q2,283.0,139164.3505
+"Armagh City, Banbridge and Craigavon",2020,3,2020 Q3,631.0,138023.0031
+"Armagh City, Banbridge and Craigavon",2020,4,2020 Q4,974.0,140832.97799999997
+"Armagh City, Banbridge and Craigavon",2021,1,2021 Q1,850.0,145046.31
+"Armagh City, Banbridge and Craigavon",2021,2,2021 Q2,823.0,154872.7332
+"Armagh City, Banbridge and Craigavon",2021,3,2021 Q3,987.0,163082.43540000002
+"Armagh City, Banbridge and Craigavon",2021,4,2021 Q4,853.0,162874.4662
+"Armagh City, Banbridge and Craigavon",2022,1,2022 Q1,621.0,171836.3592
+"Armagh City, Banbridge and Craigavon",2022,2,2022 Q2,752.0,175143.956
+"Armagh City, Banbridge and Craigavon",2022,3,2022 Q3,759.0,181050.6264
+"Armagh City, Banbridge and Craigavon",2022,4,2022 Q4,808.0,176952.22720000002
+"Armagh City, Banbridge and Craigavon",2023,1,2023 Q1,571.0,172653.02250000002
+"Armagh City, Banbridge and Craigavon",2023,2,2023 Q2,622.0,174362.1189
+"Armagh City, Banbridge and Craigavon",2023,3,2023 Q3,695.0,186103.5707
+"Armagh City, Banbridge and Craigavon",2023,4,2023 Q4,645.0,181495.4692
+"Armagh City, Banbridge and Craigavon",2024,1,2024 Q1,576.0,185924.871
+"Armagh City, Banbridge and Craigavon",2024,2,2024 Q2,597.0,192267.7677
+"Armagh City, Banbridge and Craigavon",2024,3,2024 Q3,707.0,199522.7145
+"Armagh City, Banbridge and Craigavon",2024,4,2024 Q4,761.0,201021.8522
+"Armagh City, Banbridge and Craigavon",2025,1,2025 Q1,716.0,203214.7565
+"Armagh City, Banbridge and Craigavon",2025,2,2025 Q2,558.0,202372.9152
+"Armagh City, Banbridge and Craigavon",2025,3,2025 Q3,670.0,202232.295
+Belfast,2010,1,2010 Q1,599.0,136522.8081
+Belfast,2010,2,2010 Q2,604.0,140400.144
+Belfast,2010,3,2010 Q3,534.0,138804.9405
+Belfast,2010,4,2010 Q4,606.0,124298.7005
+Belfast,2011,1,2011 Q1,585.0,118103.547
+Belfast,2011,2,2011 Q2,573.0,114613.2272
+Belfast,2011,3,2011 Q3,677.0,114030.2618
+Belfast,2011,4,2011 Q4,714.0,112832.654
+Belfast,2012,1,2012 Q1,744.0,105676.539
+Belfast,2012,2,2012 Q2,700.0,110886.152
+Belfast,2012,3,2012 Q3,788.0,111694.6695
+Belfast,2012,4,2012 Q4,797.0,105563.6928
+Belfast,2013,1,2013 Q1,729.0,97353.5097
+Belfast,2013,2,2013 Q2,816.0,100465.6004
+Belfast,2013,3,2013 Q3,907.0,103519.7944
+Belfast,2013,4,2013 Q4,0.0,107145.546
+Belfast,2014,1,2014 Q1,994.0,109558.9458
+Belfast,2014,2,2014 Q2,0.0,116766.2356
+Belfast,2014,3,2014 Q3,0.0,122813.7921
+Belfast,2014,4,2014 Q4,0.0,125515.1247
+Belfast,2015,1,2015 Q1,962.0,134119.7523
+Belfast,2015,2,2015 Q2,0.0,141559.2519
+Belfast,2015,3,2015 Q3,0.0,148246.4753
+Belfast,2015,4,2015 Q4,0.0,147670.49980000002
+Belfast,2016,1,2016 Q1,0.0,135798.1353
+Belfast,2016,2,2016 Q2,0.0,142727.2932
+Belfast,2016,3,2016 Q3,0.0,131695.01909999998
+Belfast,2016,4,2016 Q4,0.0,129269.693
+Belfast,2017,1,2017 Q1,0.0,128314.4093
+Belfast,2017,2,2017 Q2,0.0,131490.4529
+Belfast,2017,3,2017 Q3,0.0,128773.3776
+Belfast,2017,4,2017 Q4,0.0,129565.3275
+Belfast,2018,1,2018 Q1,0.0,131316.5012
+Belfast,2018,2,2018 Q2,0.0,134889.5716
+Belfast,2018,3,2018 Q3,0.0,136179.6191
+Belfast,2018,4,2018 Q4,0.0,139840.4425
+Belfast,2019,1,2019 Q1,959.0,139267.7856
+Belfast,2019,2,2019 Q2,0.0,140158.4724
+Belfast,2019,3,2019 Q3,0.0,139783.4984
+Belfast,2019,4,2019 Q4,0.0,144860.6128
+Belfast,2020,1,2020 Q1,0.0,147056.904
+Belfast,2020,2,2020 Q2,329.0,144028.3144
+Belfast,2020,3,2020 Q3,960.0,142801.6956
+Belfast,2020,4,2020 Q4,0.0,147346.254
+Belfast,2021,1,2021 Q1,0.0,154284.17
+Belfast,2021,2,2021 Q2,0.0,160091.8332
+Belfast,2021,3,2021 Q3,0.0,165805.2693
+Belfast,2021,4,2021 Q4,0.0,164632.2061
+Belfast,2022,1,2022 Q1,0.0,172007.3014
+Belfast,2022,2,2022 Q2,0.0,173701.472
+Belfast,2022,3,2022 Q3,0.0,180468.564
+Belfast,2022,4,2022 Q4,0.0,174613.464
+Belfast,2023,1,2023 Q1,0.0,169185.3075
+Belfast,2023,2,2023 Q2,0.0,171442.793
+Belfast,2023,3,2023 Q3,0.0,182102.982
+Belfast,2023,4,2023 Q4,0.0,176781.451
+Belfast,2024,1,2024 Q1,922.0,180978.7122
+Belfast,2024,2,2024 Q2,0.0,185667.6726
+Belfast,2024,3,2024 Q3,0.0,197972.3295
+Belfast,2024,4,2024 Q4,0.0,203419.8466
+Belfast,2025,1,2025 Q1,0.0,203463.6285
+Belfast,2025,2,2025 Q2,905.0,201835.9296
+Belfast,2025,3,2025 Q3,0.0,204925.2642
+Causeway Coast and Glens,2010,1,2010 Q1,191.0,143542.2682
+Causeway Coast and Glens,2010,2,2010 Q2,210.0,153271.33190000002
+Causeway Coast and Glens,2010,3,2010 Q3,400.0,144217.0845
+Causeway Coast and Glens,2010,4,2010 Q4,249.0,144280.53569999998
+Causeway Coast and Glens,2011,1,2011 Q1,189.0,140319.759
+Causeway Coast and Glens,2011,2,2011 Q2,201.0,129018.0507
+Causeway Coast and Glens,2011,3,2011 Q3,273.0,122237.4214
+Causeway Coast and Glens,2011,4,2011 Q4,236.0,128325.296
+Causeway Coast and Glens,2012,1,2012 Q1,215.0,118795.32
+Causeway Coast and Glens,2012,2,2012 Q2,236.0,126266.776
+Causeway Coast and Glens,2012,3,2012 Q3,277.0,121520.6169
+Causeway Coast and Glens,2012,4,2012 Q4,279.0,117709.92
+Causeway Coast and Glens,2013,1,2013 Q1,280.0,109343.055
+Causeway Coast and Glens,2013,2,2013 Q2,335.0,110508.7512
+Causeway Coast and Glens,2013,3,2013 Q3,308.0,112215.326
+Causeway Coast and Glens,2013,4,2013 Q4,408.0,114599.387
+Causeway Coast and Glens,2014,1,2014 Q1,335.0,112366.1054
+Causeway Coast and Glens,2014,2,2014 Q2,444.0,122783.6834
+Causeway Coast and Glens,2014,3,2014 Q3,432.0,131389.9314
+Causeway Coast and Glens,2014,4,2014 Q4,501.0,130096.95829999998
+Causeway Coast and Glens,2015,1,2015 Q1,378.0,136252.2915
+Causeway Coast and Glens,2015,2,2015 Q2,401.0,148607.2011
+Causeway Coast and Glens,2015,3,2015 Q3,449.0,155164.8021
+Causeway Coast and Glens,2015,4,2015 Q4,496.0,153649.1804
+Causeway Coast and Glens,2016,1,2016 Q1,594.0,149280.2019
+Causeway Coast and Glens,2016,2,2016 Q2,409.0,146213.9922
+Causeway Coast and Glens,2016,3,2016 Q3,486.0,139316.26679999998
+Causeway Coast and Glens,2016,4,2016 Q4,516.0,138399.93649999998
+Causeway Coast and Glens,2017,1,2017 Q1,381.0,140212.31840000002
+Causeway Coast and Glens,2017,2,2017 Q2,517.0,142347.9532
+Causeway Coast and Glens,2017,3,2017 Q3,612.0,139357.9488
+Causeway Coast and Glens,2017,4,2017 Q4,611.0,141724.5785
+Causeway Coast and Glens,2018,1,2018 Q1,470.0,139596.61000000002
+Causeway Coast and Glens,2018,2,2018 Q2,529.0,147408.31209999998
+Causeway Coast and Glens,2018,3,2018 Q3,550.0,147499.80980000002
+Causeway Coast and Glens,2018,4,2018 Q4,558.0,149907.88999999998
+Causeway Coast and Glens,2019,1,2019 Q1,403.0,154091.904
+Causeway Coast and Glens,2019,2,2019 Q2,488.0,154317.384
+Causeway Coast and Glens,2019,3,2019 Q3,552.0,153842.1326
+Causeway Coast and Glens,2019,4,2019 Q4,555.0,162395.4168
+Causeway Coast and Glens,2020,1,2020 Q1,410.0,166408.452
+Causeway Coast and Glens,2020,2,2020 Q2,150.0,154842.381
+Causeway Coast and Glens,2020,3,2020 Q3,486.0,160502.1936
+Causeway Coast and Glens,2020,4,2020 Q4,730.0,167755.62649999998
+Causeway Coast and Glens,2021,1,2021 Q1,612.0,171166.05
+Causeway Coast and Glens,2021,2,2021 Q2,677.0,186422.7726
+Causeway Coast and Glens,2021,3,2021 Q3,647.0,192382.4196
+Causeway Coast and Glens,2021,4,2021 Q4,463.0,194524.3945
+Causeway Coast and Glens,2022,1,2022 Q1,390.0,203586.1832
+Causeway Coast and Glens,2022,2,2022 Q2,417.0,208976.33400000003
+Causeway Coast and Glens,2022,3,2022 Q3,464.0,215524.3824
+Causeway Coast and Glens,2022,4,2022 Q4,534.0,210028.528
+Causeway Coast and Glens,2023,1,2023 Q1,358.0,206477.4
+Causeway Coast and Glens,2023,2,2023 Q2,454.0,210288.1236
+Causeway Coast and Glens,2023,3,2023 Q3,466.0,213699.3733
+Causeway Coast and Glens,2023,4,2023 Q4,401.0,212088.1321
+Causeway Coast and Glens,2024,1,2024 Q1,346.0,204376.59
+Causeway Coast and Glens,2024,2,2024 Q2,412.0,228913.4742
+Causeway Coast and Glens,2024,3,2024 Q3,495.0,234312.8805
+Causeway Coast and Glens,2024,4,2024 Q4,482.0,237240.458
+Causeway Coast and Glens,2025,1,2025 Q1,507.0,239392.1305
+Causeway Coast and Glens,2025,2,2025 Q2,359.0,233896.0896
+Causeway Coast and Glens,2025,3,2025 Q3,454.0,239122.7424
+Derry City and Strabane,2010,1,2010 Q1,137.0,128634.5081
+Derry City and Strabane,2010,2,2010 Q2,178.0,125699.9482
+Derry City and Strabane,2010,3,2010 Q3,178.0,126116.6295
+Derry City and Strabane,2010,4,2010 Q4,180.0,114126.2145
+Derry City and Strabane,2011,1,2011 Q1,166.0,120165.678
+Derry City and Strabane,2011,2,2011 Q2,207.0,108325.6322
+Derry City and Strabane,2011,3,2011 Q3,210.0,104940.5874
+Derry City and Strabane,2011,4,2011 Q4,179.0,101405.854
+Derry City and Strabane,2012,1,2012 Q1,181.0,106866.64949999998
+Derry City and Strabane,2012,2,2012 Q2,194.0,107927.2952
+Derry City and Strabane,2012,3,2012 Q3,229.0,104819.7909
+Derry City and Strabane,2012,4,2012 Q4,259.0,102305.4624
+Derry City and Strabane,2013,1,2013 Q1,233.0,93106.6983
+Derry City and Strabane,2013,2,2013 Q2,248.0,96219.3332
+Derry City and Strabane,2013,3,2013 Q3,260.0,96918.824
+Derry City and Strabane,2013,4,2013 Q4,271.0,97798.817
+Derry City and Strabane,2014,1,2014 Q1,323.0,99858.3009
+Derry City and Strabane,2014,2,2014 Q2,302.0,102748.443
+Derry City and Strabane,2014,3,2014 Q3,354.0,109925.0151
+Derry City and Strabane,2014,4,2014 Q4,344.0,112944.2256
+Derry City and Strabane,2015,1,2015 Q1,311.0,122108.0637
+Derry City and Strabane,2015,2,2015 Q2,342.0,125331.2241
+Derry City and Strabane,2015,3,2015 Q3,345.0,131003.6189
+Derry City and Strabane,2015,4,2015 Q4,376.0,129735.8442
+Derry City and Strabane,2016,1,2016 Q1,382.0,125557.4244
+Derry City and Strabane,2016,2,2016 Q2,275.0,124906.3872
+Derry City and Strabane,2016,3,2016 Q3,368.0,119088.612
+Derry City and Strabane,2016,4,2016 Q4,356.0,118587.2275
+Derry City and Strabane,2017,1,2017 Q1,333.0,121280.0743
+Derry City and Strabane,2017,2,2017 Q2,379.0,121928.6941
+Derry City and Strabane,2017,3,2017 Q3,409.0,120671.6896
+Derry City and Strabane,2017,4,2017 Q4,438.0,126957.6809
+Derry City and Strabane,2018,1,2018 Q1,361.0,122883.5184
+Derry City and Strabane,2018,2,2018 Q2,411.0,129818.1402
+Derry City and Strabane,2018,3,2018 Q3,407.0,128641.7909
+Derry City and Strabane,2018,4,2018 Q4,433.0,136260.63
+Derry City and Strabane,2019,1,2019 Q1,349.0,133677.48
+Derry City and Strabane,2019,2,2019 Q2,393.0,135891.7008
+Derry City and Strabane,2019,3,2019 Q3,442.0,127484.6885
+Derry City and Strabane,2019,4,2019 Q4,398.0,141569.85840000003
+Derry City and Strabane,2020,1,2020 Q1,358.0,140436.882
+Derry City and Strabane,2020,2,2020 Q2,115.0,137654.5725
+Derry City and Strabane,2020,3,2020 Q3,372.0,133502.8572
+Derry City and Strabane,2020,4,2020 Q4,496.0,137251.78389999998
+Derry City and Strabane,2021,1,2021 Q1,468.0,146123.755
+Derry City and Strabane,2021,2,2021 Q2,448.0,149196.672
+Derry City and Strabane,2021,3,2021 Q3,512.0,160138.6416
+Derry City and Strabane,2021,4,2021 Q4,444.0,162513.72280000002
+Derry City and Strabane,2022,1,2022 Q1,416.0,167107.3568
+Derry City and Strabane,2022,2,2022 Q2,379.0,169493.0485
+Derry City and Strabane,2022,3,2022 Q3,438.0,173716.4064
+Derry City and Strabane,2022,4,2022 Q4,438.0,167824.9536
+Derry City and Strabane,2023,1,2023 Q1,367.0,160087.935
+Derry City and Strabane,2023,2,2023 Q2,315.0,175179.1159
+Derry City and Strabane,2023,3,2023 Q3,339.0,181819.1368
+Derry City and Strabane,2023,4,2023 Q4,382.0,175759.2728
+Derry City and Strabane,2024,1,2024 Q1,319.0,175533.732
+Derry City and Strabane,2024,2,2024 Q2,377.0,183492.255
+Derry City and Strabane,2024,3,2024 Q3,386.0,191573.145
+Derry City and Strabane,2024,4,2024 Q4,417.0,200486.0278
+Derry City and Strabane,2025,1,2025 Q1,378.0,201330.269
+Derry City and Strabane,2025,2,2025 Q2,318.0,199101.5424
+Derry City and Strabane,2025,3,2025 Q3,315.0,211041.558
+Fermanagh and Omagh,2010,1,2010 Q1,80.0,135555.9279
+Fermanagh and Omagh,2010,2,2010 Q2,95.0,137293.0625
+Fermanagh and Omagh,2010,3,2010 Q3,85.0,146362.99
+Fermanagh and Omagh,2010,4,2010 Q4,116.0,128786.6989
+Fermanagh and Omagh,2011,1,2011 Q1,85.0,128208.106
+Fermanagh and Omagh,2011,2,2011 Q2,101.0,134462.76810000002
+Fermanagh and Omagh,2011,3,2011 Q3,121.0,118959.3464
+Fermanagh and Omagh,2011,4,2011 Q4,113.0,118943.66
+Fermanagh and Omagh,2012,1,2012 Q1,108.0,116089.107
+Fermanagh and Omagh,2012,2,2012 Q2,115.0,115911.3944
+Fermanagh and Omagh,2012,3,2012 Q3,108.0,118855.0539
+Fermanagh and Omagh,2012,4,2012 Q4,140.0,109578.5856
+Fermanagh and Omagh,2013,1,2013 Q1,127.0,106639.1499
+Fermanagh and Omagh,2013,2,2013 Q2,136.0,105858.0776
+Fermanagh and Omagh,2013,3,2013 Q3,166.0,113946.9392
+Fermanagh and Omagh,2013,4,2013 Q4,171.0,105598.657
+Fermanagh and Omagh,2014,1,2014 Q1,227.0,110707.6587
+Fermanagh and Omagh,2014,2,2014 Q2,183.0,120393.1568
+Fermanagh and Omagh,2014,3,2014 Q3,224.0,122520.2354
+Fermanagh and Omagh,2014,4,2014 Q4,238.0,123641.0838
+Fermanagh and Omagh,2015,1,2015 Q1,155.0,127975.2391
+Fermanagh and Omagh,2015,2,2015 Q2,189.0,137835.6501
+Fermanagh and Omagh,2015,3,2015 Q3,202.0,146756.61
+Fermanagh and Omagh,2015,4,2015 Q4,243.0,153642.2494
+Fermanagh and Omagh,2016,1,2016 Q1,241.0,141601.9404
+Fermanagh and Omagh,2016,2,2016 Q2,186.0,138571.1988
+Fermanagh and Omagh,2016,3,2016 Q3,211.0,131470.34579999998
+Fermanagh and Omagh,2016,4,2016 Q4,243.0,129351.4495
+Fermanagh and Omagh,2017,1,2017 Q1,207.0,129005.0531
+Fermanagh and Omagh,2017,2,2017 Q2,222.0,134230.68469999998
+Fermanagh and Omagh,2017,3,2017 Q3,275.0,130431.6048
+Fermanagh and Omagh,2017,4,2017 Q4,288.0,133582.726
+Fermanagh and Omagh,2018,1,2018 Q1,234.0,134909.60640000002
+Fermanagh and Omagh,2018,2,2018 Q2,249.0,138746.2342
+Fermanagh and Omagh,2018,3,2018 Q3,279.0,137025.7476
+Fermanagh and Omagh,2018,4,2018 Q4,288.0,140142.6125
+Fermanagh and Omagh,2019,1,2019 Q1,217.0,143453.9184
+Fermanagh and Omagh,2019,2,2019 Q2,251.0,141670.3116
+Fermanagh and Omagh,2019,3,2019 Q3,274.0,144208.0094
+Fermanagh and Omagh,2019,4,2019 Q4,306.0,150056.54080000002
+Fermanagh and Omagh,2020,1,2020 Q1,221.0,150054.606
+Fermanagh and Omagh,2020,2,2020 Q2,112.0,143406.37600000002
+Fermanagh and Omagh,2020,3,2020 Q3,212.0,142210.5741
+Fermanagh and Omagh,2020,4,2020 Q4,337.0,149920.5488
+Fermanagh and Omagh,2021,1,2021 Q1,291.0,153970.44
+Fermanagh and Omagh,2021,2,2021 Q2,317.0,161026.63199999998
+Fermanagh and Omagh,2021,3,2021 Q3,345.0,166552.3242
+Fermanagh and Omagh,2021,4,2021 Q4,286.0,173545.869
+Fermanagh and Omagh,2022,1,2022 Q1,255.0,179035.058
+Fermanagh and Omagh,2022,2,2022 Q2,230.0,179374.771
+Fermanagh and Omagh,2022,3,2022 Q3,266.0,184318.5912
+Fermanagh and Omagh,2022,4,2022 Q4,312.0,183993.8256
+Fermanagh and Omagh,2023,1,2023 Q1,249.0,177640.55250000002
+Fermanagh and Omagh,2023,2,2023 Q2,238.0,182038.4386
+Fermanagh and Omagh,2023,3,2023 Q3,262.0,186335.0674
+Fermanagh and Omagh,2023,4,2023 Q4,272.0,185379.9771
+Fermanagh and Omagh,2024,1,2024 Q1,243.0,189399.0978
+Fermanagh and Omagh,2024,2,2024 Q2,246.0,200102.0841
+Fermanagh and Omagh,2024,3,2024 Q3,251.0,205499.3895
+Fermanagh and Omagh,2024,4,2024 Q4,327.0,212597.3412
+Fermanagh and Omagh,2025,1,2025 Q1,254.0,210071.898
+Fermanagh and Omagh,2025,2,2025 Q2,182.0,214491.5968
+Fermanagh and Omagh,2025,3,2025 Q3,203.0,217379.3814
+Lisburn and Castlereagh,2010,1,2010 Q1,212.0,174534.272
+Lisburn and Castlereagh,2010,2,2010 Q2,244.0,179473.0154
+Lisburn and Castlereagh,2010,3,2010 Q3,238.0,184636.636
+Lisburn and Castlereagh,2010,4,2010 Q4,231.0,167592.28879999998
+Lisburn and Castlereagh,2011,1,2011 Q1,209.0,159107.283
+Lisburn and Castlereagh,2011,2,2011 Q2,188.0,146103.3156
+Lisburn and Castlereagh,2011,3,2011 Q3,301.0,148946.60640000002
+Lisburn and Castlereagh,2011,4,2011 Q4,270.0,149084.75999999998
+Lisburn and Castlereagh,2012,1,2012 Q1,313.0,144944.193
+Lisburn and Castlereagh,2012,2,2012 Q2,281.0,148272.42479999998
+Lisburn and Castlereagh,2012,3,2012 Q3,307.0,151703.3805
+Lisburn and Castlereagh,2012,4,2012 Q4,326.0,147461.24159999998
+Lisburn and Castlereagh,2013,1,2013 Q1,297.0,135705.2484
+Lisburn and Castlereagh,2013,2,2013 Q2,395.0,137091.4184
+Lisburn and Castlereagh,2013,3,2013 Q3,454.0,138938.836
+Lisburn and Castlereagh,2013,4,2013 Q4,514.0,141351.88700000002
+Lisburn and Castlereagh,2014,1,2014 Q1,481.0,145281.3804
+Lisburn and Castlereagh,2014,2,2014 Q2,496.0,154236.236
+Lisburn and Castlereagh,2014,3,2014 Q3,529.0,156178.4639
+Lisburn and Castlereagh,2014,4,2014 Q4,537.0,164512.66139999998
+Lisburn and Castlereagh,2015,1,2015 Q1,439.0,172691.24730000002
+Lisburn and Castlereagh,2015,2,2015 Q2,554.0,183519.7803
+Lisburn and Castlereagh,2015,3,2015 Q3,584.0,187682.6105
+Lisburn and Castlereagh,2015,4,2015 Q4,591.0,189519.8778
+Lisburn and Castlereagh,2016,1,2016 Q1,576.0,176539.0038
+Lisburn and Castlereagh,2016,2,2016 Q2,506.0,180762.162
+Lisburn and Castlereagh,2016,3,2016 Q3,612.0,168971.9661
+Lisburn and Castlereagh,2016,4,2016 Q4,621.0,163407.062
+Lisburn and Castlereagh,2017,1,2017 Q1,505.0,164391.82760000002
+Lisburn and Castlereagh,2017,2,2017 Q2,628.0,168108.22389999998
+Lisburn and Castlereagh,2017,3,2017 Q3,678.0,163313.0912
+Lisburn and Castlereagh,2017,4,2017 Q4,663.0,164259.1978
+Lisburn and Castlereagh,2018,1,2018 Q1,564.0,166534.1412
+Lisburn and Castlereagh,2018,2,2018 Q2,593.0,171574.67599999998
+Lisburn and Castlereagh,2018,3,2018 Q3,605.0,170947.0952
+Lisburn and Castlereagh,2018,4,2018 Q4,662.0,173434.305
+Lisburn and Castlereagh,2019,1,2019 Q1,513.0,175303.632
+Lisburn and Castlereagh,2019,2,2019 Q2,622.0,178686.3564
+Lisburn and Castlereagh,2019,3,2019 Q3,661.0,175042.0828
+Lisburn and Castlereagh,2019,4,2019 Q4,667.0,183110.54720000003
+Lisburn and Castlereagh,2020,1,2020 Q1,507.0,184301.784
+Lisburn and Castlereagh,2020,2,2020 Q2,192.0,181942.8961
+Lisburn and Castlereagh,2020,3,2020 Q3,529.0,180708.6048
+Lisburn and Castlereagh,2020,4,2020 Q4,833.0,184424.2961
+Lisburn and Castlereagh,2021,1,2021 Q1,763.0,192643.96
+Lisburn and Castlereagh,2021,2,2021 Q2,852.0,200563.0542
+Lisburn and Castlereagh,2021,3,2021 Q3,901.0,204426.4878
+Lisburn and Castlereagh,2021,4,2021 Q4,643.0,208486.1072
+Lisburn and Castlereagh,2022,1,2022 Q1,563.0,215470.85
+Lisburn and Castlereagh,2022,2,2022 Q2,574.0,219620.54600000003
+Lisburn and Castlereagh,2022,3,2022 Q3,617.0,229791.924
+Lisburn and Castlereagh,2022,4,2022 Q4,607.0,227865.48
+Lisburn and Castlereagh,2023,1,2023 Q1,449.0,219640.4475
+Lisburn and Castlereagh,2023,2,2023 Q2,417.0,223525.7764
+Lisburn and Castlereagh,2023,3,2023 Q3,575.0,231588.6007
+Lisburn and Castlereagh,2023,4,2023 Q4,491.0,225850.6194
+Lisburn and Castlereagh,2024,1,2024 Q1,454.0,235028.9898
+Lisburn and Castlereagh,2024,2,2024 Q2,511.0,241566.2937
+Lisburn and Castlereagh,2024,3,2024 Q3,649.0,251932.8285
+Lisburn and Castlereagh,2024,4,2024 Q4,679.0,261670.927
+Lisburn and Castlereagh,2025,1,2025 Q1,657.0,264288.9025
+Lisburn and Castlereagh,2025,2,2025 Q2,470.0,257412.7616
+Lisburn and Castlereagh,2025,3,2025 Q3,515.0,261118.7856
+Mid Ulster,2010,1,2010 Q1,140.0,129909.032
+Mid Ulster,2010,2,2010 Q2,150.0,134380.9812
+Mid Ulster,2010,3,2010 Q3,132.0,134473.546
+Mid Ulster,2010,4,2010 Q4,148.0,123198.815
+Mid Ulster,2011,1,2011 Q1,124.0,126610.862
+Mid Ulster,2011,2,2011 Q2,160.0,117384.3006
+Mid Ulster,2011,3,2011 Q3,157.0,112473.88880000002
+Mid Ulster,2011,4,2011 Q4,183.0,109504.89
+Mid Ulster,2012,1,2012 Q1,170.0,107702.004
+Mid Ulster,2012,2,2012 Q2,148.0,116774.24
+Mid Ulster,2012,3,2012 Q3,197.0,112475.3889
+Mid Ulster,2012,4,2012 Q4,205.0,105943.8816
+Mid Ulster,2013,1,2013 Q1,178.0,103015.1415
+Mid Ulster,2013,2,2013 Q2,198.0,106171.9628
+Mid Ulster,2013,3,2013 Q3,212.0,108424.2756
+Mid Ulster,2013,4,2013 Q4,240.0,109099.073
+Mid Ulster,2014,1,2014 Q1,213.0,116369.086
+Mid Ulster,2014,2,2014 Q2,275.0,119091.6888
+Mid Ulster,2014,3,2014 Q3,249.0,122043.9932
+Mid Ulster,2014,4,2014 Q4,300.0,130783.7265
+Mid Ulster,2015,1,2015 Q1,246.0,141602.4877
+Mid Ulster,2015,2,2015 Q2,278.0,151801.23630000002
+Mid Ulster,2015,3,2015 Q3,296.0,152571.12639999998
+Mid Ulster,2015,4,2015 Q4,334.0,150517.7546
+Mid Ulster,2016,1,2016 Q1,334.0,149473.6188
+Mid Ulster,2016,2,2016 Q2,264.0,142264.9404
+Mid Ulster,2016,3,2016 Q3,311.0,137295.3834
+Mid Ulster,2016,4,2016 Q4,345.0,133781.27
+Mid Ulster,2017,1,2017 Q1,303.0,135259.2164
+Mid Ulster,2017,2,2017 Q2,328.0,138158.5827
+Mid Ulster,2017,3,2017 Q3,326.0,131729.8808
+Mid Ulster,2017,4,2017 Q4,308.0,137149.3645
+Mid Ulster,2018,1,2018 Q1,308.0,140696.1704
+Mid Ulster,2018,2,2018 Q2,306.0,139773.7642
+Mid Ulster,2018,3,2018 Q3,343.0,138122.9129
+Mid Ulster,2018,4,2018 Q4,392.0,143591.63499999998
+Mid Ulster,2019,1,2019 Q1,301.0,142770.1872
+Mid Ulster,2019,2,2019 Q2,377.0,144610.5072
+Mid Ulster,2019,3,2019 Q3,369.0,142065.6146
+Mid Ulster,2019,4,2019 Q4,360.0,149652.02560000002
+Mid Ulster,2020,1,2020 Q1,309.0,147166.038
+Mid Ulster,2020,2,2020 Q2,128.0,141487.6059
+Mid Ulster,2020,3,2020 Q3,282.0,139776.4794
+Mid Ulster,2020,4,2020 Q4,420.0,145188.4544
+Mid Ulster,2021,1,2021 Q1,349.0,153738.005
+Mid Ulster,2021,2,2021 Q2,375.0,157645.815
+Mid Ulster,2021,3,2021 Q3,406.0,166853.952
+Mid Ulster,2021,4,2021 Q4,419.0,168399.9705
+Mid Ulster,2022,1,2022 Q1,290.0,178197.0826
+Mid Ulster,2022,2,2022 Q2,308.0,179537.404
+Mid Ulster,2022,3,2022 Q3,349.0,184945.068
+Mid Ulster,2022,4,2022 Q4,371.0,181170.744
+Mid Ulster,2023,1,2023 Q1,256.0,173865.93000000002
+Mid Ulster,2023,2,2023 Q2,261.0,182049.9456
+Mid Ulster,2023,3,2023 Q3,317.0,189901.7452
+Mid Ulster,2023,4,2023 Q4,308.0,187077.0698
+Mid Ulster,2024,1,2024 Q1,291.0,192246.0012
+Mid Ulster,2024,2,2024 Q2,254.0,196214.2284
+Mid Ulster,2024,3,2024 Q3,317.0,199887.2325
+Mid Ulster,2024,4,2024 Q4,377.0,205345.6908
+Mid Ulster,2025,1,2025 Q1,306.0,205880.5585
+Mid Ulster,2025,2,2025 Q2,253.0,209225.3696
+Mid Ulster,2025,3,2025 Q3,283.0,216614.412
+Mid and East Antrim,2010,1,2010 Q1,211.0,130079.1939
+Mid and East Antrim,2010,2,2010 Q2,238.0,144310.72030000002
+Mid and East Antrim,2010,3,2010 Q3,189.0,139993.645
+Mid and East Antrim,2010,4,2010 Q4,229.0,129310.4539
+Mid and East Antrim,2011,1,2011 Q1,195.0,113156.072
+Mid and East Antrim,2011,2,2011 Q2,204.0,120230.1454
+Mid and East Antrim,2011,3,2011 Q3,277.0,118043.7658
+Mid and East Antrim,2011,4,2011 Q4,246.0,117076.894
+Mid and East Antrim,2012,1,2012 Q1,243.0,112264.6935
+Mid and East Antrim,2012,2,2012 Q2,295.0,120107.12
+Mid and East Antrim,2012,3,2012 Q3,311.0,116421.9381
+Mid and East Antrim,2012,4,2012 Q4,278.0,112169.3184
+Mid and East Antrim,2013,1,2013 Q1,280.0,104533.3707
+Mid and East Antrim,2013,2,2013 Q2,283.0,105371.3792
+Mid and East Antrim,2013,3,2013 Q3,334.0,104559.4648
+Mid and East Antrim,2013,4,2013 Q4,391.0,108130.038
+Mid and East Antrim,2014,1,2014 Q1,343.0,112723.6438
+Mid and East Antrim,2014,2,2014 Q2,400.0,115807.3238
+Mid and East Antrim,2014,3,2014 Q3,361.0,120966.7787
+Mid and East Antrim,2014,4,2014 Q4,444.0,120823.0534
+Mid and East Antrim,2015,1,2015 Q1,367.0,127790.796
+Mid and East Antrim,2015,2,2015 Q2,430.0,138689.6109
+Mid and East Antrim,2015,3,2015 Q3,455.0,138726.1106
+Mid and East Antrim,2015,4,2015 Q4,453.0,140833.76140000002
+Mid and East Antrim,2016,1,2016 Q1,472.0,131727.2937
+Mid and East Antrim,2016,2,2016 Q2,372.0,135577.3374
+Mid and East Antrim,2016,3,2016 Q3,484.0,128262.5757
+Mid and East Antrim,2016,4,2016 Q4,442.0,125622.8925
+Mid and East Antrim,2017,1,2017 Q1,382.0,124428.6659
+Mid and East Antrim,2017,2,2017 Q2,451.0,128314.4336
+Mid and East Antrim,2017,3,2017 Q3,478.0,125092.5144
+Mid and East Antrim,2017,4,2017 Q4,484.0,127492.9584
+Mid and East Antrim,2018,1,2018 Q1,374.0,128474.1772
+Mid and East Antrim,2018,2,2018 Q2,458.0,130467.7675
+Mid and East Antrim,2018,3,2018 Q3,473.0,131284.4015
+Mid and East Antrim,2018,4,2018 Q4,503.0,130539.695
+Mid and East Antrim,2019,1,2019 Q1,464.0,132436.2096
+Mid and East Antrim,2019,2,2019 Q2,484.0,134239.19879999998
+Mid and East Antrim,2019,3,2019 Q3,549.0,131160.692
+Mid and East Antrim,2019,4,2019 Q4,508.0,138835.8936
+Mid and East Antrim,2020,1,2020 Q1,443.0,137976.723
+Mid and East Antrim,2020,2,2020 Q2,150.0,135128.5111
+Mid and East Antrim,2020,3,2020 Q3,435.0,132546.0138
+Mid and East Antrim,2020,4,2020 Q4,686.0,137542.00129999997
+Mid and East Antrim,2021,1,2021 Q1,572.0,142668.145
+Mid and East Antrim,2021,2,2021 Q2,629.0,152651.7162
+Mid and East Antrim,2021,3,2021 Q3,706.0,155463.4107
+Mid and East Antrim,2021,4,2021 Q4,505.0,158835.5548
+Mid and East Antrim,2022,1,2022 Q1,417.0,166264.5998
+Mid and East Antrim,2022,2,2022 Q2,515.0,166289.8855
+Mid and East Antrim,2022,3,2022 Q3,507.0,170614.4112
+Mid and East Antrim,2022,4,2022 Q4,520.0,169725.4144
+Mid and East Antrim,2023,1,2023 Q1,396.0,166160.40000000002
+Mid and East Antrim,2023,2,2023 Q2,427.0,167997.59720000002
+Mid and East Antrim,2023,3,2023 Q3,445.0,176123.62
+Mid and East Antrim,2023,4,2023 Q4,483.0,176220.7528
+Mid and East Antrim,2024,1,2024 Q1,379.0,175109.67539999998
+Mid and East Antrim,2024,2,2024 Q2,448.0,183382.0776
+Mid and East Antrim,2024,3,2024 Q3,499.0,189191.943
+Mid and East Antrim,2024,4,2024 Q4,542.0,192573.6074
+Mid and East Antrim,2025,1,2025 Q1,470.0,196867.324
+Mid and East Antrim,2025,2,2025 Q2,379.0,192989.7984
+Mid and East Antrim,2025,3,2025 Q3,458.0,196998.6582
+"Newry, Mourne and Down",2010,1,2010 Q1,170.0,153801.5658
+"Newry, Mourne and Down",2010,2,2010 Q2,165.0,156976.3357
+"Newry, Mourne and Down",2010,3,2010 Q3,171.0,158795.8075
+"Newry, Mourne and Down",2010,4,2010 Q4,181.0,148242.4513
+"Newry, Mourne and Down",2011,1,2011 Q1,154.0,141004.794
+"Newry, Mourne and Down",2011,2,2011 Q2,180.0,136093.0112
+"Newry, Mourne and Down",2011,3,2011 Q3,205.0,134322.40120000002
+"Newry, Mourne and Down",2011,4,2011 Q4,216.0,135606.966
+"Newry, Mourne and Down",2012,1,2012 Q1,188.0,131842.191
+"Newry, Mourne and Down",2012,2,2012 Q2,225.0,126492.6712
+"Newry, Mourne and Down",2012,3,2012 Q3,228.0,129238.1166
+"Newry, Mourne and Down",2012,4,2012 Q4,279.0,124247.4336
+"Newry, Mourne and Down",2013,1,2013 Q1,232.0,111375.978
+"Newry, Mourne and Down",2013,2,2013 Q2,261.0,112267.4488
+"Newry, Mourne and Down",2013,3,2013 Q3,290.0,114100.314
+"Newry, Mourne and Down",2013,4,2013 Q4,374.0,113459.136
+"Newry, Mourne and Down",2014,1,2014 Q1,311.0,125575.6998
+"Newry, Mourne and Down",2014,2,2014 Q2,373.0,129642.1742
+"Newry, Mourne and Down",2014,3,2014 Q3,402.0,137486.5875
+"Newry, Mourne and Down",2014,4,2014 Q4,458.0,136807.51989999998
+"Newry, Mourne and Down",2015,1,2015 Q1,366.0,144538.768
+"Newry, Mourne and Down",2015,2,2015 Q2,356.0,153992.97660000002
+"Newry, Mourne and Down",2015,3,2015 Q3,458.0,161543.767
+"Newry, Mourne and Down",2015,4,2015 Q4,482.0,162141.04160000003
+"Newry, Mourne and Down",2016,1,2016 Q1,438.0,149576.1687
+"Newry, Mourne and Down",2016,2,2016 Q2,347.0,150666.0432
+"Newry, Mourne and Down",2016,3,2016 Q3,425.0,143953.2414
+"Newry, Mourne and Down",2016,4,2016 Q4,466.0,139741.434
+"Newry, Mourne and Down",2017,1,2017 Q1,392.0,143634.1445
+"Newry, Mourne and Down",2017,2,2017 Q2,432.0,144602.42719999998
+"Newry, Mourne and Down",2017,3,2017 Q3,465.0,138455.2848
+"Newry, Mourne and Down",2017,4,2017 Q4,539.0,143600.867
+"Newry, Mourne and Down",2018,1,2018 Q1,460.0,149363.56
+"Newry, Mourne and Down",2018,2,2018 Q2,502.0,146244.9198
+"Newry, Mourne and Down",2018,3,2018 Q3,536.0,149800.6069
+"Newry, Mourne and Down",2018,4,2018 Q4,505.0,152392.9
+"Newry, Mourne and Down",2019,1,2019 Q1,379.0,153184.4688
+"Newry, Mourne and Down",2019,2,2019 Q2,482.0,157995.2016
+"Newry, Mourne and Down",2019,3,2019 Q3,478.0,155175.0304
+"Newry, Mourne and Down",2019,4,2019 Q4,515.0,162232.6808
+"Newry, Mourne and Down",2020,1,2020 Q1,410.0,160958.718
+"Newry, Mourne and Down",2020,2,2020 Q2,145.0,156444.5484
+"Newry, Mourne and Down",2020,3,2020 Q3,373.0,160407.1722
+"Newry, Mourne and Down",2020,4,2020 Q4,638.0,165082.74639999997
+"Newry, Mourne and Down",2021,1,2021 Q1,487.0,170230.585
+"Newry, Mourne and Down",2021,2,2021 Q2,506.0,180549.5454
+"Newry, Mourne and Down",2021,3,2021 Q3,593.0,190711.7757
+"Newry, Mourne and Down",2021,4,2021 Q4,505.0,191765.7685
+"Newry, Mourne and Down",2022,1,2022 Q1,433.0,200366.971
+"Newry, Mourne and Down",2022,2,2022 Q2,449.0,204314.188
+"Newry, Mourne and Down",2022,3,2022 Q3,449.0,212824.4544
+"Newry, Mourne and Down",2022,4,2022 Q4,546.0,203241.168
+"Newry, Mourne and Down",2023,1,2023 Q1,345.0,196498.9425
+"Newry, Mourne and Down",2023,2,2023 Q2,399.0,204135.3307
+"Newry, Mourne and Down",2023,3,2023 Q3,410.0,214524.153
+"Newry, Mourne and Down",2023,4,2023 Q4,438.0,209725.3545
+"Newry, Mourne and Down",2024,1,2024 Q1,341.0,208981.6344
+"Newry, Mourne and Down",2024,2,2024 Q2,374.0,224961.153
+"Newry, Mourne and Down",2024,3,2024 Q3,501.0,226415.385
+"Newry, Mourne and Down",2024,4,2024 Q4,528.0,233722.7588
+"Newry, Mourne and Down",2025,1,2025 Q1,457.0,234287.8615
+"Newry, Mourne and Down",2025,2,2025 Q2,312.0,229226.9056
+"Newry, Mourne and Down",2025,3,2025 Q3,443.0,238713.1434
