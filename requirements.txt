@@ -1,4 +1,4 @@
-geopandas==1.1.1
-pandas==3.0.2
-plotly==6.5.0
-streamlit==1.52.2
+geopandas
+pandas
+plotly
+streamlit
